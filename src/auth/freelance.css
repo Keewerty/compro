@@ -1,0 +1,1381 @@
+.freelance{
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.logobc {
+    background: url(../assets/logo.png) !important;
+    height: 11vh !important;
+    width: 8vw !important;
+    margin-bottom: -11px!important;
+    margin-left: 6vw !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: contain !important;
+  }
+  
+  .nav {
+    color: #4e4e4e !important;
+    font-weight: 700 !important;
+    pointer-events: fill !important;
+    margin-right: 3vw !important;
+  }
+  
+  .nav:hover {
+    color: #e08e13;
+    font-weight: 700;
+    pointer-events: fill !important;
+  }
+  
+  .login {
+    background-color: #e08e13 !important;
+    color: #fff !important;
+    position: relative !important;
+    margin-right: 2vw !important;
+    text-transform: initial !important;
+    border-radius: 30px !important;
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    border: none !important;
+    min-height: 2rem !important;
+    padding: 1vh 2vw !important;
+    cursor: pointer !important;
+    user-select: none !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+    line-height: 1em !important;
+    text-decoration-line: none !important;
+  }
+  
+  .btnw:hover {
+    background-color: #000 !important;
+  }
+  
+  .navbar {
+    box-shadow: -3px -1px 12px #00000047,0 -2px 2px #00000024,-1px -5px 5px #0000001f !important;
+    display: flex !important;
+    height: 13vh !important;
+    width: 100% !important;
+    position: fixed !important;
+    background-color: #fff !important;
+    z-index: 999999 !important;
+    color: #4e4e4e !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    height: -moz-fit-content !important;
+    height: fit-content !important;
+  }
+
+
+
+.iphonebitcoin2 {
+    background: url(../assets/icon.jpg) !important;
+    width: 50% !important;
+    height: 66% !important;
+    position: absolute !important;
+    background-repeat: no-repeat !important;
+    margin-left: 0% !important;
+    margin-top: 0% !important;
+    background-size: 67% !important;
+}
+
+
+
+.explore-task {
+    font-size: 1.3vw !important;
+    color: #082032 !important;
+    margin-left: 6vw !important;
+    margin-top: 4vh !important;
+}
+
+.explore-button {
+    width: 15vw !important;
+    height: 7vh !important;
+    margin-top: 3vw !important;
+    border-radius: 3vw !important;
+    text-transform: initial !important;
+    margin-left: 6vw !important;
+    color: white !important;
+    background: linear-gradient(140.08deg,rgba(8,32,50,.9) -.63%,rgba(8,32,50,.9) 6.35%,rgba(63,0,113,.9) 168.65%) !important;
+    padding-left: 0.75rem !important;
+    padding-right: 0.75rem !important;
+    min-height: 2rem !important;
+    font-size: 0.875rem !important;
+    user-select: none !important;
+    flex-wrap: wrap !important;
+    align-items: center !important;
+    justify-content: center !important;
+    display: inline-flex !important;
+    cursor: pointer !important;
+    text-align: center !important;
+    line-height: 1em !important;
+    font-weight: 600 !important;
+    text-decoration-line: none !important;
+}
+
+.left-freelance {
+  margin-left: 11% !important;
+  font-size: 24px !important;
+  height: 12vh !important;
+}
+.explore-titel {
+    font-size: 4vw !important;
+    color: #000 !important;
+    margin-left: 6vw !important;
+    font-family: 'pm' !important;
+}
+
+.Benefits {
+    margin-left: 6vw !important;
+    margin-top: 12vh !important;
+    font-family: 'pm' !important;
+    font-size: 3vw !important;
+    color: #082032 !important;
+}
+
+.Benefits-cardf {
+  width: 27vw !important;
+  height: 44vh !important;
+  z-index: 4 !important;
+  background-color: #c7c6c6 !important;
+  text-transform: initial !important;
+  -webkit-backdrop-filter: blur(10px) !important;
+  backdrop-filter: blur(10px) !important;
+  border-radius: 1vw !important;
+  margin-top: 26vh !important;
+  margin-left: 10% !important;
+}
+
+.Benefits-titelf {
+    font-family: 'pm' !important;
+    font-weight: bold;
+    color: #082032 !important;
+    font-size: 24px !important;
+    text-align: center !important;
+    margin-top: 9vh !important;
+}
+
+.Benefits-task {
+    font-family: 'pm' !important;
+    color: #082032 !important;
+    font-size: 1vw !important;
+    text-align: center !important;
+    margin-top: 2vh !important;
+}
+
+.Benefits-bgf {
+    background:rgba(8, 32, 50, 0.90) !important;
+    border-radius: 20px !important;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) !important;
+    width: 150px !important;
+    height: 150px !important;
+    position: absolute !important;
+    margin-left: 20% !important;
+    margin-top: -30% !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.img1f {
+    width: 120px !important;
+    height: auto !important;
+}
+.kotaktiga{
+  display:flex; 
+  justify-content:center; 
+  align-items:center; 
+  gap:4vw;
+}
+
+.Available {
+    margin-top: 10vh !important;
+    font-family: 'pm' !important;
+    font-size: 3vw !important;
+    color: #392863 !important;
+    text-align: center !important;
+   text-shadow:  0px 4px 5px rgba(0,0,0,.25);
+}
+
+.AP1-pict {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAcCAYAAAATFf3WAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAWYSURBVHgB1ZcLTFNXGMf/t7QUEOgCQXk7ZGwmChizqUM3lSEadY5RxPFy6ECHWB9kIDod0ynZCyUZy7bgaxtjiqGiUYTNF6KAoEZmlBBFFgoTKE2phVJK27t7T6FdpS0zcZH9k+Z+3znfPed3v3POd2+BcS5qxJg4ceLrQqEwKyQk5GVHR0ce/ksp60ErLuAJEJpD0b1nrmo6q24N7Ozq6roz3A5ERkZm5+Tk7AsLC+PgqUQDQ1JgsB3Q9jL+EPNjhqDsmQufuXKZH/usehJHq1sZuAag74bNUStq1bq9h1Xbam5K8igvL6/48vLyX2bMmMHMpwUtPQ703wJ0fQDfB5RTKOAYAPA8mXkGgYFm0P2NzETXmUm7h8Geva41arByu3whVyQSJRjgNKCb32MAHpqilGyOxHgemhtqj4QlTikcZ2fnBWwD3XXYHG4caIqPXSSXpmkn4imu2gz++Td79Lu+j4dNF7E7/gEc+ZTV2NPVWrTRiejr7UDq/Cq4CziQP6bxbWUo3HxmgdtzEOtWYEwNDNIeXKPHbnYrOnLOAYuSTsDPzw/d3StReGAeNsU6WYyVKfTg+GyCSLiO+EX730LCQhlOVqnx0a4fwFQItLYuQ+FP0UhdQWMsmU4t39diwNEKExyrhoYG3G/TwprKatzwZsQqYkskEogrW4k9dTIXd+/eJXZAQAAWrRaj6LwT/j0gz31UJ5u5iEQTXE1NDXZmb0Bm0gSLg7V36+A5PQ0CgYD4eXl5iI+0J3ZYCA/ffZmEe/fuGSHnRP04JqQJ8IkD8s9lZVVXV4f09XE4vs8F/pPsLA52otoNy96OJXZbWxtqq0ohDHcw9hdm8/FVjhAtLS3EDwoKGhOSANLyc4D6gRlcRGKJGVzKmlUELsiPa3EgSZcOviHpoCjD4cnNzcWONc5mMWzXoe187Niy1AwydPH3ViENGXxcZ2xg9xwL5+/vT3x2WVk48RfW4Viduu6J2FhD9urr6yFprsCKN/ij4ljIX3c7Ym/2cuNyM69XAnnq2gQrgDCdJkFgihFOJpPhw9SEMeHuS3TwCU4z+uzey0y0vmwjmdy/Jw5SqdQI2UlFQanSWwI06dGfdVCpVMR2d3eHKC0ZjvbWax6r2ofBiI6OJnZZWRleQAPmz7S3eU+HVMec9gR4eHgQX6lU4mzFFajUsADIMS3FHL9a7MnJNEKmbsxBRUsM2pk9ZknVt4cQNGuj0S8oKIAo1vbJbOvU4ZIkCatTsogvl8uRkZGB2S82YZIbxwKgncDYMHMqD8unXTaHTLcO2awIB/MVROySkhIEe7di2hSuTbiqDhOcWq1GVlYWvHiX8PFa51HxBkCuwKxxbqgBMvez7TYhLzRoEPFOBrG1Wi3y8/djS5yTTbgrf5nDMR8rBG53qrPFe4Yz6DKqg4Vc8sp5Asm8r0lbyoZPcKY5Coo+w0a+0RlOCi6r0tJSzH5JCn9PyzWSLUMsXNIHWcYHYuE8KOtwJkCOg8XOEcitm9MJJFvjhHEiHDo9gNo7Q1i0bA2J6+npwdGD+ciIt569yjoNYuJFRrjk5GSSuX1p1uFMgHqV1QAWUjizCptFG9De3g6xWIxOmZ7ss8ryUlIm2IPxGpM9XytvGFbTA7koLi4m8QSOX2szcyNid7MWqiauraB5DCSFK0iKOQuXCRQKMl3hylwDHcR4d2kRJjPLmrfFxeZEc6bzUFH4ORYf+BRRC/nYtdZ2PCsOhxqivsnb9kf64sZgaB5hvOnrIlU151jxsRMyaQfGm9hDdfmm+ohd/6DdbY3ObimzBJ72PArjQXKlHlvzlZdP/t6WQYjc3Nx8F7zqujMmnL8+mNnMAuen/Pf5jKTR0qisHVRfb9IUnLrYm6tQKORmKfP29vbT6/WBeH6imeLd2MsI/xf9DdrORfPDRlHjAAAAAElFTkSuQmCC) !important;
+    width: 3vw !important;
+    height: 4vh !important;
+    background-repeat: no-repeat !important;
+    margin: 2vw
+}
+
+.AP1-title {
+    font-family: 'pm' !important;
+    font-style: normal !important;
+    font-weight: 600 !important;
+    font-size: 20px !important;
+    line-height: 20px !important;
+    color: #000 !important;
+    margin: 2vw !important;
+}
+
+.AP1-subtitle {
+    font-family: 'pm'!important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    line-height: 22px !important;
+    color: #000 !important;
+    margin: -1vw 2vw 2vw !important;
+}
+
+.AP1-content {
+    font-family: 'pr' !important;
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 15px !important;
+    line-height: 22px !important;
+    text-align: justify !important;
+    color: #000 !important;
+    margin: -1vw 2vw 2vw !important;
+}
+
+.footer {
+  display: flex !important;
+  width: 100% !important;
+  grid-auto-flow: row !important;
+  place-items: start !important;
+  row-gap: 2.5rem !important;
+  -moz-column-gap: 1rem !important;
+  column-gap: 1rem !important;
+  font-size: .875rem !important;
+  line-height: 1.25rem !important;
+  background-color: #2b2b2b21 !important;
+  box-shadow: 0 3px 8px #0000001a !important;
+  display: flex !important;
+  padding-top: 3vh !important;
+  padding-bottom: 3vh !important;
+}
+  
+  .slide {
+    background-color: white !important;
+    color: #545454 !important;
+    border: 1px solid #000000 !important;
+  }
+  
+  .company {
+    color: #545454 !important;
+    width: 33.3% !important;
+  }
+  
+  .company-title {
+    color: #545454 !important;
+    font-weight: 700 !important;
+    font-size: large !important;
+    text-align: center !important;
+  }
+  
+  .link {
+    text-decoration: underline !important;
+    margin-bottom: 1vw !important;
+    cursor: pointer !important;
+    font-weight: 400 !important;
+    font-size: 12px !important;
+  }
+  
+  .address {
+    color: #545454 !important;
+    font-size: 12px !important;
+    font-weight: 400 !important;
+}
+  
+  .sosmed {
+    width: 33.3% !important;
+    justify-content: center !important;
+    display: flex !important;
+  }
+  
+  .sosmed-title {
+    color: #545454 !important;
+    font-weight: 700 !important;
+    font-size: large !important;
+    text-align: center !important;
+  }
+  
+  .icon {
+    display: flex !important;
+    text-align: center !important;
+    justify-content: center !important;
+    padding-top: 2.5vw !important;
+    cursor: pointer !important;
+  }
+  
+  .mg-svg {
+    margin: 10px !important;
+  }
+  
+  .copyright {
+    color: #545454 !important;
+    padding-top: 2vw !important;
+    font-size: 15px !important;
+  }
+  
+  .contact {
+    display: flex !important;
+    width: 33.3% !important;
+    text-align: center !important;
+  }
+  
+  .contact-title {
+    color: #545454 !important;
+    font-weight: 700 !important;
+    font-size: large !important;
+    text-align: center !important;
+    padding-left: 12vw !important;
+  }
+  
+  .button {
+    padding-left: 12.5vw !important;
+    padding-top: 6vh !important;
+  }
+
+  .lok {
+    color: #fff !important;
+    text-align: center !important;
+    text-transform: initial !important;
+    background: rgb(57,40,99) !important;
+    width: 170px !important;
+    margin-top: 1vh !important;
+    border-radius: 30px !important;
+    font-size: 12px !important;
+}
+
+.wa {
+  background: rgb(247,195,60) !important;
+  text-transform: initial !important;
+  border-radius: 30px !important;
+  font-size: 12px !important;
+  color: #000 !important;
+  width: 170px !important;
+  font-weight: 500;
+}
+
+.cerd{
+  width: 275px !important;
+  height: 55vh !important;
+  background: white !important;
+  border-radius: 10px !important;
+  border: 1px solid #E9E0E0 !important;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) !important;
+  margin-bottom: 10vh !important;
+  text-align: justify !important;
+}
+
+
+@media screen and (max-width: 1200px) {
+  .iphonebitcoin2 {
+    background: url(/src/assets/icon.jpg) !important;
+    width: 50% !important;
+    height: 69% !important;
+    position: absolute !important;
+    background-repeat: no-repeat !important;
+    margin-left: 0% !important;
+    margin-top: 4% !important;
+    background-size: 80% !important;
+}
+  .explore-task {
+    font-size: 24px !important;
+    color: #082032 !important;
+    margin-left: 6vw !important;
+    margin-top: 4vh !important;
+}
+.Benefits {
+  margin-left: 6vw !important;
+  margin-top: 12vh !important;
+  font-family: 'pm' !important;
+  font-size: 43px !important;
+  color: #082032 !important;
+  text-align: center !important;
+}
+}
+
+@media screen and (max-width: 1150px) {
+  .iphonebitcoin2 {
+    background: url(/src/assets/icon.jpg) !important;
+    width: 50% !important;
+    height: 69% !important;
+    position: absolute !important;
+    background-repeat: no-repeat !important;
+    margin-left: 0% !important;
+    margin-top: 4% !important;
+    background-size: 84% !important;
+}
+
+.Benefits-bgf {
+    margin-left: 15% !important;
+    margin-top: -38% !important;
+}
+.Benefits-task {
+  font-family: 'pm' !important;
+  color: #082032 !important;
+  font-size: 14px !important;
+}
+.Benefits {
+  margin-left: 6vw !important;
+  margin-top: 12vh !important;
+  font-family: 'pm' !important;
+  font-size: 43px !important;
+  color: #082032 !important;
+  text-align: center !important;
+}
+.Benefits-titelf {
+  margin-top: 8vh !important;
+  height: 2vh !important;
+}
+.explore-task {
+  font-size: 24px !important;
+  color: #082032 !important;
+  margin-left: 6vw !important;
+  margin-top: 4vh !important;
+}
+}
+
+@media screen and (max-width: 1100px) {
+  .iphonebitcoin2 {
+    background: url(/src/assets/icon.jpg) !important;
+    width: 50% !important;
+    height: 66% !important;
+    position: absolute !important;
+    background-repeat: no-repeat !important;
+    margin-left: 0% !important;
+    margin-top: 11% !important;
+    background-size: 84% !important;
+}
+
+  .Benefits-bgf {
+      margin-left: 12% !important;
+      margin-top: -38% !important;
+  }
+  .Benefits-task {
+    font-family: 'pm' !important;
+    color: #082032 !important;
+    font-size: 14px !important;
+  }
+  .Benefits-titelf {
+    font-family: 'pm' !important;
+    font-weight: bold;
+    color: #082032 !important;
+    font-size: 20px !important;
+    text-align: center !important;
+    margin-top: 8vh !important;
+    height: 2vh !important;
+}
+.Benefits {
+  margin-left: 6vw !important;
+  margin-top: 12vh !important;
+  font-family: 'pm' !important;
+  font-size: 43px !important;
+  color: #082032 !important;
+  text-align: center !important;
+}
+.explore-task {
+  font-size: 24px !important;
+  color: #082032 !important;
+  margin-left: 6vw !important;
+  margin-top: 4vh !important;
+}
+.AP1-pict {
+  background: url(data:image/png;base64,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) !important;
+  width: 3.8vw !important;
+}
+  }
+
+  
+@media screen and (max-width: 1030px) {
+  .iphonebitcoin2 {
+    background: url(/src/assets/icon.jpg) !important;
+    width: 50% !important;
+    height: 66% !important;
+    position: absolute !important;
+    background-repeat: no-repeat !important;
+    margin-left: 0% !important;
+    margin-top: 11% !important;
+    background-size: 84% !important;
+}
+.Benefits {
+  margin-left: 6vw !important;
+  margin-top: 12vh !important;
+  font-family: 'pm' !important;
+  font-size: 43px !important;
+  color: #082032 !important;
+  text-align: center !important;
+}
+
+  .Benefits-bgf {
+      margin-left: 12% !important;
+      margin-top: -38% !important;
+  }
+  .Benefits-task {
+    font-family: 'pm' !important;
+    color: #082032 !important;
+    font-size: 14px !important;
+  }
+  .Benefits-titelf {
+    font-family: 'pm' !important;
+    font-weight: bold;
+    color: #082032 !important;
+    font-size: 19px !important;
+    text-align: center !important;
+    margin-top: 8vh !important;
+    height: 2vh !important;
+}
+
+.explore-task {
+  font-size: 24px !important;
+  color: #082032 !important;
+  margin-left: 6vw !important;
+  margin-top: 4vh !important;
+}
+.AP1-pict {
+  background: url(data:image/png;base64,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) !important;
+  width: 4vw !important;
+}
+  }
+  @media screen and (max-width: 1000px) {
+
+    .Benefits-bgf {
+        margin-left: 12% !important;
+        margin-top: -44% !important;
+    }
+    .Benefits-task {
+      font-family: 'pr' !important;
+      color: #082032 !important;
+      font-size: 14px !important;
+    }
+    .Benefits-titelf {
+      font-family: 'pm' !important;
+      font-weight: bold;
+      color: #082032 !important;
+      font-size: 18px !important;
+      text-align: center !important;
+      margin-top: 8vh !important;
+      height: 2vh !important;
+  }
+  .Available {
+    margin-top: 10vh !important;
+    font-family: 'pm' !important;
+    font-size: 37px !important;
+    color: #392863 !important;
+    text-align: center !important;
+    text-shadow: 0px 4px 5px rgba(0,0,0,.25);
+}
+.Benefits {
+  margin-left: 6vw !important;
+  margin-top: 12vh !important;
+  font-family: 'pm' !important;
+  font-size: 43px !important;
+  color: #082032 !important;
+  text-align: center !important;
+}
+    }
+
+    @media screen and (max-width: 950px) {
+      .iphonebitcoin2 {
+        background: url(/src/assets/icon.jpg) !important;
+        width: 50% !important;
+        height: 66% !important;
+        position: absolute !important;
+        background-repeat: no-repeat !important;
+        margin-left: 0% !important;
+        margin-top: 11% !important;
+        background-size: 78% !important;
+    }
+    .Benefits {
+      margin-left: 6vw !important;
+      margin-top: 12vh !important;
+      font-family: 'pm' !important;
+      font-size: 43px !important;
+      color: #082032 !important;
+      text-align: center !important;
+  }
+  .Available {
+    margin-top: 10vh !important;
+    font-family: 'pm' !important;
+    font-size: 37px !important;
+    color: #392863 !important;
+    text-align: center !important;
+    text-shadow: 0px 4px 5px rgba(0,0,0,.25);
+}
+
+      .Benefits-bgf {
+        margin-left: 10% !important;
+        margin-top: -48% !important;
+      }
+      .Benefits-task {
+        font-family: 'pr' !important;
+        color: #082032 !important;
+        font-size: 14px !important;
+      }
+      .Benefits-titelf {
+        font-family: 'pm' !important;
+        font-weight: bold;
+        color: #082032 !important;
+        font-size: 17px !important;
+        text-align: center !important;
+        margin-top: 8vh !important;
+        height: 2vh !important;
+    }
+      }
+
+
+      @media screen and (max-width: 910px) {
+        .iphonebitcoin2 {
+          background: url(/src/assets/icon.jpg) !important;
+          width: 50% !important;
+          height: 66% !important;
+          position: absolute !important;
+          background-repeat: no-repeat !important;
+          margin-left: 0% !important;
+          margin-top: 11% !important;
+          background-size: 78% !important;
+      }
+        .kotaktiga{
+         display: inline !important;
+        }
+        .Benefits-cardf {
+          width: 81vw !important;
+          height: 44vh !important;
+        }
+
+        .Benefits-bgf {
+          margin-left: 37% !important;
+          margin-top: -16% !important;
+        }
+        .Benefits-task {
+          font-family: 'pr' !important;
+          color: #082032 !important;
+          font-size: 22px !important;
+      }
+      .Benefits-titelf {
+        font-family: 'pm' !important;
+        font-weight: bold;
+        color: #082032 !important;
+        font-size: 33px !important;
+        text-align: center !important;
+        margin-top: 8vh !important;
+        height: 5vh !important;
+    }
+    .Available {
+      margin-top: 10vh !important;
+      font-family: 'pm' !important;
+      font-size: 35px !important;
+    }
+    .Benefits {
+      margin-left: 6vw !important;
+      margin-top: 12vh !important;
+      font-family: 'pm' !important;
+      font-size: 43px !important;
+      color: #082032 !important;
+      text-align: center !important;
+  }
+        }
+
+        @media screen and (max-width: 850px) {
+          .iphonebitcoin2 {
+            background: url(/src/assets/icon.jpg) !important;
+            width: 50% !important;
+            height: 66% !important;
+            position: absolute !important;
+            background-repeat: no-repeat !important;
+            margin-left: 0% !important;
+            margin-top: 11% !important;
+            background-size: 78% !important;
+        }
+          .kotaktiga{
+           display: inline !important;
+          }
+          .Benefits-cardf {
+            width: 81vw !important;
+            height: 44vh !important;
+          }
+          .Benefits {
+            margin-left: 6vw !important;
+            margin-top: 12vh !important;
+            font-family: 'pm' !important;
+            font-size: 43px !important;
+            color: #082032 !important;
+            text-align: center !important;
+        }
+  
+          .Benefits-bgf {
+            margin-left: 34% !important;
+            margin-top: -18% !important;
+          }
+          .Benefits-task {
+            font-family: 'pr' !important;
+            color: #082032 !important;
+            font-size: 22px !important;
+        }
+        .Benefits-titelf {
+          font-family: 'pm' !important;
+          font-weight: bold;
+          color: #082032 !important;
+          font-size: 33px !important;
+          text-align: center !important;
+          margin-top: 8vh !important;
+          height: 5vh !important;
+      }
+      .Available {
+        margin-top: 10vh !important;
+        font-family: 'pm' !important;
+        font-size: 35px !important;
+      }
+          }
+
+          @media screen and (max-width: 800px) {
+            .iphonebitcoin2 {
+              background: url(/src/assets/icon.jpg) !important;
+              width: 50% !important;
+              height: 66% !important;
+              position: absolute !important;
+              background-repeat: no-repeat !important;
+              margin-left: 0% !important;
+              margin-top: 11% !important;
+              background-size: 78% !important;
+          }
+            .kotaktiga{
+             display: inline !important;
+            }
+            .Benefits-cardf {
+              width: 81vw !important;
+              height: 44vh !important;
+            }
+            .Benefits {
+              margin-left: 6vw !important;
+              margin-top: 12vh !important;
+              font-family: 'pm' !important;
+              font-size: 43px !important;
+              color: #082032 !important;
+              text-align: center !important;
+          }
+    
+            .Benefits-bgf {
+              margin-left: 34% !important;
+              margin-top: -20% !important;
+            }
+            .Benefits-task {
+              font-family: 'pr' !important;
+              color: #082032 !important;
+              font-size: 22px !important;
+          }
+          .Benefits-titelf {
+            font-family: 'pm' !important;
+            font-weight: bold;
+            color: #082032 !important;
+            font-size: 33px !important;
+            text-align: center !important;
+            margin-top: 8vh !important;
+            height: 5vh !important;
+        }
+        .Available {
+          margin-top: 10vh !important;
+          font-family: 'pm' !important;
+          font-size: 35px !important;
+        }
+            }
+              @media screen and (max-width: 750px) {
+                .left-freelance{
+                  display: none !important;
+                }
+                .iphonebitcoin2 {
+                  background: url(/src/assets/icon.jpg) !important;
+                  width: 50% !important;
+                  height: 66% !important;
+                  position: absolute !important;
+                  background-repeat: no-repeat !important;
+                  margin-left: 0% !important;
+                  margin-top: 11% !important;
+                  background-size: 78% !important;
+                }
+          .iphonebitcoin2 {
+            background: url(/src/assets/icon.jpg) !important;
+            width: 50% !important;
+            height: 66% !important;
+            position: absolute !important;
+            background-repeat: no-repeat !important;
+            margin-left: 0% !important;
+            margin-top: 11% !important;
+            background-size: 78% !important;
+        }
+          .kotaktiga{
+           display: inline !important;
+          }
+          .Benefits-cardf {
+            width: 81vw !important;
+            height: 44vh !important;
+          }
+          .Benefits {
+            margin-left: 6vw !important;
+            margin-top: 12vh !important;
+            font-family: 'pm' !important;
+            font-size: 43px !important;
+            color: #082032 !important;
+            text-align: center !important;
+        }
+  
+          .Benefits-bgf {
+            margin-left: 34% !important;
+            margin-top: -21% !important;
+          }
+          .Benefits-task {
+            font-family: 'pr' !important;
+            color: #082032 !important;
+            font-size: 22px !important;
+        }
+        .Benefits-titelf {
+          font-family: 'pm' !important;
+          font-weight: bold;
+          color: #082032 !important;
+          font-size: 33px !important;
+          text-align: center !important;
+          margin-top: 8vh !important;
+          height: 5vh !important;
+      }
+      .Available {
+        margin-top: 10vh !important;
+        font-family: 'pm' !important;
+        font-size: 35px !important;
+      }
+          }
+
+          @media screen and (max-width: 700px) {
+             .left-freelance{
+                  display: none !important;
+                }
+            .iphonebitcoin2 {
+              background: url(/src/assets/icon.jpg) !important;
+              width: 50% !important;
+              height: 66% !important;
+              position: absolute !important;
+              background-repeat: no-repeat !important;
+              margin-left: 0% !important;
+              margin-top: 11% !important;
+              background-size: 78% !important;
+            }
+            .iphonebitcoin2 {
+              background: url(/src/assets/icon.jpg) !important;
+              width: 50% !important;
+              height: 66% !important;
+              position: absolute !important;
+              background-repeat: no-repeat !important;
+              margin-left: 0% !important;
+              margin-top: 11% !important;
+              background-size: 78% !important;
+          }
+            .kotaktiga{
+             display: inline !important;
+            }
+            .Benefits-cardf {
+              width: 81vw !important;
+              height: 44vh !important;
+            }
+            .Benefits {
+              margin-left: 6vw !important;
+              margin-top: 12vh !important;
+              font-family: 'pm' !important;
+              font-size: 43px !important;
+              color: #082032 !important;
+              text-align: center !important;
+          }
+    
+            .Benefits-bgf {
+              margin-left: 34% !important;
+              margin-top: -21% !important;
+            }
+            .Benefits-task {
+              font-family: 'pr' !important;
+              color: #082032 !important;
+              font-size: 22px !important;
+          }
+          .Benefits-titelf {
+            font-family: 'pm' !important;
+            font-weight: bold;
+            color: #082032 !important;
+            font-size: 33px !important;
+            text-align: center !important;
+            margin-top: 8vh !important;
+            height: 5vh !important;
+        }
+        .Available {
+          margin-top: 10vh !important;
+          font-family: 'pm' !important;
+          font-size: 35px !important;
+        }
+            }
+
+
+            @media screen and (max-width: 650px) {
+              .explore-titel {
+                font-size: 35px !important;
+                color: #000 !important;
+                margin-left: 6vw !important;
+                font-family: 'pm' !important;
+            }
+              .comprT{
+                width: 90% !important;
+              }
+              .freelance {
+                width: 100% !important;
+                height: 100% !important;
+                padding-top: 67vw !important;
+            }
+               .titlepic{
+                  display: inline !important;
+                }
+              .left-freelance{
+                display: none !important;
+              }
+              .iphonebitcoin2 {
+                background: url(/src/assets/icon.jpg) !important;
+                width: 55% !important;
+                height: 66% !important;
+                position: absolute !important;
+                background-repeat: no-repeat !important;
+                margin-left: 24% !important;
+                margin-top: -102vw !important;
+                background-size: 52vw !important;
+            }
+            .explore-button {
+              width: 21vw !important;
+              height: 8vh !important;
+              font-size: 18px !important;
+            }
+              
+              .kotaktiga{
+               display: inline !important;
+              }
+              .Benefits-cardf {
+                width: 81vw !important;
+                height: 53vh !important;
+              }
+              .Benefits {
+                margin-left: 6vw !important;
+                margin-top: 12vh !important;
+                font-family: 'pm' !important;
+                font-size: 43px !important;
+                color: #082032 !important;
+                text-align: center !important;
+            }
+      
+              .Benefits-bgf {
+                margin-left: 31% !important;
+                margin-top: -25% !important;
+              }
+              .Benefits-task {
+                font-family: 'pr' !important;
+                color: #082032 !important;
+                font-size: 22px !important;
+            }
+            .Benefits-titelf {
+              font-family: 'pm' !important;
+              font-weight: bold;
+              color: #082032 !important;
+              font-size: 33px !important;
+              text-align: center !important;
+              margin-top: 8vh !important;
+              height: 5vh !important;
+          }
+          .Available {
+            margin-top: 10vh !important;
+            font-family: 'pm' !important;
+            font-size: 35px !important;
+          }
+              }
+
+              @media screen and (max-width: 600px) {
+                .explore-titel {
+                  font-size: 35px !important;
+                  color: #000 !important;
+                  margin-left: 6vw !important;
+                  font-family: 'pm' !important;
+              }
+                .comprT{
+                  width: 90% !important;
+                }
+                .freelance {
+                  width: 100% !important;
+                  height: 100% !important;
+                  padding-top: 67vw !important;
+              }
+                 .titlepic{
+                    display: inline !important;
+                  }
+                .left-freelance{
+                  display: none !important;
+                }
+                .iphonebitcoin2 {
+                  background: url(/src/assets/icon.jpg) !important;
+                  width: 55% !important;
+                  height: 66% !important;
+                  position: absolute !important;
+                  background-repeat: no-repeat !important;
+                  margin-left: 24% !important;
+                  margin-top: -120vw !important;
+                  background-size: 52vw !important;
+              }
+              .explore-button {
+                width: 25vw !important;
+                height: 8vh !important;
+                font-size: 18px !important;
+              }
+                
+                .kotaktiga{
+                 display: inline !important;
+                }
+                .Benefits-cardf {
+                  width: 81vw !important;
+                  height: 53vh !important;
+                }
+                .Benefits {
+                  margin-left: 6vw !important;
+                  margin-top: 12vh !important;
+                  font-family: 'pm' !important;
+                  font-size: 43px !important;
+                  color: #082032 !important;
+                  text-align: center !important;
+              }
+        
+                .Benefits-bgf {
+                  margin-left: 31% !important;
+                  margin-top: -25% !important;
+                }
+                .Benefits-task {
+                  font-family: 'pr' !important;
+                  color: #082032 !important;
+                  font-size: 22px !important;
+              }
+              .Benefits-titelf {
+                font-family: 'pm' !important;
+                font-weight: bold;
+                color: #082032 !important;
+                font-size: 33px !important;
+                text-align: center !important;
+                margin-top: 8vh !important;
+                height: 5vh !important;
+            }
+            .Available {
+              margin-top: 10vh !important;
+              font-family: 'pm' !important;
+              font-size: 35px !important;
+            }
+                }
+                @media screen and (max-width: 550px) {
+                  .explore-titel {
+                    font-size: 35px !important;
+                    color: #000 !important;
+                    margin-left: 6vw !important;
+                    font-family: 'pm' !important;
+                }
+                  .comprT{
+                    width: 90% !important;
+                  }
+                  .freelance {
+                    width: 100% !important;
+                    height: 100% !important;
+                    padding-top: 67vw !important;
+                }
+                   .titlepic{
+                      display: inline !important;
+                    }
+                  .left-freelance{
+                    display: none !important;
+                  }
+                  .iphonebitcoin2 {
+                    background: url(/src/assets/icon.jpg) !important;
+                    width: 55% !important;
+                    height: 66% !important;
+                    position: absolute !important;
+                    background-repeat: no-repeat !important;
+                    margin-left: 24% !important;
+                    margin-top: -130vw !important;
+                    background-size: 52vw !important;
+                }
+                .explore-button {
+                  width: 25vw !important;
+                  height: 8vh !important;
+                  font-size: 18px !important;
+                }
+                  
+                  .kotaktiga{
+                   display: inline !important;
+                  }
+                  .Benefits-cardf {
+                    width: 81vw !important;
+                    height: 53vh !important;
+                  }
+                  .Benefits {
+                    margin-left: 6vw !important;
+                    margin-top: 12vh !important;
+                    font-family: 'pm' !important;
+                    font-size: 43px !important;
+                    color: #082032 !important;
+                    text-align: center !important;
+                }
+          
+                  .Benefits-bgf {
+                    margin-left: 27% !important;
+                    margin-top: -25% !important;
+                  }
+                  .Benefits-task {
+                    font-family: 'pr' !important;
+                    color: #082032 !important;
+                    font-size: 22px !important;
+                }
+                .Benefits-titelf {
+                  font-family: 'pm' !important;
+                  font-weight: bold;
+                  color: #082032 !important;
+                  font-size: 33px !important;
+                  text-align: center !important;
+                  margin-top: 8vh !important;
+                  height: 5vh !important;
+              }
+              .Available {
+                margin-top: 10vh !important;
+                font-family: 'pm' !important;
+                font-size: 35px !important;
+              }
+                  }
+
+                  @media screen and (max-width: 500px) {
+                    .explore-titel {
+                      font-size: 32px !important;
+                      color: #000 !important;
+                      margin-left: 6vw !important;
+                      font-family: 'pm' !important;
+                  }
+                    .comprT{
+                      width: 90% !important;
+                    }
+                    .freelance {
+                      width: 100% !important;
+                      height: 100% !important;
+                      padding-top: 67vw !important;
+                  }
+                     .titlepic{
+                        display: inline !important;
+                      }
+                    .left-freelance{
+                      display: none !important;
+                    }
+                    .iphonebitcoin2 {
+                      background: url(/src/assets/icon.jpg) !important;
+                      width: 55% !important;
+                      height: 33% !important;
+                      position: absolute !important;
+                      background-repeat: no-repeat !important;
+                      margin-left: 24% !important;
+                      margin-top: -155vw !important;
+                      background-size: 52vw !important;
+                  }
+                  .explore-button {
+                    width: 32vw !important;
+                    height: 8vh !important;
+                    font-size: 18px !important;
+                  }
+                    
+                    .kotaktiga{
+                     display: inline !important;
+                    }
+                    .Benefits-cardf {
+                      width: 81vw !important;
+                      height: 53vh !important;
+                    }
+                    .Benefits {
+                      margin-left: 5vw !important;
+                      margin-top: 12vh !important;
+                      font-family: 'pm' !important;
+                      font-size: 33px !important;
+                      color: #082032 !important;
+                      text-align: center !important;
+                  }
+            
+                    .Benefits-bgf {
+                      margin-left: 21% !important;
+                      margin-top: -39% !important;
+                    }
+                    .Benefits-task {
+                      font-family: 'pr' !important;
+                      color: #082032 !important;
+                      font-size: 20px !important;
+                  }
+                  .Benefits-titelf {
+                    font-family: 'pm' !important;
+                    font-weight: bold;
+                    color: #082032 !important;
+                    font-size: 25px !important;
+                    text-align: center !important;
+                    margin-top: 6vh !important;
+                    height: 4vh !important;
+                }
+                 
+                .Available {
+                  margin-top: 10vh !important;
+                  font-family: 'pm' !important;
+                  font-size: 35px !important;
+                }
+                    }
+                    @media screen and (max-width: 410px) {
+                      .explore-titel {
+                        font-size: 32px !important;
+                        color: #000 !important;
+                        margin-left: 6vw !important;
+                        font-family: 'pm' !important;
+                    }
+                      .comprT{
+                        width: 90% !important;
+                      }
+                      .freelance {
+                        width: 100% !important;
+                        height: 100% !important;
+                        padding-top: 67vw !important;
+                    }
+                       .titlepic{
+                          display: inline !important;
+                        }
+                      .left-freelance{
+                        display: none !important;
+                      }
+                      .iphonebitcoin2 {
+                        background: url(/src/assets/icon.jpg) !important;
+                        width: 55% !important;
+                        height: 33% !important;
+                        position: absolute !important;
+                        background-repeat: no-repeat !important;
+                        margin-left: 24% !important;
+                        margin-top: -165vw !important;
+                        background-size: 52vw !important;
+                    }
+                    .explore-button {
+                      width: 32vw !important;
+                      height: 8vh !important;
+                      font-size: 18px !important;
+                    }
+                      
+                      .kotaktiga{
+                       display: inline !important;
+                      }
+                      .Benefits-cardf {
+                        width: 81vw !important;
+                        height: 53vh !important;
+                      }
+                      .Benefits {
+                        margin-left: 5vw !important;
+                        margin-top: 12vh !important;
+                        font-family: 'pm' !important;
+                        font-size: 33px !important;
+                        color: #082032 !important;
+                        text-align: center !important;
+                    }
+              
+                      .Benefits-bgf {
+                        margin-left: 21% !important;
+                        margin-top: -39% !important;
+                      }
+                      .Benefits-task {
+                        font-family: 'pr' !important;
+                        color: #082032 !important;
+                        font-size: 20px !important;
+                    }
+                    .Benefits-titelf {
+                      font-family: 'pm' !important;
+                      font-weight: bold;
+                      color: #082032 !important;
+                      font-size: 24px !important;
+                      text-align: center !important;
+                      margin-top: 6vh !important;
+                      height: 4vh !important;
+                  }
+                   
+                  .Available {
+                    margin-top: 10vh !important;
+                    font-family: 'pm' !important;
+                    font-size: 35px !important;
+                  }
+                      }
+                    @media screen and (max-width: 400px) {
+                      .explore-titel {
+                        font-size: 27px !important;
+                        color: #000 !important;
+                        margin-left: 6vw !important;
+                        font-family: 'pm' !important;
+                    }
+                      .comprT{
+                        width: 90% !important;
+                      }
+                      .freelance {
+                        width: 100% !important;
+                        height: 100% !important;
+                        padding-top: 91vw !important;
+                    }
+                       .titlepic{
+                          display: inline !important;
+                        }
+                      .left-freelance{
+                        display: none !important;
+                      }
+                      .iphonebitcoin2 {
+                        background: url(/src/assets/icon.jpg) !important;
+                        width: 68% !important;
+                        height: 38% !important;
+                        position: absolute !important;
+                        background-repeat: no-repeat !important;
+                        margin-left: 15% !important;
+                        margin-top: -189vw !important;
+                        background-size: 70vw !important;
+                    }
+                    .explore-button {
+                      width: 40vw !important;
+                      height: 8vh !important;
+                      font-size: 18px !important;
+                    }
+                      
+                      .kotaktiga{
+                       display: inline !important;
+                      }
+                      .Benefits-cardf {
+                        width: 81vw !important;
+                        height: 53vh !important;
+                      }
+                      .Benefits {
+                        margin-left: 5vw !important;
+                        margin-top: 12vh !important;
+                        font-family: 'pm' !important;
+                        font-size: 30px !important;
+                        color: #082032 !important;
+                        text-align: center !important;
+                    }
+              
+                      .Benefits-bgf {
+                        margin-left: 16% !important;
+                        margin-top: -43% !important;
+                      }
+                      .Benefits-task {
+                        font-family: 'pr' !important;
+                        color: #082032 !important;
+                        font-size: 20px !important;
+                    }
+                    .Benefits-titelf {
+                      font-family: 'pm' !important;
+                      font-weight: bold;
+                      color: #082032 !important;
+                      font-size: 21.8px !important;
+                      text-align: center !important;
+                      margin-top: 6vh !important;
+                      height: 3vh !important;
+                  }
+                   
+                  .Available {
+                    margin-top: 10vh !important;
+                    font-family: 'pm' !important;
+                    font-size: 35px !important;
+                  }
+                      }

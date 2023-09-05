@@ -1,0 +1,54 @@
+.latar{
+    background-color: #EEEEEE;
+    height: 130vh;
+}
+.pilih{
+    margin-left: 1%;
+    width: 13%;
+    margin-top: 12%;
+    height: 6vh;
+    border-radius: 4px;
+}
+.select{
+    height: 5vh;
+    border-radius: 5px;
+}
+.pilih1{
+    margin-left: 0%;  
+    margin-left: 0.5%;
+    width: 13%;
+    margin-top: 12%;
+    height: 6vh;   
+}
+.pilih2{
+    margin-left: 0.5%;
+    width: 27%;
+    margin-top: 12.3%;
+    border-radius: 5px;
+    border-color: rgba(169, 169, 169, 1);
+   
+}
+
+.gabungg{
+    background-color: antiquewhite;
+}
+.bks{
+    background-color: #ffffff;
+    width: 78%;
+    height: 65%;
+    margin-top: 12%;
+    position: absolute;
+    }
+.tripel{
+    margin-top: -11%;
+}
+.ag-header-cell-text{
+    color: white;
+    }
+
+.habits {
+        position: absolute;
+        margin-top: 6vw;
+        width:900px;
+         height:50px;
+      }

@@ -1,0 +1,39 @@
+.ag-row-odd {
+    background-color: #ffffff;
+}
+
+
+.geser{
+    margin-left: 1.5%;
+    margin-top: -11%;
+
+}
+
+
+
+
+
+
+.explore{
+    background-color: #EEEEEE;
+}
+
+
+.explore2{
+    
+    background-color: #ffffff;
+    width: 80%;
+    height: 54%;
+    margin-top: 14%;
+    position: absolute;
+    left: 9.7%;
+    border-radius: 10px;
+
+}
+
+.ag-paging-panel {
+    /* border-top: 1px solid; */
+    border-top-color: var(--ag-border-color);
+    color: var(--ag-secondary-foreground-color);
+    height: var(--ag-header-height)
+}

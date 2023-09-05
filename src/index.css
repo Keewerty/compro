@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+@font-face {
+  font-family: 'pm';
+  src: url('/public/font/poppins/Poppins-Medium.ttf');
+  
+
+}
+@font-face {
+  font-family: 'pr';
+  src: url('/public/font/poppins/Poppins-Light.ttf');
+}
+
+
+@font-face {
+  font-family: 'sc';
+  src: url('/public/font/poppins/Sacramento-Regular.ttf');
+  
+
+}
+@font-face {
+  font-family: 'jv';
+  src: url('/public/font/poppins/JosefinSans-VariableFont_wght.ttf');
+  
+
+}

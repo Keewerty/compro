@@ -1,0 +1,481 @@
+.logobc {
+    background: url(../../public/logo_bc_alt-c.png);
+    height: 11vh !important;
+    width: 8vw !important;
+    margin-bottom: -11px !important;
+    margin-left: 6vw !important;
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: contain !important;
+}
+
+.cls{
+    margin-top: -4vh;
+    width: 100%;
+    text-align: end;
+    display: block;
+    z-index: 999;
+    position: absolute;
+}
+
+.btcls{
+    margin-top: 40px;
+    margin-right: 10px;
+    background-color: #cacaca !important;
+    color: #4E4E4E !important;
+    width: 30px !important;
+    height: 6px !important;
+    min-height: 30px !important;
+}
+
+.al{
+    /* text-align: end; */
+    height: auto ;
+    font-size: 9px !important;
+    font-weight: bolder !important;
+    color: red !important;
+}
+
+.navs {
+    /* color: #4e4e4e !important; */
+    font-weight: 700 !important;
+    pointer-events: fill !important;
+    margin-right: 3vw !important;
+}
+
+.navs:hover {
+    color: #e08e13 !important;
+    font-weight: 700 !important;
+    pointer-events: fill !important;
+}
+
+.login {
+    background-color: #e08e13 !important;
+    width: 7vw !important;
+    height: 5vh !important;
+    color: #fff !important;
+    margin-top: -0.5vh !important;
+    position: relative !important;
+    margin-right: 2vw !important;
+    text-transform: initial !important;
+    border-radius: 30px !important;
+    font-size: 15px !important;
+    width: 95px !important;
+    font-weight: 500 !important;
+    border: none !important;
+}
+
+.login-card-modal{
+    width: 80vw !important;
+    height: 84vh !important;
+    margin-top: 12vh !important;
+    border-radius: 10px !important;
+    background: rgba(56, 56, 56, 0) !important;
+    box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.30) !important;
+    backdrop-filter: blur(25px) !important;
+}
+
+.btnw:hover {
+    background-color: #000 !important;
+}
+
+.navbar {
+    box-shadow: -3px -1px 12px #00000047, 0 -2px 2px #00000024, -1px -5px 5px #0000001f !important;
+    display: flex !important;
+    height: 13vh !important;
+    width: 100% !important;
+    position: fixed !important;
+    background-color: #fff !important;
+    z-index: 999999 !important;
+    /* color: #4e4e4e !important; */
+    font-weight: 700 !important;
+    font-size: 15px !important;
+    height: -moz-fit-content !important;
+    height: fit-content !important;
+}
+
+.left-modal-card{
+    width: 50% !important;
+}
+
+.right-modal-card{
+    width: 50% !important;
+}
+
+.the-login-modal{
+    display:flex !important;
+    flex-direction: row !important;
+    width:100% !important;
+}
+
+.logicon1l{
+    position: absolute !important;
+    background: url(/src/assets/logo.png) !important;
+    height: 60px !important;
+    width: 100px !important;
+    margin: 1vh 0 !important;
+    background-repeat: no-repeat !important;
+}
+
+.logicon2l {
+    background: url(../assets/wong.png) !important;
+    background-repeat: no-repeat !important;
+    width: 23vw !important;
+    height: 75vh !important;
+    margin-left: 6vw !important;
+    position: absolute !important;
+    margin-top: 10vh !important;
+}
+
+.logicon3l {
+    background: url(./robot-b96ba859.png)!important;
+    background-repeat: no-repeat!important;
+    height: 54%;
+    margin-left: 25.5vw!important;
+    margin-top: 20vw;
+    width: 100%;
+    position: relative;
+    display: block;
+}
+
+.circle {
+    float: left !important;
+    width: 83vw !important;
+    height: -webkit-fill-available !important;
+    shape-outside: circle(50% at 30%) !important;
+    -webkit-clip-path: circle(50% at 0%) !important;
+    clip-path: circle(50% at 0%) !important;
+    background: #D9D9D9 !important;
+    position: absolute !important;
+    border-radius: 18px !important;
+}
+
+.modal-action1{
+    display: none !important;
+}
+
+.head {    font-family: 'pr';
+    text-align: justify !important;
+    color: #fff !important;
+    margin-top: 12vh !important;
+    display: block !important;
+}
+
+.headr {    font-family: 'pr';
+    text-align: justify !important;
+    color: #fff !important;
+    margin-top: 6vh !important;
+    display: block !important;
+}
+
+.kolom {
+    padding-top: 6vh !important;
+}
+.kolomr {
+    padding-top: 0vh !important;
+}
+
+.teks{
+    margin-top: 20vh !important;
+    margin-right: 20vh !important;
+    text-align: center;
+}
+
+.inputs{
+    width: 397px !important;
+    height:43px !important;
+    border-radius: 30px !important;
+    margin-bottom: 2vh !important;
+    background-color: #BDBDBD !important;
+    color: #ffffff !important;
+    text-align: center !important;
+}
+
+.column{
+    
+    margin: 1vh 0 !important;
+    margin-left: 79vh !important;
+}
+
+.inputmail{
+    width: 397px !important;
+    height:43px !important;
+    border-radius: 30px !important;
+    margin: 1vh 0 !important;
+    margin-top: 100px;
+    background-color: #BDBDBD !important;
+    color: #ffffff !important;
+    text-align: center !important;
+}
+
+.signin{
+    width: 397px !important;
+    height: 35px !important;
+    border-radius: 30px !important;
+    background: linear-gradient(206.63deg,#4A7BDB,#1749AB) !important;
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    color: #fff !important;
+    text-transform: initial !important;
+    border: none !important;
+    margin-top: 1vh !important;
+    margin-left: 60vh !important;
+}
+
+.signup{
+    /* display: flex !important; */
+    /* width: 119px!important;
+    height: 12px!important; */
+    width: 397px !important;
+    height: 35px !important;
+    border-radius: 30px!important;
+    color: #fff!important;
+    text-transform: initial!important;
+    font-size: 20px!important;
+    font-weight: 500 !important;
+    margin-left: 31vw;
+    margin-top: 1vh;
+    margin-top: 1vh !important;
+    margin-left: 60vh !important;
+    /* display: flex !important;
+    width: 397px !important;
+    height: 35px !important;
+    border-radius: 30px!important;
+    color: #fff!important;
+    text-transform: initial!important;
+    font-size: 15px!important;
+    margin-left: 0vw;
+    margin-top: 1vh; */
+}
+
+@media  screen and (max-width:1920px) {
+    .gs{
+        margin-left: -40px;
+    }
+}
+
+@media  screen and (max-width:1600px) {
+    .gs{
+        margin-left: -70px;
+    }
+}
+
+@media  screen and (max-width:1350px) {
+    .gs{
+        margin-left: -80px;
+    }
+}
+
+@media  screen and (max-width:1200px) {
+    .gs{
+        margin-left: -90px;
+    }
+}
+
+@media  screen and (max-width:1150px) and (min-width:951px){
+    .signin{
+        width: 30vw !important;
+    }
+    .inputs{
+        width: 30vw !important;
+    }
+    .signups{
+        margin: 3vh 0 !important;
+    }
+   
+}
+
+@media screen and (max-width:950px){
+    .inputs{
+        width: 75vw !important;
+    }
+    .signups{
+        margin: 3vh 0 !important;
+    }
+    .signin{
+        width: 75vw !important;
+    }
+    .modal-action1{
+        display: flex !important;
+        justify-content: flex-end !important;
+    }
+    .modal-action4{
+        display: none !important;
+    }
+    .the-login-modal{
+        display:flex !important;
+        flex-direction: column !important;
+    }
+    .login-card-modal{
+        width: 85% !important;height: 85% !important;
+        overflow: overlay;
+    }
+    .left-modal-card{
+        width: 100% !important;
+        display: flex !important;
+        justify-content: center !important;
+    }
+    .right-modal-card{
+        width: 100% !important;
+    }
+    .circle{
+        display: none !important;
+    }
+    .logicon1l{
+        display: none;
+    }
+    .logicon2l{
+        position: unset !important;
+        margin: 0 !important;
+        background: url(../assets/wong_1.png) !important;
+        background-repeat: no-repeat !important;
+        display: block;
+        width: 152px !important;
+        height: 123px !important;
+    }
+    .logicon3l{
+        display: none !important;
+    }
+    .modal-action {
+        
+    /* display: none; */
+
+    }
+    .head{
+        margin: 0 !important;    font-family: 'pr';
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important; 
+        margin-top: 2vh !important;
+    }
+    .headr{
+        margin: 0 !important;    font-family: 'pr';
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+    .login-modal{
+        /* width: auto !important; */
+        width: 37px !important;
+        min-height: 0 !important;
+        height: 5vh !important;
+    }
+    .kolom{
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        padding: 2vh !important;
+    }
+    .kolomr{
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        padding: 2vh !important;
+    }
+}
+
+.menuandroid {
+    display: none !important;
+}
+
+@media only screen and (max-width: 780px) {
+
+    .menuandroid {
+        display: contents !important;
+    }
+
+    .aboutus {
+        display: none !important;
+    }
+
+    .projectus {
+        display: none !important;
+    }
+
+    .serviceus {
+        display: none !important;
+    }
+
+    .trainingus {
+        display: none !important;
+    }
+
+    .blogus {
+        display: none !important;
+    }
+
+    .carrerus {
+        display: none !important;
+    }
+
+    .loginus {
+        display: none !important;
+    }
+
+    .translateus {
+        display: none !important;
+    }
+
+    .logobc {
+        background: url(/public/logo_bc_alt-c.png);
+        height: 11vh !important;
+        margin-top: -15px;
+        margin-bottom: -18px!important;
+        /* margin-left: -27vw !important; */
+        background-repeat: no-repeat !important;
+        background-position: center !important;
+        background-size: 60px !important;
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .logicon2l{
+        margin-top: 4vh !important;
+        height: 100px !important;
+    }
+    .modal-action1{
+        display: flex !important;
+        justify-content: flex-end !important;
+    }
+    .login-modal{
+        margin-top: 3vh !important;
+    }
+    /* .logobc {
+        margin-left: -20vw !important;
+    } */
+}
+
+/* #statusText{
+    color: red ;
+} */
+
+@media (max-width: 570px) {
+    .cls{
+        margin-left: -25px;
+        margin-top: -55px;
+        width: 100%;
+        text-align: end;
+        display: block;
+        z-index: 999;
+        position: absolute;
+    }
+    
+    .btcls{
+        margin-top: 40px;
+        margin-right: 10px;
+        background-color: #cacaca !important;
+        color: #4E4E4E;
+        width: 30px !important;
+        height: 6px !important;
+        min-height: 30px !important;
+    }
+}
+
+.la{
+    border: 1px solid #aeaeae !important;
+    padding-top: 12px !important;
+    padding-left: 16px !important;
+    cursor: pointer !important;
+    color: #082032 !important;
+}

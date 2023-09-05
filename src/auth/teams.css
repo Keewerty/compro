@@ -1,0 +1,668 @@
+.logobc {
+  background: url(../assets/logo.png);
+  height: 11vh;
+  width: 8vw;
+  margin-bottom: -11px!important;
+  margin-left: 6vw;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain
+}
+
+.nav {
+  color: #4e4e4e;
+  font-weight: 700;
+  pointer-events: fill;
+  margin-right: 3vw
+}
+
+.nav:hover {
+  color: #e08e13;
+  font-weight: 700;
+  pointer-events: fill
+}
+
+.login {
+  background-color: #e08e13 !important;
+  width: 7vw !important;
+  height: 5vh !important;
+  /* color: #fff !important; */
+  color: #fff !important;
+  margin-top: -0.5vh;
+  position: re;
+  text-transform: initial !important;
+  text-transform: initial !important;
+  border-radius: 30px !important;
+  font-size: 15px !important;
+  width: 95px !important;
+  font-weight: 500 !important;
+  border: none;
+}
+.btnw:hover {
+  background-color: #000
+}
+
+.navbar {
+  box-shadow: -3px -1px 12px #00000047,0 -2px 2px #00000024,-1px -5px 5px #0000001f;
+  display: flex;
+  height: 13vh;
+  width: 100%;
+  position: fixed;
+  background-color: #fff;
+  z-index: 999999;
+  color: #4e4e4e;
+  font-weight: 700;
+  font-size: 15px;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.tms123-sih {
+  background: url(../assets/Group109-cc343ec4.png);
+  height: 39vw;
+  width: 39vw;
+  background-repeat: no-repeat
+}
+
+.tms123-meet {
+  font-size: 4vw;
+  color: #000;
+  margin-left: 3vw;
+  margin-top: 2vh
+}
+
+.tms123-see {
+  text-align: center;
+  font-size: 3vw;
+  margin-top: 8vh;
+  color: #060606
+}
+
+.tms123-cardname {
+  font-size: 1.5vw !important;
+  color: #505050;
+  justify-content: center;
+  text-align: center;
+  margin-top: -2vh;
+  font-weight: 800;
+  margin-left: none !important;
+}
+
+.tms123-jobdesk {
+  font-size: 1.1vw;
+  color: #464646;
+  text-align: center;
+  margin-bottom: 1vh;
+  margin-top: 1vh
+}
+
+
+.pakherjuno {
+  width: 12vw;
+  height: 23vh;
+  /* background-image: url(../assets/herjuno.png); */
+  background-repeat: no-repeat;
+  margin-top: 1vw;
+  margin-left: 5vw;
+}
+.singgih {
+width: 12vw;
+height: 23vh;
+background-image: url(../assets/singgih.png);
+background-repeat: no-repeat;
+margin-top: 1vw;
+margin-left: 5vw;
+}
+.ramdan {
+width: 12vw;
+height: 23vh;
+background-image: url(../assets/ramdan.png);
+background-repeat: no-repeat;
+margin-top: 1vw;
+margin-left: 5vw;
+}
+.nanda {
+width: 12vw;
+height: 23vh;
+background-image: url(../assets/nanda.png);
+background-repeat: no-repeat;
+margin-top: 1vw;
+margin-left: 5vw;
+}
+.zaki {
+width: 12vw;
+height: 23vh;
+background-image: url(../assets/zaki.png);
+background-repeat: no-repeat;
+margin-top: 1vw;
+margin-left: 5vw;
+}
+.amirul {
+width: 12vw;
+height: 23vh;
+/* background-image: url(../assets/amirul.png); */
+background-repeat: no-repeat;
+margin-top: 1vw;
+margin-left: 5vw;
+}
+
+
+.maya {
+width: 12vw;
+height: 23vh;
+background-image: url(../assets/maya.png);
+background-repeat: no-repeat;
+margin-top: 1vw;
+margin-left: 5vw;
+}
+
+
+
+.subhan {
+width: 12vw;
+height: 23vh;
+background-image: url(../assets/subhan.png);
+background-repeat: no-repeat;
+margin-top: 1vw;
+margin-left: 5vw; 
+}
+
+.body {
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  background-color: #f8f8f8d6;
+  backdrop-filter: blur(10px);  
+  height: 41vh;
+  width: 18.3vw;
+  filter: drop-shadow(20px grey);
+}
+
+.body1 {
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  background-color: #cfcfcfa5;
+  height: 41vh;
+  width: 18.3vw;
+  background-size: 18.3vw 41vh
+}
+
+.tms123-case {
+  z-index: 4;
+  margin-top: -25vh;
+  background-color: #cfcfcf5b;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-backdrop-filter: blur(10px);
+  backdrop-filter: blur(10px);
+  height: 25vh;
+  width: 84vw;
+  margin-left: 8vw;
+  margin-bottom: 4vw;
+}
+
+.tms123-case-img {
+  width: 84vw;
+  height: 96vh;
+  margin-left: 8vw;
+  margin-top: 8vh;
+  background-image: url(../assets/ngopi.png);
+  
+}
+
+.tms123-case-judul {
+
+  font-size: 2vw;
+  margin-left: 3vw;
+  color: #fff;
+  padding-top: 2vh;
+  font-weight: 600;
+}
+
+.tms123-case-task {
+
+  font-size: 1.1vw;
+  margin-left: 3vw;
+  padding-top: 2vh;
+  color: #000;
+  text-align: justify;
+  width: 34vw
+}
+
+.tms123-case-logo1 {
+  padding-left: 4px;
+  width: 145px;
+  height: 11vh;
+  background-image: url(../assets/telkomsel.png);
+  background-repeat: no-repeat;
+}
+
+.tms123-case-logo2 {
+  padding-left: 4px;
+  width: 145px;
+  height: 11vh;
+  background-image: url(../assets/huawei.png);
+  background-repeat: no-repeat;
+}
+
+.case-button {
+  z-index: 4
+}
+
+.footer {
+  display: flex !important;
+  width: 100% !important;
+  grid-auto-flow: row !important;
+  place-items: start;
+  row-gap: 2.5rem;
+  -moz-column-gap: 1rem;
+  column-gap: 1rem;
+  font-size: .875rem;
+  line-height: 1.25rem;
+  background-color: #2b2b2b21 !important;
+  box-shadow: 0 3px 8px #0000001a !important;
+  display: flex !important;
+  padding-top: 3vh !important;
+  padding-bottom: 3vh !important;
+  font-family: 'pm';
+}
+
+.slide {
+  background-color: white;
+  color: #545454;
+  border: 1px solid #000000;
+}
+
+.company {
+  color: #545454;
+  width: 33.3%
+}
+
+.company-title {
+  color: #545454;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+}
+
+.link {
+  text-decoration: underline;
+  margin-bottom: 1vw;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 12px
+}
+
+.cb {
+  color: #545454;
+  font-size: 12px;
+  font-weight: 400
+}
+
+.sosmed {
+  width: 33.3%;
+  justify-content: center;
+  display: flex
+}
+
+.sosmed-title {
+  color: #545454;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+}
+
+.icon {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-top: 2.5vw;
+  cursor: pointer
+}
+
+.mg-svg {
+  margin: 10px
+}
+
+.copyright {
+  color: #545454;
+  padding-top: 1vw !important;
+  font-size: 15px;
+  
+}
+
+
+.contact {
+  display: flex;
+  width: 33.3%;
+  text-align: center
+}
+
+.contact-title {
+  color: #545454;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+  padding-left: 12vw
+}
+
+.button {
+  padding-left: 12.5vw;
+  padding-top: 6vh
+}
+
+.wa {
+  background: rgb(247,195,60) !important;
+  text-transform: initial !important;
+  border-radius: 30px !important;
+  font-size: 12px !important;
+  color: #000 !important;
+  width: 170px !important;
+  font-weight: 500;
+  border: none;
+}
+
+.lok {
+  color: #fff !important;
+  text-align: center !important;
+  text-transform: initial !important;
+  background: rgb(57,40,99) !important;
+  width: 170px !important;
+  margin-top: 1vh !important;
+  border-radius: 30px !important;
+  font-size: 12px !important; 
+}
+
+.logicon1 {
+  position: absolute;
+  background: url(../assets/logo.png);
+  height: 11vh;
+  width: 8vw;
+  margin-left: 1vw;
+  background-repeat: no-repeat;
+  margin-top: 2vh
+}
+
+.logicon2 {
+  background: url(../assets/wong.png);
+  background-repeat: no-repeat;
+  width: 22vw;
+  height: 70vh;
+  margin-left: 6vw;
+  position: absolute;
+  margin-top: 10vh
+}
+
+.logicon3 {
+  background: url(./robot-b96ba859.png)!important;
+  background-repeat: no-repeat!important;
+  height: 54%;
+  margin-left: 25.5vw!important;
+  margin-top: 20vw;
+  width: 100%;
+  position: relative;
+  display: block;
+}
+
+.circle {
+  float: left;
+  width: 83vw;
+  height: -webkit-fill-available !important;
+  shape-outside: circle(50% at 30%);
+  -webkit-clip-path: circle(50% at 0%);
+  clip-path: circle(50% at 0%);
+  background: #D9D9D9;
+  position: absolute;
+  border-radius: 18px;
+}
+.head {
+  text-align: justify;
+  color: #fff;
+  margin-top: 12vh;
+  margin-left: 3vw
+}
+
+.sign-up {
+  width: 153px !important;
+  height: 32px !important;
+  border-radius: 30px !important;
+  color: #fff;
+  text-transform: initial !important;
+  font-size: 18px !important;
+  margin-left: 23vw;
+  margin-top: 6vh;
+}
+.sign-in {
+  width: 397px;
+  height: 35px !important;
+  border-radius: 30px !important;
+  background: linear-gradient(206.63deg,#4A7BDB,#1749AB);
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  color: #fff !important;
+  text-transform: initial !important;
+  border: none;
+  margin-top: 5vh;
+}
+
+.tms123-content1 {
+  display: flex;
+  width: 100%; 
+  padding-top: 15vh;
+}
+
+.tms123-teamlist {
+  width: 60%;
+}
+
+.tms123-listteam1{
+  display: flex;
+  gap: 1vh;
+  margin-top: 5vh;
+  margin-left: 2vw;
+  width: 100%;
+}
+
+.tms123-listteam2{
+  display: flex;
+  margin-top: 5vh;
+  margin-left: 2vw;
+  overflow-x: auto;
+  width: 93vw;
+  gap: 1.5vh;
+  overflow-y: hidden;
+  height: 90%;
+}
+
+.tms123-listeamjudul{
+  align-self: center;margin-bottom: 4vh;
+  margin-top: 2vh;
+}
+
+.card{
+  font-family: "pm";
+  min-width: 273px;
+  height: 100%;
+  margin-bottom: 50px;
+}
+
+.tms123-tlist{
+  display: grid;
+  overflow-x: unset;
+}
+
+.tms123-listteam2::-webkit-scrollbar{
+  display: none;
+}
+
+.tms123-contenttxt1{
+  width: 60%;
+  margin-bottom: 100px;
+}
+
+.tms123-logo3{
+  margin-top: 10px;
+  margin-right: 10px;
+  display: flex;
+  flex-flow: row-reverse;
+  width: 100%;
+}
+
+.tms123-btnslct2{
+  position:absolute;display:flex;flex-flow:row wrap;width:100%;justify-content:space-between;padding:0 20px;margin-top:-33vh;
+}
+
+@media screen and (max-width: 896px) {
+  .tms123-sih{
+    display: none;
+  }
+
+  .tms123-tlist{
+    display: flex;
+    overflow-x: auto;
+    width: 100vw;
+    gap: 1.5vh;
+    height: 100%;
+  }
+
+  .tms123-content1 {
+    display: grid;
+  }
+
+  .card{
+    min-width: 170px;
+    height: 300px;
+  }
+
+  .tms123-teamlist{
+    width: 100%;
+  }
+
+  .tms123-listteam1{
+    display: flex;
+    overflow-x: unset;
+    width: auto;
+    margin-right: 0;
+    margin-left: 10px;
+    gap: 1vh;
+    height: auto; 
+  }
+
+  .tms123-listteam2{
+    display: flex;
+    overflow-x: unset;
+    width: auto;
+    margin-left: 0;
+    margin-right: 10px;
+    gap: 1vh;
+    overflow-y: unset;
+    height: auto; 
+  }
+
+  .tms123-meet{
+    font-size: 30px;
+  }
+
+  .tms123-tlist::-webkit-scrollbar{
+    display: none;
+  }
+
+  .tms123-cardname{
+    text-align: center;
+    font-size: 15px !important;
+    text-align: center;
+    width: 100%;
+    font-weight: 600;
+    padding: 0 5px;
+  }
+  
+  .tms123-jobdesk{
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .tms123-see{
+    font-size: 26px;
+  }
+  
+  .tms123-case-judul {
+
+    font-size: 24px;
+    margin-left: 3vw;
+    color: #fff;
+    padding-top: 2vh;
+    font-weight: 600;
+  }
+
+  .tms123-case-task {
+
+    font-size: 20px;
+    margin-left: 3vw;
+    padding-top: 2vh;
+    color: #ffffff;
+    text-align: left;
+    width: 75vw
+  }
+
+  .tms123-case {
+    flex-direction: column;
+    z-index: 4;
+    margin-top: -25vh;
+    background-color: #535353da;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    height: 35%;
+    width: 84vw;
+    margin-left: 8vw;
+    margin-bottom: 4vw;
+  }
+
+  .tms123-contenttxt1{
+    width: 100%;
+    margin-left: 1vw;
+    margin-bottom: 1vh;
+  }
+  
+  .tms123-logo3{
+    display: inline-flex;
+    align-items: flex-end ;
+    flex-direction: row;
+    margin-left: 2vw;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    height: 90%;
+
+  }
+
+  .tms123-case-logo1 {
+    padding-left: 4px;
+    width: 145px;
+    height: 11vh;
+    background-image: url(../assets/telkomsel.png);
+    background-repeat: no-repeat;
+  }
+  
+  .tms123-case-logo2 {
+    padding-left: 4px;
+    width: 145px;
+    height: 11vh;
+    background-image: url(../assets/huawei.png);
+    background-repeat: no-repeat;
+  }
+
+  .tms123-case-img {
+    width: 84vw;
+    height: 68vh;
+    margin-left: 8vw;
+    margin-top: 8vh;
+    background-image: url(../assets/ngopi.png);
+  }
+
+  .tms123-btnslct2{
+    position:absolute;display:flex;flex-flow:row wrap;width:100%;justify-content:space-between;padding:0 10px;margin-top:-23vh;
+  }
+}
+
+@media screen and (max-width: 23px){}

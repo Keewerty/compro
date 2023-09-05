@@ -1,0 +1,270 @@
+.background {
+    background-color: white;
+    display: flex;
+}
+
+.back {
+    background: rgb(192, 192, 192);
+    width: 80%;
+    height: 91%;
+    position: absolute;
+    left: 170px;
+    top: 33.4px;
+    border-radius: 30px;
+    display: flex;
+}
+
+.circle {
+    width: 40%;
+    height: 92%;
+    position: absolute;
+    left: 90px;
+    top: 32px;
+    background-color: rgb(255, 255, 255);
+    border-top-right-radius: 120%;
+    border-top-left-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 120%;
+    display: flex;
+}
+
+.username {
+    right: 17%;
+    position: absolute;
+    width: 29%;
+    height: 8%;
+    bottom: 47.9%;
+    border-radius: 100px;
+    background-color: rgb(210, 210, 210);
+    text-align: center;
+    color: black;
+    display: flex;
+}
+
+.password {
+    right: 17%;
+    position: absolute;
+    width: 29%;
+    height: 8%;
+    bottom: 39.4vh;
+    border-radius: 100px;
+    background: rgb(210, 210, 210);
+    text-align: center;
+    display: flex;
+    color: black;
+
+}
+
+
+
+.hi {
+
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-weight: bold;
+    position: absolute;
+    left: 54%;
+    top: 23%;
+    display: flex;
+
+}
+
+.hii {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    position: absolute;
+    left: 54%;
+    top: 30%;
+    display: flex;
+}
+
+.forget {
+
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    position: absolute;
+    left: 55%;
+    top: 61%;
+    font-weight: 500;
+    font-size: 20px;
+    display:grid;
+}
+
+.wong {
+    width: 27%;
+    height: 70%;
+    position: absolute;
+    left: 170px;
+    top: 17%;
+    display: flex;
+}
+
+.logo {
+    width: 9vw;
+    height: 8vw;
+    position: absolute;
+    left: 10px;
+    bottom: 80%;
+    display: flex;
+}
+
+.bg {
+    position: absolute;
+    left: 54%;
+    top: 71%;
+    width: 29vw;
+    height: 4vw;
+    border-radius: 100px;
+    display: flex;
+    
+    background: rgb(77, 77, 206)
+}
+
+/* .butt {
+    position: absolute;
+    left: 80%;
+    display: flex;
+    top: 85%;
+    width: 150px;
+    height: 49px;
+    border-radius: 100px;
+    color: white;
+} */
+
+.robot {
+    width: 11%;
+    height: 24%;
+    position: absolute;
+    left: 37%;
+    top: 70%;
+    display: flex;
+}
+
+@media only screen and (max-width: 830px) {
+
+
+
+    .back {
+        height: 80%;
+        left: 13%;
+        height: 85%;
+    }
+
+    .username {
+        right: 13%;
+        width: 70%;
+        height: 6%;
+        top: 53%;   
+    }
+
+    .password {
+        right: 13%;
+        width: 70%;
+        height: 6%;
+        top: 59.7%;
+    }
+
+    .robot {
+        /* width: 15%;
+    height: 15%;
+    top: 37%;
+    left: 52%; */
+        display: none;
+    }
+
+    .circle {
+        display: none;
+    }
+
+    .wong {
+        left: 35%;
+        width: 35%;
+        height: 35%;
+
+    }
+
+    .hi {
+        left: 15%;
+        top: 8%;
+        font-size: 180%;
+    }
+
+    .hii {
+        left: 15%;
+        top: 13%;
+        font-size: 120%;
+    }
+
+    .forget {
+        left: 18%;
+        top: 66%;
+    }
+
+    .bg {
+
+        width: 70%;
+        left: 18%;
+        height: 6%;
+        top: 73.5%;
+    }
+
+    .butt {
+        left: 18%;
+        top: 80%;
+        height: 6%;
+        width: 70%;
+    }
+
+    .logo {
+        left: 79%;
+        width: 20%;
+        height: 20%;
+        top: 1%;
+    }
+
+}
+
+@media only screen and (max-width: 464px) {
+
+    .wong {
+        width: 50%;
+        left: 28%;
+    }
+
+    .hii {
+       top: 12%;
+    }
+
+    .logo {
+        bottom: 85%;
+        left: 74%;
+        width: 20%;
+        
+    }
+
+    .username {
+     top: 53%;
+    }
+    .password {
+    top: 59.7%;
+    }
+
+    .hi {
+        top: 8%;
+        font-size: 125%;
+    }
+
+}
+
+@media only screen and (max-width: 265px) {
+
+.hi {
+    top: 8%;
+}
+
+.hii {
+    display: none;
+}
+    
+}

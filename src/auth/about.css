@@ -1,0 +1,4358 @@
+.webdev{
+    width: 70%; 
+    background-color: white;
+     height: 498px; 
+     border-radius: 17px;
+}
+
+.webcard{
+    width: 1076px; 
+    height: 498px; 
+    margin-top: 13vh;
+    background-color: #787878;
+}
+
+.wadah-realtime{
+    display:flex;
+    width:100%
+  }
+
+  .cardreal-putih{
+    width: 70%;
+     background-color:
+      white; height: 498px; 
+      border-radius: 17px
+  }
+
+  .cardreal{
+    width: 1076px;
+     height: 498px;
+      margin-top: 13vh; 
+      border-radius: 0px 20px 20px 0px;
+      background-color: #787878 !important;
+}
+
+  .btn-closereal{
+    width: 107px;
+    height: 40px !important;
+    background-color: #392863 !important;
+    font-family: 'pm';
+    font-size: 15px !important;
+    color: #fff !important;
+    text-transform: initial !important;
+    border-radius: 10px !important;
+  }
+.enhance {
+    font-size: 450%;
+    margin-left: 11.5%;
+    color: black;
+    margin-bottom: 1%;
+}
+
+.braincode {
+
+    margin-left: 11.5%;
+    margin-bottom: 2%;
+    font-size: 200%;
+    font-weight: bold;
+    color: #082032;
+}
+
+.is {
+    margin-left: 11.5%;
+    margin-bottom: 5%;
+    color: #082032;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'pm';
+    font-weight: 400;
+}
+
+.services {
+    width: 20% !important;
+    height: 5% !important;
+    margin-left: 11%;
+    text-transform: initial !important;
+    background: #fcca4c !important;
+    border-radius: 500px !important;
+}
+
+
+
+ .grub1 .about-detail{
+    width: 90% ;
+    height: 50px;
+    color: white;
+    border-radius: 15px;
+    margin-left: 3vw;margin-top: 2vh;
+    border: 1px solid yellow;
+    text-transform: initial;
+    font-size: 1.3vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.teams {
+    width: 20% !important;
+    height: 5% !important;
+    text-transform: initial !important;
+    background: #082032 !important;
+    border-radius: 500px !important;
+    color: #fff !important;
+    margin-left: 3%;
+}
+.wong2 {
+    margin-left: 5vw;
+    height: 80vh;
+    background-repeat: no-repeat;
+    width: 34vw
+}
+
+.R {
+    margin-right: 5%;
+    text-align: end;
+    font-size: 4vw;
+    margin-top: 7vh;
+    color: #000;
+    font-weight: 400;
+    font-family: 'pm';
+}
+
+.Img {
+    background: url(../assets/2wong.png);
+    height: 47vw;
+    width: 26vw;
+    margin-left: 13vw;
+    padding-top: 5vw;
+    background-repeat: no-repeat;
+    position: absolute;
+}
+
+.img {
+    background: url(../assets/people-59e58b93.png);
+    height: 47vw;
+    width: 49vw;
+    margin-left: 49.2vw;
+    background-repeat: no-repeat;
+    position: absolute
+}
+
+.RE {
+    background: url(../assets/coba.png);
+    width: 8.3vw;
+    height: 15vh;
+    margin-left: 2vw;
+    background-repeat: no-repeat
+}
+
+.IMg {
+    background: url(../assets/mesin.png);
+    width: 8.3vw;
+    height: 15vh;
+    margin-left: 2vw;
+    background-repeat: no-repeat
+}
+
+.IMG {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAA9RSURBVHgB7Z0NmFTVecf/537M7OewC7oEDBA+RUH8iJKyGqOG2KjIAvIh2BJ58rS0WqkhNimmlWmLidWHahp9nvrRWkkhCQEkSig+pBEEpRqxInSXp0QFWVgW3e+Z2Zm5c8/pe2Zl2V1m5twhhzC73t/z7M7MPefO3DvvOe953/e85wzg4+Pj4+Pj4+PT/2A4C77fsP7CZNwuLXeZu3xsTT1jTOAzwj8dXV8c63Cq4oZtWMFoS3j0klacQ/IS0IbmdVPicTzamLSmtjtWJZ3NGcchxvC8ncJzD14ypwkDlOc/fL6iqCiwPMrNu0902p93BDVLhjZwvGnBefhvJix4DecAzwL6yYm1y8DYanpqydfNSQsn41Z3uQlRFzDcr//12PkfYYCx/sSa0S4zX6Sv63L52uEMx2IBxHnX12cwONRQlz00Yc6/QDOeBPTTE2trqMFs7nu8MW6jJWl2vzYgXrsg4d527+T5EQwQnhZP26GT5W/T0yk9jydJOIejQfAeyt0wxIyVY+/4JTRiqCpsPbQ1yEn1Ziq7MOjI1tMNB7u+pci8DQOI0CdlS9BHOJKAIVAZSPU6Jjhb9diJNaXQiFJALRUt1aRsx2Q8mYQTsntfpMvYPRhAMGEszlYWsnmv19SZroh2FI2CRpQCQgoTcxXLltQTIcRIDBCk9hAQY7KVBwx+xjHbtv4AGlEKyGQI5CoXfYcxjgFjch8tOWrmew53Xa33rxSQMI19ucoTbh8BGewYBghLL1oaowaX1c9J8TNtLMHs30IjSgHFI/F36VMzms7Sgomker8FWTIvYEAh1mUraU727mDkFx0us5NvQyNKAS0hT5n08D9kKvuY/CAuTrciBvbh0NH2Ogwg4sHkk/RwqO9xaWa3OX0EBISXj5jfCY2ojQRi0ecWPUdyeOTUa6lkpf/T4px2VCnYc5hcuBlL2cwYBhBLKpe0MtOoEQJHTh2Tjmo9Oao9G6fJxKqV4+Zo1x6eBCRZVLVohXAxN8mxv6HTpiiC3fUGTLTRmzxrB0R1ePz8WgxA7rzgzjpmsy+TkH7U6lixw9FAugcxaqp0728Zgs/927FzHsI5IO9gaViEjVeXRf+XGcZEN+lCWGzR7h899hN8RrjhWyu+CZc/J58nok7twuemX7WM3ZrAOcLKsz7CLMwn3b40gk+taWpDLj5DNB76OGKwLsVDGs49l8KReFZxPucHX0AFji+gAscXUIHjC6jA8QVU4PgCKnB8ARU4voAKHF9ABY4voALHF1CBw0Td8r0U8Qzlc9LM1bGhH5zk5fL5wwuCTTVX2S3dhU6SuSc/UadzlS5wdxfdAp1EOmwz1pn7o0sTnfyeLY/xqpaGs0p73uYi9EiKV8nnIxlz1gTYETkx5Mh7dlOq03cN3/OLbyAPLJqnpdlCsSCfk4p7pJEELTaEJi2GdB8IBMCKi8FjuScWq2Pb8W5wGjpYBXRRXJpCPGGDu9m/+2igGNu+OBOLf/U0zoZgjzR0E4Imxdg4mX9mhsqRam5RnT668bo5m4fu3vQiPGIggO9SD2qGRoyKkExOyFlnEG/GLdH10Pq5hkBJiXr2Y/+oK1A36jLoxCgpglEUVNZLpdwfvj993iB4xGBjVlMX5SugE9OEMahcWe2K+BuY4ByATopJQLatznzaeO0ixAMl0Ik5KJTOHFEwoiTqrIJH0s2cTX7iGVJzerNRykrBbFtZb07k31Ak9KYxhAY5yu+prbgCr035KnTCbAtWqExZjwvxF0e/PG8qPHBaDxnGH5OqU45y+WAMqVC2qJDbjBs7X4bWzzVJ1ZWqVd32y29FY+Uw6EQ2TMNST1QbqeQLIhxWGlPdFdjFqw/SQxgakT1IXrCKazp3Yrird9VKcUmKNK1a1f30hrvhmnnP/GeHGqRZOUit6gQmnti+byUU9JZg0H6S3rledZJt9jwl94WkxyIrdwatVHG3R/8DOpHfT3lIrRDqB4/Ejilfw9mQ7dZZMEBGQzFUcM7vOzpt3rhcdXoJiI39xzYId4lMgc910swv2mReA5deZGDaOEUvlS1qsNqUHpX8P1wT3wGd2AGOomK1qttx2c1oDl0AL1xDJvXnpfDpb4GZ/d4tDw2TelGlCeefc1XJ2AZE7fJ1VLIQGuEtreCR3MaAYwTxeMX30WoMgbbP5UBLU4Aec/f0yR/twze2610gxzvjSDUpfSMa/s15w97YtCFjWcYzSvi3SXZa15uykNoEtXkCM2J6U+ykO1ZWpu5FB0ZejgOjr4ROjGLpGxUp63HhPvPhDbMyqpmMAmJfeKIBhrgXGmGkDtKDp4JL429jivMb6CRIai4Q5Mp6L029AylL7Rrkg1lR7sVgqAw4eCpTUXYlejy0kc7cAY2w0pL0AKpienQTijX7RqXUiwzFbgEtZUOw4dq7oBNGJrfpwTeCi3n11bNv6ns4q4DYjeEUkklSdXrDQF560QWpBnwlvgU6sSxOsTq1qntn3FQcGToGOjHLy2AonXaK6wnxg76qLqcJxi5/6h068YfQifSNKtTB8+ujWzEsdQQ6kWEgy8rdi+SKwc3VdyIRUI8d+WBWqBsmE2KqnWS9hhb1fBCzH6f/B6GRtPNqqVcX1kTXpFcQ6EIOBaXlKeWQUD94BPZc8hXohAVtmB6cdsb5qqPX3zH+1GulgNjERzvorHvpm9KXJH/KN1J8UyOd90nVad12gGZDyDcqUt/Kq1NuRmv5YOhEjkXMQ8M0HPdJga7FR55mVNnEJ35NDXktNMKCQU/e9k2xl1Au2qCTMoowGEbunhmjSLeMeHMj73XE2SGbPx3xViHEzQ3Xzl2aPgVeaRF/RkJqhEYMebFG7l5k8SSpuh9DN2Xl6jDQwYsmYf+58I2K1eOb4O7q31bPrvIsIFb9OE2Riu9BJ9I3qlCHgaRvdHVyN3QSLOIIevCNNlUvRHuJvllfiVXhJZgqSL+wlfkljQTMl6kXaXVQ0n6RepIL45P7oZugh7FIqrojQ0dDK9QwjYDaHxSCz85PQAn+PTIWtE5Duh0dqtgsUoaN7SVzoBNBsblIh3qa4eLjtbjsw/+BTng8AZ5QL8wzTfaw54kQcfBbV1PvWQaNiGQSIqLukNtK5uMTYyh0Eo2YygBqcbITNXv05k3I6K3b4sXoYbXDdr/4lCcBiVfvLiLh/Dt0Qr2GN6svtMW8EHuKpkMnqRRDZ6faOrtx/yu4sFWrXQS3PUIzOgrVylgnt81Z8qk3FTds8IN01iRohHfQhTpOzjopFsC60L1n7gf0u3wu2QUdbeqAaFV7I6prd0In8n551MMQLsTfjXhtY3rzDPVePXXLJ9DDA9CISKXA29V7/r1ZdAOOmV+ATuLUc2QPUlGz52cIJuPQBmmMFGkMoRhvqffUNzj13fvz5RSQSO/ugkfpidqjzAMudbDiQiNmBX5dMgtaP9cl1RZVa/Xral/FhPo66ET2HJXGIARN3i29eu/e7oq5e1DtX/45CacGGuGRKERcbcFsKbsLnUxv3lpHh9VrC8tMDIq24KZ926AT4XKk2jrUFQ32wrDXN27teShrcxL7Hqii8Op3oHP7N2kYeFBtB4NX4j37GugkETeRTKiH3Nv2bkZ5rB06cT1oDCFYQxJGuO/x7P3d5rKy1u0deStdqMKCccgweKn0j+CFY++9jdpfbkCwvBxfunsZgmWZs1mlOS3NahWTju7DlYfegk5kjjqPq8cyI2CuHLNr4xnzKxmblNi/fAaVLIVGBDlm3IPP86vSOzwnjTTW7YMTjyHycSMaD76XtV6MhOO6ivQwauG3vbUJWqH3dD2oNsbYfw7ftfHZTGXGme/5pzb1q8e6NnLShFRtHpyzj+xx2F30h/CKSJ3ujTyVeQB2kkbaclNxy95fkM9zEjqRwlH5PORCJMmovC9b+ZlCqCuT2Y45N5LNly6fJ3f02GUWXipbrH3DUxnOUb3n8OZjuO7Af0EnIpGESwaRCmaylSPf2Px+tvJeAhIHHxhNZvV3oBEpGO6hm/+GfJ7jpt4Ng6VqU/k8UrXNeWMdLFdjWrr0edrUhgaptg9s23oyV53ePYgLqQe15h3JhEUVMpzzSslc6ET6PLGY2ueZdnAnRjV+AJ3IniOSjrqeiW9W7fh5TrO2W0CidjlNawut6zGEdM6oq6t4pXQ+EkxvkkZHu6WybFERacaMNzdCJ3JcdD24EszAsyN2b96hqpcWkDjwV58j1fb30AkNjl6itvuLvoT3Anp9HmkUJJNqG+fWdzbrVW2QhkG72ucB6hMB5mko6boLy32Y/mvNkOBtEeWFthuV2FY8D1o/1/Xm81x6dD/5PHozWHksls7HVmHY1orROzZ7+t0hQ9TePx0ci6ERQRfJo2oLZmfpDBp/vK0q8Eospp7nKaIg6CwKhmpFzvN4UW2m8fozX73M89bVcpX30ziLvUuzwkVXN1fwUWA8/jt4E3TiOMyTz/O1d7egskPvb1HJWFtPvywjAq0C1qJwOKxOhvgUih6SU2pC33oPJ2EY0m1XZOvsKv66y8Xv5gvH2ppkTCjts3U0NGztjAbelM9zpThURJv4tNqdQuibYuqaZIrHzVObzWYjZYgPRrz+87yWEuq8zN87k27/k5fpFmbI51yI++u2PKs3TbkA0BfO8Tkn+AIqcHwBFTi+gAocX0AFji+gAscXUIHjC6jA8QVU4GjcRej3S1iEre33RErsQFfsjQLnpt5Uw8KgX4Z6fnZi7fQU2CNtjnVVU8JkKQqsMSHkusYtAddd8eDFc7Uuej6f9DsBrWtcJye6fsA+Vc+xlIHjcbv7N03pf5NhurMfGjNvFwYA/UpAa0+svZMxtpb1GTvlz2XKHz48BdU5XmEYV90/pkbv2pHzQL8yEgzGVrEM1zzIdhHssWpbCDG8jbv3YQDQbwS05viaS+hhbLbyUKD3ZJngIq/9qQuVfiOggGVOzlVu990oyWDDMQDoNwISwsgr/YZBe5LqeaH/jEEcOZdad/Let0ICOowBQL8R0MJhCw/TQ8bdLFzqK+198uCE7l26zhP9yorjXHybvvoz1rB8ErdISD08BoHDotj+VwwA+pWA7hp211sCbDE5OukENDnINCUttDinI1ZkKxy2jcT14Ytm6t2y8TzRL0M9G05uGB9LOd89mbRnRRw2hAQl4whH6HZ+jAh7PHzlbE9Zm/2Bfp129dSB9WUflxtVVpS5E7jbMH/yfHWmvo+Pj4+Pj4+Pj8855/8BJPZvT66v53UAAAAASUVORK5CYII=);
+    width: 8.3vw;
+    height: 15vh;
+    margin-left: 2vw;
+    background-size: 6vw 10vh;
+    background-repeat: no-repeat
+}
+
+.IMG1 {
+    background: url(../assets/boi.png);
+    width: 8.3vw;
+    height: 15vh;
+    margin-left: 2vw;
+    background-repeat: no-repeat
+}
+
+.IMG2 {
+    background: url(../assets/bunder.png);
+    width: 8.3vw;
+    height: 15vh;
+    margin-left: 2vw;
+    background-repeat: no-repeat
+}
+
+.F1 {
+    background: url(../assets/singgih.png);
+    height: 6.5vw;
+    margin-left: -.9vw;
+    margin-top: -.1vw
+}
+
+.F2 {
+    background: url(../assets/subhan.png);
+    height: 6.5vw;
+    margin-left: -.8vw;
+    margin-top: -.2vw;
+}
+
+.F3 {
+    background: url(../assets/maya.png);
+    height: 6.5vw;
+    margin-left: -.9vw;
+    margin-top: -.2vw
+}
+
+.F4 {
+    background: url(../assets/nanda.png);
+    height: 6.5vw;
+    margin-left: -.9vw;
+    margin-top: -.2vw;
+}
+
+.carar {
+    color: rgb(255, 255, 255);
+    font-family: 'pr';
+    font-weight: 400;
+    font-size: 15px;
+}
+
+
+.f1 {
+    font-size: 4vw;
+    font-family: reg;
+    margin-left: 6vw;
+    color: #000
+}
+
+.f2 {
+    font-family: bold;
+    font-size: 2vw;
+    color: #082032;
+    margin-left: 6vw;
+    margin-top: 3vh
+}
+
+.f3 {
+    font-family: reg;
+    font-size: 1.5vw;
+    color: #082032;
+    margin-left: 6vw;
+    margin-top: 3vh;
+    text-align: justify
+}
+
+.cardo {
+    border-radius: 1vw;
+    background-color: #18181882 !important;
+    height: 25vw;
+    width: 27vw;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px)
+}
+
+.cardd {
+    font-family: 'pm';
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    width: 50vh;
+
+
+}
+
+.cara {
+    font-family: reg;
+    font-size: 1.1vw;
+    color: #fff;
+    width: 60%;
+    text-align: justify;
+    margin-left: 2vw
+}
+
+.carda {
+    border-radius: 1vw;
+    background-color: #f8f8f82b !important;
+    height: 21vw;
+    width: 27vw !important;
+    backdrop-filter: blur(10px);
+}
+
+
+.backgroundabout {
+    background-image: url(../assets/bgabt.png);
+    width: 100%;
+    height: 105vh;
+    margin-top: 25vh;
+}
+
+.ourservices {
+    font-size: 62px;
+    margin-top: 4vw;
+    color: #fff;
+    margin-left: 3vw;
+    padding-top: 2vh;
+    font-family: 'pr';
+    font-weight: 400;
+
+}
+
+.ourss {
+    width: 18vw !important;
+    margin-left: 4vw !important;
+    border-radius: 7vw !important;
+    margin-top: 2vh !important;
+    color: #fff !important;
+    text-transform: initial !important;
+    font-size: 1.3vw !important;
+    position: relative;
+    background: #df901b !important;
+    border: white;
+}
+
+
+.hi8 {
+    position: absolute;
+    background-image: url(../assets/group.png);
+    width: 50%;
+    height: 25%;
+    margin-left: 10.1%;
+    margin-top: 6%;
+}
+
+
+.grub1 {
+    background-image: url(../assets/Group1-a7918d10.png);
+    width: 44vw;
+    height: 38vh;
+    background-repeat: no-repeat;
+    margin-left: 3vw;
+    margin-top: 3vh;
+    background-size: 44vw 38vh;
+}
+
+.grub2 {
+    background-image: url(../assets/Group2-7b03cd67.png);
+    width: 23vw;
+    height: 38vh;
+    background-repeat: no-repeat;
+    margin-left: 1vw;
+    margin-top: 3vh;
+    background-size: 23vw 38vh;
+}
+
+.grub3 {
+    background-image: url(../assets/Group3-83f039e3.png);
+    width: 23vw;
+    height: 38vh;
+    background-repeat: no-repeat;
+    margin-left: 1vw;
+    margin-top: 3vh;
+    background-size: 23vw 38vh;
+}
+
+.grub4 {
+    background-image: url(../assets/Group4-f70f39ed.png);
+    width: 23vw;
+    height: 38vh;
+    background-repeat: no-repeat;
+    margin-top: 2vh;
+    background-size: 24vw 38vh;
+    margin-left: 3vw;
+}
+
+.grub5 {
+    background-image: url(../assets/Group4-f70f39ed.png);
+    width: 23vw;
+    height: 38vh;
+    background-repeat: no-repeat;
+    margin-left: 1vw;
+    margin-top: 2vh;
+    background-size: 23vw 38vh;
+}
+
+.grub6 {
+    background-image: url(../assets/Group6-eb6e257d.png);
+    width: 44vw;
+    height: 38vh;
+    background-repeat: no-repeat;
+    margin-left: 1vw;
+    margin-top: 2vh;
+    background-size: 44vw 38vh;
+}
+
+.software {
+    background: url(../assets/software1-12c243f2.png);
+    width: 5vw;
+    height: 11vh;
+    background-repeat: no-repeat;
+    margin-left: 2vw
+}
+
+.grupp1 {
+    background: url(../assets/software2-05d13a7b.png);
+    width: 10vw;
+    height: 17vh;
+    background-repeat: no-repeat;
+    margin-left: 3vw;
+    margin-top: 5vh;
+    padding-top: 2vh
+}
+
+.sf1 {
+    font-size: 2vw;
+    color: #fff;
+    margin-top: 4vh;
+    font-family: 'pm';
+    font-weight: 700;
+}
+
+.sf2 {
+    font-size: 20px;
+    color: #fff;
+    font-family: 'pr';
+    font-weight: 300;
+}
+
+.sf3 {
+    font-size: 1vw;
+    color: #fff;
+    text-align: justify;
+    width: 23vw;
+    font-family: 'pr';
+    font-weight: 400;
+}
+
+.details {
+    color: white;
+    width: 37vw;
+    border-radius: 15px;
+    margin-left: 3vw;
+    margin-top: 2vh;
+    border: 1px solid yellow;
+    text-transform: initial;
+    font-size: 1.3vw;
+
+}
+
+.mobileapp {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 1vw;
+    font-family: 'pm';
+    font-weight: 500;
+}
+
+.mobile1 {
+    background: url(../assets/software2-05d13a7b.png);
+    width: 10vw;
+    height: 19vh;
+    margin-top: 5vh;
+    margin-left: 7vw;
+    background-repeat: no-repeat;
+    padding-top: 4vh
+}
+
+.mobile2 {
+    background: url(../assets/mobile2-3db0c26b.png);
+    width: 5vw;
+    height: 10vh;
+    margin-left: 2vw;
+    background-repeat: no-repeat
+}
+
+.data1 {
+    background: url(../assets/software2-05d13a7b.png);
+    width: 10vw;
+    height: 19vh;
+    margin-top: 5vh;
+    margin-left: 7vw;
+    background-repeat: no-repeat;
+    padding-top: 4vh
+}
+
+.data2 {
+    background: url(../assets/data2-1b72f42d.png);
+    width: 5vw;
+    height: 10.3vh;
+    margin-left: 2vw;
+    background-repeat: no-repeat
+}
+
+.cloud1 {
+    background: url(../assets/software2-05d13a7b.png);
+    width: 10vw;
+    height: 19vh;
+    margin-top: 5vh;
+    margin-left: 7vw;
+    background-repeat: no-repeat;
+    padding-top: 4vh
+}
+
+.cloud2 {
+    background: url(../assets/cloud2-1de415cb.png);
+    width: 5vw;
+    height: 10.5vh;
+    margin-left: 2vw;
+    background-repeat: no-repeat
+}
+
+.content1 {
+    background: url(../assets/software2-05d13a7b.png);
+    width: 10vw;
+    height: 19vh;
+    margin-top: 5vh;
+    margin-left: 7vw;
+    background-repeat: no-repeat;
+    padding-top: 4vh
+}
+
+.content2 {
+    background: url(../assets/content2-facc5a87.png);
+    width: 5.1vw;
+    height: 10.6vh;
+    margin-left: 2vw;
+    background-repeat: no-repeat
+}
+
+.ours {
+    color: white;
+    width: 16vw;
+    border-radius: 7vw;
+    margin-left: 1vw;
+    margin-top: 3vh;
+    height: 4vh;
+    background-color: #213647;
+    border: 1px solid #213647;
+    font-size: 1vw;
+    font-family: 'pr';
+    font-weight: 400;
+}
+
+.p1 {
+    background: url(../assets/p1-1c0579ad.png);
+    width: 7vw;
+    height: 12vh;
+    float: left;
+    background-repeat: no-repeat;
+    margin-top: 12vh;
+    margin-left: 1vw
+}
+
+.p2 {
+    background: url(../assets/p2-b4f32846.png);
+    width: 7.3vw;
+    height: 14.5vh;
+    margin-left: -3vw;
+    background-repeat: no-repeat;
+    z-index: 1;
+    margin-top: 9vh
+}
+
+.p3 {
+    background: url(../assets/p3-ba4df19e.png);
+    width: 6.4vw;
+    height: 13vh;
+    margin-left: -1vw;
+    background-repeat: no-repeat;
+    margin-top: 11vh
+}
+
+.s1 {
+    font-size: 2vw;
+    color: #fff;
+    margin-left: 3vw;
+    margin-top: 6vh;
+    font-family: 'pm';
+    font-weight: 700;
+}
+
+.s2 {
+    font-size: 1vw;
+    color: #fff;
+    margin-left: 3vw;
+    font-family: 'pr';
+    font-weight: 400;
+    
+}
+
+.partner-title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 62px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #242424;
+    text-shadow: 0px 8px 13px rgba(0, 0, 0, .1);
+    margin-top: 15vh;
+    margin-bottom: 15vh;
+    width: 100%;
+}
+
+.partner1 {
+    justify-content: center;
+    display: flex;
+    padding-left: 13vw;
+    margin-top: 15vh;
+    padding-bottom: 12vh;
+    height: 20vh
+}
+
+.partner1 img{
+    margin:3vw;
+    width: 14% !Important;
+    height: 13vh !important;
+
+}
+
+.marginimg {
+    margin-right: 3vw;
+}
+
+.P1 {
+    background: url(../assets/Telkomsel_logo-4e81df35.png);
+    height: 7vh;
+    width: 16.8vw;
+    background-repeat: no-repeat
+}
+
+.P2 {
+    background: url(../assets/huawei_logo_icon-48baa4d7.png);
+    height: 12vh;
+    width: 17vw;
+    background-repeat: no-repeat;
+    margin-top: -5vh
+}
+
+.P3 {
+    background: url(../assets/mandiri_logo-c467607e.png);
+    height: 9vh;
+    width: 14.7vw;
+    margin-top: -3.8vh;
+    background-repeat: no-repeat
+}
+
+.P4 {
+    background: url(../assets/logo_kemenkes-3ad640bf.png);
+    height: 13vh;
+    width: 13.6vw;
+    margin-top: -5vh;
+    background-repeat: no-repeat
+}
+
+.partner2 {
+    width: 100%;
+    height: 17vh;
+    justify-content: center;
+    display: flex;
+    padding-left: 10vw;
+    margin-top: -3vh
+}
+
+.P5 {
+    background: url(../assets/Indosat_Ooredoo_logo-2ef2c39b.png);
+    height: 15vh;
+    width: 13.6vw;
+    margin-left: 3vw;
+    background-repeat: no-repeat
+}
+
+.P6 {
+    background: url(../assets/Hanes_logo-22a6ba80.png);
+    height: 17vh;
+    width: 13.6vw;
+    margin-left: 6vw;
+    background-repeat: no-repeat;
+    margin-top: -2vh
+}
+
+.P7 {
+    background: url(../assets/gag_nikel-dff36bb0.png);
+    height: 12vh;
+    width: 13.6vw;
+    margin-left: 4vw;
+    background-repeat: no-repeat
+}
+
+.P8 {
+    background: url(../assets/pt_herona-2e4bd440.png);
+    height: 9vh;
+    width: 15vw;
+    background-repeat: no-repeat;
+    margin-left: 5vw
+}
+
+.footer {
+        display: flex !important;
+        width: 100% !important;
+        grid-auto-flow: row !important;
+        place-items: start;
+        row-gap: 2.5rem;
+        -moz-column-gap: 1rem;
+        column-gap: 1rem;
+        font-size: .875rem;
+        line-height: 1.25rem;
+        background-color: #2b2b2b21 !important;
+        box-shadow: 0 3px 8px #0000001a !important;
+        display: flex !important;
+        padding-top: 3vh !important;
+        padding-bottom: 3vh !important;
+}
+
+.slide {
+    background-color: white;
+    color: #545454;
+    border: 1px solid #000000;
+}
+
+.company {
+    color: #545454;
+    width: 33.3%
+}
+
+.company-title {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+}
+
+.link {
+    text-decoration: underline;
+    margin-bottom: 1vw;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 12px
+}
+
+.address{
+    color: #545454;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.sosmed {
+    width: 33.3%;
+    justify-content: center;
+    display: flex
+}
+
+.sosmed-title {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+}
+
+.icon {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 2.5vw;
+    cursor: pointer
+}
+
+.mg-svg {
+    margin: 10px
+}
+
+.copyright {
+    color: #545454;
+    padding-top: 1vw!important;
+    font-size: 15px;
+}
+
+.contact {
+    display: flex;
+    width: 33.3%;
+    text-align: center
+}
+
+.contact-title {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+    padding-left: 12vw
+}
+
+.card9 {
+    width: 1076px;
+    height: 498px;
+    margin-top: 13vh;
+    background-color: #787878 !important;
+}
+.button {
+    padding-left: 13.5vw!important;
+    padding-top: 2vh!important;
+}
+
+.wa {
+    background: rgb(247,195,60) !important;
+    text-transform: initial !important;
+    border-radius: 30px !important;
+    font-size: 12px !important;
+    color: #000 !important;
+    width: 170px !important;
+    font-weight: 500;
+    border: none;
+}
+
+.lok {
+    color: #fff !important;
+    text-align: center !important;
+    text-transform: initial !important;
+    background: rgb(57,40,99) !important;
+    width: 170px !important;
+    margin-top: 1vh !important;
+    border-radius: 30px !important;
+    font-size: 12px !important; 
+}
+
+
+
+.Pop1 {
+    background: url(../assets/guy_working-162e9bb7.png);
+    width: 25.4vw;
+    height: 66vh;
+    background-repeat: no-repeat;
+    margin-top: 1vh;
+    margin-left: 5vw;
+    position: absolute
+}
+
+.card-title1 {
+    height: 20vh;
+    padding-left: 12vw;
+    font-size: 40px;
+    font-weight: 1000;
+    text-align: center;
+    background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-emphasis-color: transparent;
+    text-emphasis-color: transparent;
+    position: absolute
+}
+
+.Pop4 {
+    position: absolute;
+    background: url("../assets/cloud_storage-a07e3d81.png") no-repeat;
+    width: 61.4vw;
+    height: 40vh;
+    margin-left: 15.5vw;
+    margin-top: 15vh;
+}
+
+.Pop4a {
+    position: absolute;
+    background: url("../assets/girl_taking_a_selfie-2e4d2a6b.png") no-repeat;
+    width: 12.4vw;
+    height: 70vh;
+    margin-top: 4vh;
+    margin-left: 3vw;
+}
+
+.Pop5 {
+    position: absolute;
+    background: url(/src/assets/young_man_with_phone-bca0f1c6.png);
+    width: 65vw;
+    height: 70vh;
+    margin-top: 4vh;
+    margin-left: 4vw;
+    background-size: 350px;
+    background-repeat: no-repeat;
+}
+
+
+
+
+.card-title4{
+    padding-top: 8vh;
+    padding-left: 12vw;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-emphasis-color: transparent;
+    text-emphasis-color: transparent;
+    position: absolute
+}
+
+.card-title5 {
+    padding-top: 8vh;
+    padding-left: 8vw;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-emphasis-color: transparent;
+    text-emphasis-color: transparent;
+    position: absolute
+}
+.content {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+.card-title2 {
+    height: 20vh;
+    padding-top: 9vh;
+    padding-left: 12vw;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-emphasis-color: transparent;
+    text-emphasis-color: transparent;
+    position: absolute
+}
+
+.card-title3 {
+    padding-top: 9vh;
+    padding-left: 8vw;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    -webkit-text-emphasis-color: transparent;
+    text-emphasis-color: transparent;
+    position: absolute
+}
+
+
+.card-sub1 {
+    padding-top: 5vw;
+    padding-left: 9vw;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+}
+
+.card-sub2,
+.card-sub3,
+.card-sub4 {
+    padding-left: 10vw;
+    padding-top: 19vh;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    color: #082032;
+    position: absolute;
+}
+
+.card-sub5{
+padding-left: 12vw;
+    padding-top: 19vh;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    color: #082032;
+    position: absolute;
+}
+.card-content1 {
+    padding-left: 0vw;
+    padding-top: 17vh;
+    width: 39vw;
+    height: 95vh;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 32px;
+    text-align: center;
+    color: #fff;
+    position: absolute;
+}
+
+.card-content2 {
+    margin-left: 6vw;
+    padding-top: 29vh;
+    position: absolute;
+    width: 535px;
+    height: 90px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #082032
+}
+
+.card-content3,
+.card-content4,
+.card-content5 {
+    margin-left: 6.5vw;
+    padding-top: 25vh;
+    position: absolute;
+    width: 535px;
+    height: 90px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #082032
+}
+
+.btn-close {
+    width: 107px;
+    height: 40px !important;
+    background-color: #392863 !important;
+    font-family: 'pm';
+    font-size: 15px !important;
+    color: #fff !important;
+    text-transform: initial !important;
+    border-radius: 10px !important;
+}
+
+.btn-close-training {
+    width: 107px;
+    height: 40px !important;
+    background-color: #392863 !important;
+    font-family: 'pm';
+    font-size: 15px !important;
+    color: #fff !important;
+    text-transform: initial !important;
+    border-radius: 10px !important;
+}
+
+.Pop3 {
+    position: absolute;
+    background: url(../assets/candlesticks_chart-6f566f10.png);
+    width: 30.4vw;
+    height: 66vh;
+    background-repeat: no-repeat;
+    margin-top: -3vh;
+    margin-left: 11.851851851851851vw
+}
+
+.Pop2 {
+    position: absolute;
+    background: url("../assets/young_woman_with_laptop-fecd111e.png") no-repeat;
+    width: 50vw;
+    height: 68vw;
+    background-repeat: no-repeat;
+    margin-top: 1vh;
+    margin-left: 1.5vw
+}
+
+.Pop3a {
+    position: absolute;
+    background: url(../assets/girl_idea-1821e0b3.png);
+    width: 30.4vw;
+    height: 66vh;
+    background-repeat: no-repeat;
+    margin-top: 21vh;
+    margin-left: 1.5vw
+}
+
+/* .Pop2 {
+    position: absolute;
+    background: url(../assets/young_man_with_phone-bca0f1c6.png);
+    width: 30.4vw;
+    height: 66vh;
+    background-repeat: no-repeat;
+    margin-top: 21vh;
+    margin-left: 1.5vw
+} */
+
+
+
+.kotak{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.inn {
+    margin-left: 10vw;
+    color: #545454;
+    font-size: 15px;
+  }
+
+  .konten {
+    margin-left: 4vw;
+    color: #545454;
+    font-size: 30px;
+  }
+
+  .inne {
+    margin-top: 3vh;
+    margin-left: 4vw;
+    color: #545454;
+    font-size: 15px;
+  }
+
+.btttn {
+    font-family: bold;
+    font-size: 2vw;
+}
+
+
+.suu-btn {
+    width: 135px;
+    height: 56px;
+    background: rgb(107, 107, 107);
+    box-shadow: 0 3px 4px #0000001a;
+    border-radius: 30px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    align-items: center;
+    text-transform: initial;
+    color: #dddddd;
+    margin-top: 6vh;
+    margin-left: 21.5vw
+  }
+
+  @media screen and (max-width:1366px) {
+
+    .enhance {
+        font-size: 65px;
+    }
+
+    .wong2 {
+        height: 74vh;
+    }
+
+}
+@media screen and (max-width:1288px) {
+
+    .enhance {
+        font-size: 61px;
+    }
+
+    .img {
+        margin-left: 41%;
+        width: 53%;
+    }
+
+    .Img {
+        margin-left: 9%;
+        width: 37%;
+    }
+
+}
+
+  @media screen and (max-width:1280px) {
+    .enhance{
+        font-size: 70px;
+    }
+
+    .wong2{
+        height: 77vh;
+    }
+
+    .cloud2{
+        width: 6vw;
+    }
+
+    .software{
+        width: 6vw;
+    }
+
+    .mobile2{
+        width: 6vw;
+    }
+
+    .data2{
+        width: 6vw;
+    }
+
+    .content2{
+        width: 6vw;
+    }
+
+    .card-title1 {
+        margin-left: -2vw;
+    }
+
+    .card-sub1 {
+        margin-left: -1.8vw;
+    }
+
+    .card-content1 {
+        margin-left: 2vw;
+    }
+    
+  }
+
+  @media screen and (max-width:1173) {
+    .content2{
+        width: 7vw;
+    }
+
+  }
+
+  
+
+  /* raffy */
+  @media screen and (max-width:1680px) {
+    .card-title1 {
+        margin-left: -2vw;
+    }
+
+    .card-sub1 {
+        margin-left: -1vw;
+        margin-top: -1vw;
+    }
+
+    .card-content1 {
+        margin-left: vw;
+    }
+    .btn-closereal{
+        margin-top: 0% !important;
+    }
+    .btn-conreal{
+        margin-top: 0% !important;
+    }
+    
+    }
+
+    @media screen and (max-width:1463px) {
+        .card-title1 {
+            margin-left: -2vw;
+        }
+    
+        .card-sub1 {
+            margin-left: -2vw;
+            margin-top: -1vw;
+        }
+    
+        .card-content1 {
+            margin-left: vw;
+            margin-top: -1vw;
+        }
+        
+        }
+
+        @media screen and (max-width:1362px) {
+            .card-title1 {
+                margin-left: -2vw;
+            }
+        
+            .card-sub1 {
+                margin-left: -2vw;
+                margin-top: -1vw;
+            }
+        
+            .card-content1 {
+                margin-left: 2vw;
+                margin-top: -1vw;
+            }
+            
+            }
+
+            @media screen and (max-width:1329px) {
+
+                .enhance {
+                    font-size: 63px;
+                }
+            
+            }
+
+            @media screen and (max-width:1240px) {
+                .card-title1 {
+                    margin-left: -2vw;
+                }
+            
+                .card-sub1 {
+                    margin-left: -2vw;
+                    margin-top: 0.5vw;
+                }
+            
+                .card-content1 {
+                    margin-left: 2vw;
+                    margin-top: -1vw;
+                }
+                
+                }
+
+                @media screen and (max-width:1207px) {
+                    .card-title1 {
+                        margin-left: -2vw;
+                    }
+                
+                    .card-sub1 {
+                        margin-left: -2vw;
+                        margin-top: 0.5vw;
+                    }
+                
+                    .card-content1 {
+                        margin-left: 3vw;
+                        margin-top: -1vw;
+                    }
+                    
+                    }
+
+                    @media screen and (max-width:1200px) {
+
+                        .img {
+                            margin-left: 39%;
+                            width: 56%;
+                        }
+                    
+                    }
+
+                    @media screen and (max-width:1071px) {
+                        .card-title1 {
+                            margin-left: -4vw;
+                        }
+                    
+                        .card-sub1 {
+                            margin-left: -4vw;
+                            margin-top: 0.5vw;
+                        }
+                    
+                        .card-content1 {
+                            margin-left: 3vw;
+                            margin-top: -1vw;
+                        }
+
+                        .Pop1 {
+                            width: 33.4vw;
+                            height: 66vh;
+
+                        }
+                        
+                        
+                        }
+
+                        @media screen and (max-width:965px) {
+                            .card-title1 {
+                                margin-left: -3vw;
+                            }
+                        
+                            .card-sub1 {
+                                margin-left: -3vw;
+                                margin-top: 0.5vw;
+                            }
+                        
+                            .card-content1 {
+                                margin-left: 6vw;
+                                margin-top: -3vw;
+                            }
+
+                            .Pop1 {
+                                width: 37.4vw;
+                                height: 66vh;
+    
+                            }
+                        }
+
+                            @media screen and (max-width:867px) {
+                                .card-title1 {
+                                    margin-left: -5vw !important;
+                                    margin-top: -2vw;
+                                }
+                            
+                                .card-sub1 {
+                                    margin-left: -6vw !important;
+                                    margin-top: -1vw;
+                                }
+                            
+                                .card-content1 {
+                                    margin-left: 6vw !important;;
+                                    margin-top: -5vw;
+                                }
+
+                                .Pop1 {
+                                    width: 42.4vw;
+                                    height: 66vh;
+        
+                                }
+                                
+                                }
+
+                                @media screen and (max-width:766px) {
+                                    
+                                    .card-content1 {
+                                        margin-left: 4vw;
+                                        margin-top: -6vw;
+                                        width: 40%;
+                                    }
+
+                                    .btn-close-training{
+                                        margin-top: -1vw;
+                                    }
+    
+                                    .btn-con-training {
+                                        margin-top: -1vw;
+                                    }
+                                    .card-sub1 {
+                                        margin-left: -7vw;
+                                        margin-top: 0.5vw;
+                                    }
+
+                                    .Pop1 {
+                                        width: 47.4vw;
+                                        height: 66vh;
+            
+                                    }
+                                    }
+
+                                    @media screen and (max-width:685px) {
+                                        .card-title1 {
+                                          margin-left: -31% !important;
+                                            margin-top: 30%;
+                                        }
+                                    
+                                        .card-sub1 {
+                                            margin-left: -35% !important;
+                                            margin-top: 33%;
+                                        }
+                                    
+                                        .card-content1 {
+                                            margin-left: -18% !important;
+                                            margin-top: 27%;
+                                            width: 50%;
+                                        }
+        
+                                        .btn-close-training {
+                                            margin-top: 220% ;
+                                            margin-left: -24vw;
+                                        }
+        
+                                        .btn-con-training {
+                                            margin-top: 220%;
+                                            margin-left: -23vw;
+                                        }
+
+                                        .Pop1 {
+                                          margin-left: 19%;
+                                          background-size: 70%;
+                                          margin-top: -2%;
+            
+                                        }
+
+                                        .card9 {
+                                            width: 500px !important;
+                                             height: 750px; 
+                                             margin-left: -vw;
+                                        }
+                                        
+                                    
+                                    }
+
+                                    @media screen and (max-width:622px) {
+                                        .card-title1 {
+                                          margin-left: -21%;
+                                            margin-top: 30%;
+                                        }
+                                    
+                                        .card-sub1 {
+                                            margin-left: -23%;
+                                            margin-top: 33%;
+                                        }
+                                    
+                                        .card-content1 {
+                                            margin-left: -18%;
+                                            margin-top: 27%;
+                                            width: 50%;
+                                        }
+        
+                                        .btn-close-training {
+                                            margin-top: 200%;
+                                            margin-left: -24vw;
+                                        }
+        
+                                        .btn-con-training{
+                                            margin-top: 200%;
+                                            margin-left: -23vw;
+                                        }
+
+                                        .Pop1 {
+                                          margin-left: 20%;
+                                          background-size: 70%;
+                                          margin-top: -2%;
+            
+                                        }
+
+                                        .card9 {
+                                            width: 500px;
+                                             height: 750px; 
+                                             margin-left: -vw;
+                                        }
+                                        
+                                    
+                                    }
+
+                                    @media screen and (max-width:580px) {
+                                        .card-title1 {
+                                          margin-left: -35% !important;
+                                            margin-top: 32%;
+                                        }
+                                    
+                                        .card-sub1 {
+                                            margin-left: -38% !important;
+                                            margin-top: 36%;
+                                        }
+                                    
+                                        .card-content1 {
+                                            margin-left: -18%;
+                                            margin-top: 30%;
+                                            width: 50%;
+                                        }
+        
+                                        .btn-close-training {
+                                            margin-top:  200% !important;
+                                            margin-left: -20vw;
+                                        }
+        
+                                        .btn-con-training {
+                                            margin-top: 200% !important;
+                                            margin-left: -25vw !important;
+                                        }
+
+                                        .Pop1 {
+                                          margin-left: 21%;
+                                          background-size: 80%;
+                                          margin-top: -2%;
+            
+                                        }
+
+                                        .card9 {
+                                            width: 500px;
+                                             height: 750px; 
+                                             margin-left: -vw;
+                                        }
+                                        
+                                    
+                                    }
+
+
+                                        @media screen and (max-width:531px) {
+                                            .card-title1 {
+                                                margin-left: -36% !important;
+                                                margin-top: 32%;
+                                            }
+                                        
+                                            .card-sub1 {
+                                                margin-left: -42% !important;
+                                                margin-top: 37%;
+                                            }
+                                        
+                                            .card-content1 {
+                                                margin-left: -17%;
+                                                margin-top: 30%;
+                                                width: 50%;
+                                                font-size: 13px !important;
+                                            }
+            
+                                            .btn-close-training {
+                                                margin-top: 240%;
+                                                margin-left: -24vw;
+                                            }
+            
+                                            .btn-con-training {
+                                                margin-top: 240%;
+                                                margin-left: -23vw;
+                                            }
+
+                                            .Pop1 {
+                                                margin-left: 23%;
+                                                background-size: 90%;
+                                                margin-top: -3%;
+                
+                                            }
+
+                                            .card9 {
+                                                width: 500px;
+                                                height: 750px; 
+                                                margin-left: -vw;
+                                            }
+                                            
+                                        
+                                        }
+
+                                        
+                                    @media screen and (max-width:472px) {
+                                        .card-title1 {
+                                            font-size: 32px;
+                                            margin-left: -30%!important;
+                                            margin-top: 34%;
+                                        }
+                                    
+                                        .card-sub1 {
+                                            margin-left: -31%!important;
+                                            margin-top: 40%;
+                                            font-size: 15px;
+                                        }
+                                    
+                                        .card-content1 {
+                                            margin-left: -17%!important;
+                                            margin-top: 23%;
+                                            width: 50%;
+                                            font-size: 10px!important;
+                                        }
+                                        .btn-close-training {
+                                            margin-top: 100% !important;
+                                            margin-left: 5vw !important;
+                                        }
+        
+                                        .btn-con-training {
+                                            margin-top: 100%!important;
+                                            margin-left: -140px !important;
+                                        }
+
+                                        .Pop1 {
+                                            margin-left: 28%;
+                                            background-size: 65%;
+                                            margin-top: 0%;
+            
+                                        }
+
+                                        .card9 {
+                                            width: 410px!important;
+                                            height: 624px !important;
+                                        }
+
+                                        .modal-action {
+                                            margin-left: -2vw;
+                                        }
+                                        
+                                    
+                                    }
+
+                                         
+                             
+                                    
+   
+                                    @media screen and (max-width:1277px) {
+                                        .enhance{
+                                            font-size: 60px;
+                                        }
+                                    
+                                        .wong2{
+                                            height: 77vh;
+                                        }
+                                    
+                                        .cloud2{
+                                            width: 6vw;
+                                        }
+                                    
+                                        .software{
+                                            width: 6vw;
+                                        }
+                                    
+                                        .mobile2{
+                                            width: 6vw;
+                                        }
+                                    
+                                        .data2{
+                                            width: 6vw;
+                                        }
+                                    
+                                        .content2{
+                                            width: 6vw;
+                                        }
+                                        .btn-closereal{
+                                            margin-top: -10% !important;
+                                        }
+                                        .btn-conreal{
+                                            margin-top: -10% !important;
+                                            margin-left: 35px !important;
+                                        }
+                                        
+                                      }
+                                     
+                                    
+                                      @media screen and (max-width:1235px) {
+                                        
+                                        .cardd{
+                                            margin-top: -35px;
+                                        }
+                                      }
+                                    
+                                      @media screen and (max-width:1214px) {
+                                    
+                                        .img{
+                                            margin-left: 37vw;
+                                            width: 93vh;
+                                        }
+                                        
+                                      }
+                                    
+                                    
+                                    
+                                      @media screen and (max-width:1207px) {
+                                    
+                                        .enhance{
+                                            font-size: 57px !important;
+                                        }
+                                        
+                                      }
+                                    
+                                      @media screen and (max-width:1166px) {
+                                    
+                                        .enhance{
+                                            font-size: 55px !important;
+                                        }
+                                        
+                                      }
+                                    
+                                    
+                                      
+                                    
+                                      @media screen and (max-width:1152px) {
+                                        .enhance{
+                                            font-size: 60px;
+                                        }
+                                    
+                                        .wong2{
+                                            width: 69vh;
+                                        }
+                                    
+                                        .cloud2{
+                                            width: 7vw;
+                                        }
+                                    
+                                        .cardd{
+                                            font-size: -49px;
+                                        }
+                                    
+                                        .carar{
+                                            font-size: 12px;
+                                        }
+                                        
+                                      }
+
+                                      
+                                    
+                                      @media screen and (max-width:1125px) {
+                                    
+                                        .enhance{
+                                            font-size: 53px !important;
+                                        }
+                                        
+                                      }
+
+                                      @media screen and (max-width:1150px) {
+                                        .wong2 {
+                                            height: 82%;
+                                        }
+                                    
+                                        .img {
+                                            margin-left: 35%;
+                                            width: 59%;
+                                        }
+                                    }
+                                    
+                                      
+                                    
+                                      @media screen and (max-width:1149px){
+                                        .content2{
+                                            width: 8vw;
+                                        }
+                                    
+                                        .wong2{
+                                            height: 44vw;
+                                        }
+                                      }
+
+                                      @media screen and (max-width:1100px) {
+
+                                        .Img {
+                                            background-size: 93% !important;
+                                        }
+                                    
+                                        .img {
+                                            background-size: 90%;
+                                            margin-left: 39%;
+                                        }
+                                    }
+                                    
+                                      @media screen and (max-width:1064px) {
+                                        .enhance{
+                                            font-size: 59px;
+                                        }
+                                    
+                                        .RE{
+                                            background-size: 7vw;
+                                            margin-top: -21px;
+                                            margin-left: -8px;
+                                        }
+                                        .IMg{
+                                            background-size: 7vw;
+                                            margin-top: -21px;
+                                            margin-left: -8px;
+                                            width: 85px;
+                                        }
+                                    
+                                        .IMG{
+                                            background-size: 7vw;
+                                            margin-top: -21px;
+                                            width: 85px;
+                                        }
+                                    
+                                        .IMG1{
+                                            background-size: 7vw;
+                                            margin-top: -21px;
+                                            margin-left: -8px;
+                                            width: 85px;
+                                        }
+                                    
+                                        .IMG2{
+                                            background-size: 7vw;
+                                            margin-top: -21px;
+                                            margin-left: -8px;
+                                            width: 85px;
+                                        }
+                                    
+                                        .avatar-group{
+                                            margin-top: -1vh;
+                                        }
+                                        .card9 {
+                                            width: 870px;
+                                        }
+                                        .card-content1 {
+                                            font-size: 15px;
+                                            margin-left: 7vw;
+                                        }
+                                        .card-title1 {
+                                            margin-left: -1vw;
+                                        }
+                                        .card-sub1 {
+                                            margin-left: -2vw;
+                                        }
+                                        
+                                      }
+                                    
+                                      @media screen and (max-width:1084px){
+                                    
+                                        .enhance{
+                                            font-size: 51px !important;
+                                        }
+                                        .cardreal{
+                                            width: 1000px !important;
+                                        }
+                                      }
+                                    
+                                    
+                                      @media screen and (max-width:1076px) {
+                                    
+                                        .Img{
+                                            margin-left: 57px;
+                                        }
+                                        
+                                        .img{
+                                            margin-left: 360px;
+                                            width: 62vw;
+                                        }
+                                    
+                                      }
+
+                                      @media screen and (max-width:1050px) {
+
+                                        .wong2 {
+                                            height: 56vh;
+                                        }
+                                    
+                                        .is {
+                                            width: 88% !important;
+                                        }
+                                    
+                                    }
+                                    
+                                      @media screen and (max-width:1046px) {
+                                    
+                                        .enhance{
+                                            font-size: 50px;
+                                        }
+                                      }
+                                    
+                                      @media screen and (max-width:1043px){
+                                        .enhance{
+                                            font-size: 50px !important;
+                                        }
+                                      }
+                                    
+                                      @media screen and (max-width:1041px) {
+                                    
+                                        .enhance{
+                                            font-size: 49px !important;
+                                        }
+                                        
+                                      }
+                                    
+                                      @media screen and (max-width:1020px){
+                                        .cardreal {
+                                            width: 930px !important;
+                                        }
+                                        .card-title3 {
+                                            font-size: 30px !important;
+                                            margin-left: 5%;
+                                        }
+                                        .card-sub3 {
+                                            font-size: 17px !important;
+                                            margin-left: 3%;
+                                            margin-top: -2%;
+                                            font-family: 'pm';
+                                        }
+                                        .card-content3{
+                                            font-size: 14px !important;
+                                            margin-left: 11%;
+                                            width: 41%;
+                                            margin-top: -2%;
+                                            font-family: 'pm';
+                                        }
+                                        .btn-conreal{
+                                            margin-top: -12% !important;
+                                            margin-left: 35px !important;
+                                        }
+                                        .btn-closereal{
+                                            margin-top: -12% !important;
+                                            
+                                        }
+                                        .Pop3a{
+                                            background-size: 85%;
+                                            margin-left: 3%;
+                                        }
+                                        .Pop2{
+                                            background-size: 55%;
+                                            margin-left: 3%;
+                                            margin-top: 40px;
+                                        }
+                                        .Pop5{
+                                            background-size: 55%;
+                                            margin-left: 3%;
+                                            margin-top: 40px;
+                                        }
+                                        .Pop3{
+                                            background-size: 92%;
+                                            margin-top: 0%;
+                                            margin-left: 15%;
+                                        }
+                                      }
+                                    
+                                      @media screen and (max-width:1002px){
+                                        .enhance{
+                                            font-size: 45px !important;
+                                        }
+                                      }
+                                    
+                                      @media screen and (max-width:1000px) {
+                                    
+                                        .wong2{
+                                            height: 43vw ;
+                                        }
+                                        
+                                        .enhance{
+                                            font-size: 37px ;
+                                        }
+                                    
+                                        .Img{
+                                            width: 42vw;
+                                        }
+                                        .braincode {
+                                            font-size: 28px;
+                                        }
+                                      }
+                                    
+                                      @media screen and (max-width:950px){
+                                    
+                                        .is{
+                                            font-size: 16px;
+                                        }
+                                        .wadahbtn{
+                                            display: flex !important;
+                                        }
+
+                                        .wong2 {
+                                            height: 50vh;
+                                        }
+                                        .modal-action{
+                                            display: flex !important;
+                                        }
+                                        .Pop3{
+                                            background-size:75% !important ;
+                                            margin-top: 4%;
+                                        }
+                                        .Pop4{
+                                            background-size: 215px !important;
+                                            margin-top: 110px;
+                                        }
+                                        .Pop4a{
+                                            background-size: 148px !important;
+                                            margin-top: 41px;
+                                            width: 60vw;
+                                        }
+                                        .cardreal {
+                                            width: 780px !important;
+                                        }
+                                        .card-title3 {
+                                            font-size: 28px !important;
+                                            margin-left: 3%;
+                                        }
+                                        .card-sub3 {
+                                            font-size: 16px !important;
+                                            margin-left: 1%;
+                                            margin-top: -2%;
+                                            font-family: 'pm';
+                                        }
+                                        .card-content3{
+                                            font-size: 14px !important;
+                                            margin-left: 8%;
+                                            width: 41%;
+                                            margin-top: -3%;
+                                            font-family: 'pm';
+                                        }
+                                        .btn-conreal{
+                                            margin-left: 10px !important;
+                                        }
+                                    
+                                      }
+
+                                      @media screen and (max-width:920px) {
+
+                                        .enhance {
+                                            font-size: 43px !important;
+                                        }
+                                    
+                                    }
+
+                                    @media screen and (max-width:900px) {
+
+                                        .grub1 {
+                                            height: 35vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub2 {
+                                            height: 35vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub3 {
+                                            height: 35vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub4 {
+                                            height: 35vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub5 {
+                                            height: 35vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub6 {
+                                            height: 35vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .cardd {
+                                            margin-top: -56px;
+                                            font-size: 15px;
+                                        }
+                                    
+                                        .grupp1 {
+                                            width: 50vw;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .software {
+                                            background-size: 64px;
+                                            width: 70%;
+                                            margin-top: -15px;
+                                        }
+                                    
+                                        .mobile1 {
+                                            height: 13vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .mobile2 {
+                                            background-size: 64px;
+                                            width: 70%;
+                                            margin-top: -15px;
+                                        }
+                                    
+                                        .data1 {
+                                            height: 13vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .data2 {
+                                            background-size: 64px;
+                                            width: 70%;
+                                            margin-top: -15px;
+                                        }
+                                    
+                                        .cloud1 {
+                                            height: 13vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .cloud2 {
+                                            background-size: 64px;
+                                            width: 70%;
+                                            margin-top: -15px;
+                                        }
+                                    
+                                        .content1 {
+                                            height: 13vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .content2 {
+                                            background-size: 64px;
+                                            width: 70%;
+                                            margin-top: -15px;
+                                        }
+                                    
+                                        .s1 {
+                                            margin-top: 10px;
+                                        }
+                                    
+                                        .p2 {
+                                            width: 17vw;
+                                        }
+                                    
+                                        .p3 {
+                                            width: 17vw;
+                                        }
+                                    }
+
+                                    @media screen and (max-width:878px) {
+
+                                        .enhance {
+                                            font-size: 39px !important;
+                                        }
+                                    
+                                    }
+
+                                 
+                                    
+                                      /* darel */
+                                      @media screen and (max-width:870px){
+                                        .cardreal {
+                                            width: 850px;
+                                        }
+                                        .Pop3 {
+                                            background-size: 210px !important;
+                                        }
+                                        .Pop3a {
+                                            background-size: 220px !important;
+                                        }
+                                        .Pop2 {
+                                            background-size: 220px !important;
+                                            margin-top: 70px;
+                                        }
+                                        .Pop5 {
+                                            background-size: 325px !important;
+                                            margin-top: 70px;
+                                        }
+                                        .partner1{
+                                            height: 310px !important;
+                                        }
+                                      }
+
+                                      @media screen and (max-width:839px) {
+
+                                        .cardd {
+                                            font-size: 13px;
+                                        }
+                                    
+                                        .carar {
+                                            font-size: 11px;
+                                        }
+                                    
+                                    }
+
+                                    @media screen and (max-width:800px) {
+
+                                        .wong2 {
+                                            height: 45vh;
+                                        }
+                                    
+                                        .braincode {
+                                            font-size: 26px;
+                                        }
+                                    
+                                        .ourservices {
+                                            font-size: 30px;
+                                        }
+                                    
+                                        .grub1 {
+                                            height: 31vh;
+                                        }
+                                    
+                                        .grub2 {
+                                            height: 31vh;
+                                        }
+                                    
+                                        .grub3 {
+                                            height: 31vh;
+                                        }
+                                    
+                                        .grub4 {
+                                            height: 31vh;
+                                        }
+                                    
+                                        .grub5 {
+                                            height: 31vh;
+                                        }
+                                    
+                                        .grub6 {
+                                            height: 31vh;
+                                        }
+                                    
+                                    
+                                        .grupp1 {
+                                            height: 12vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .software {
+                                            width: 90%;
+                                            margin-left: 10px;
+                                            background-size: 83%;
+                                            margin-top: -13px;
+                                        }
+                                    
+                                        .mobile1 {
+                                            height: 12vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .mobile2 {
+                                            width: 90%;
+                                            margin-left: 10px;
+                                            background-size: 83%;
+                                            margin-top: -13px;
+                                        }
+                                    
+                                        .data1 {
+                                            height: 12vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .data2 {
+                                            width: 90%;
+                                            margin-left: 10px;
+                                            background-size: 83%;
+                                            margin-top: -13px;
+                                        }
+                                    
+                                        .cloud1 {
+                                            height: 12vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .cloud2 {
+                                            width: 90%;
+                                            margin-left: 10px;
+                                            background-size: 83%;
+                                            margin-top: -13px;
+                                        }
+                                    
+                                        .content1 {
+                                            height: 12vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .content2 {
+                                            width: 90%;
+                                            margin-left: 10px;
+                                            background-size: 83%;
+                                            margin-top: -13px;
+                                        }
+                                    
+                                        .mobileapp {
+                                            font-size: 15px;
+                                        }
+                                    
+                                        .s1 {
+                                            margin-top: 10px;
+                                        }
+                                    
+                                        .p1 {
+                                            margin-top: 45px;
+                                            width: 55%;
+                                        }
+                                    
+                                        .p2 {
+                                            margin-top: 46px;
+                                            width: 100%;
+                                            background-size: 100%;
+                                        }
+                                    
+                                        .p3 {
+                                            margin-top: 48px;
+                                            background-size: 96%;
+                                            width: 92%;
+                                        }
+                                    }
+                                    
+                                    @media screen and (max-width:797px) {
+
+                                        .enhance {
+                                            font-size: 36px !important;
+                                        }
+                                    
+                                        .braincode {
+                                            font-size: 23px;
+                                        }
+                                    }
+
+                                    @media screen and (max-width:736px) {
+                                        .enhance {
+                                            font-size: 35px !important;
+                                        }
+                                    
+                                        .cardd {
+                                            margin-top: -68px;
+                                        }
+                                    
+                                        .carar {
+                                            font-size: 9px;
+                                            width: 100%;
+                                        }
+                                        .partner1{
+                                            height: 240px !important;
+                                        }
+                                    }
+
+                                    
+
+                                    @media screen and (max-width:750px) {
+
+                                        .p2 {
+                                            margin-top: 49px;
+                                        }
+                                        .carar {
+                                            font-size: 10px;
+                                        }
+                                    
+                                    }
+
+                                    @media screen and (max-width:735px) {
+                                        .cardreal{
+                                            width: 680px !important;
+                                        }
+                                        .card-title3 {
+                                            font-size: 25px !important;
+                                            margin-left: 3%;
+                                            margin-top: -7px;
+                                        }
+                                        .card-sub3 {
+                                            font-size: 14px !important;
+                                            margin-left: 1%;
+                                            margin-top: -6%;
+                                            font-family: 'pm';
+                                        }
+                                        .card-content3 {
+                                            font-size: 14px !important;
+                                            margin-left: 11%;
+                                            width: 41%;
+                                            margin-top: -7%;
+                                            font-family: 'pm';
+                                        }
+                                        .enhance{
+                                            font-size: 35px !important;
+                                        }
+                                    
+                                        .wong2{
+                                            height: 32vw;
+                                        }
+                                    
+                                        .braincode{
+                                            margin-top: 30px;
+                                        }
+                                    
+                                        .img{
+                                            margin-left: 37%;
+                                        }
+                                    
+                                        .about-rac1 {
+                                            width: 90% !important;
+                                        }
+                                    
+                                        .about-rac2 {
+                                            width: 90% !important;
+                                            margin-top: 8px;
+                                        }
+                                    
+                                        .about-rac3 {
+                                            width: 90% !important;
+                                            margin-top: 8px;
+                                        }
+                                    
+                                        .about-rac4 {
+                                            width: 90% !important;
+                                            margin-top: 8px;
+                                        }
+                                    
+                                        .about-rac5 {
+                                            width: 90% !important;
+                                            margin-top: 8px;
+                                        }
+                                    
+                                        .about-rac6 {
+                                            width: 90% !important;
+                                            margin-top: 8px;
+                                        }
+                                    
+                                        .carar {
+                                            font-size: 14px;
+                                        }
+                                        
+                                        .cardd{
+                                            margin-top: -80px;
+                                        }
+                                    
+                                        .avatar-group {
+                                            justify-content: center;
+                                        }
+                                    
+                                        .ourss {
+                                            width: 40% !important;
+                                            font-size: 12px !important;
+                                            margin-left: 29% !important;
+                                        }
+                                    
+                                        .is{
+                                            margin-top: 70px;
+                                            width: 150% !important;
+                                        }
+                                    
+                                        .services{
+                                            width: 30% !important;
+                                        }
+                                    
+                                        .teams{
+                                            width: 30% !important;
+                                        }
+                                    
+                                        .F1{
+                                            height: 20vh;
+                                            margin-top: 2vh;
+                                            margin-left: 1vw;
+                                        }
+                                    
+                                        .F2{
+                                            height: 20vh;
+                                            margin-top: 0vh;
+                                            margin-left: 0vw;
+                                            width: 16vw;
+                                            background-size: 100%;
+                                        }
+                                    
+                                        .F3{
+                                            height: 20vh;
+                                            margin-top: 0vh;
+                                            margin-left: -1vw;
+                                            width: 18vw;
+                                            background-size: 100%;
+                                        }
+                                    
+                                        .F4{
+                                            height: 20vh;
+                                            margin-top: 0vh;
+                                            margin-left: -1vw;
+                                            width: 18vw;
+                                            background-size: 100%;
+                                        }
+                                    
+                                    
+                                        .backgroundabout{
+                                            height: 80vh;
+                                        }
+                                    
+                                        .our-partner{
+                                            margin-top: -100px;
+                                            font-size: 40px;
+                                        }
+                                    
+                                        .partner1 img{
+                                            height: 9vh !important;
+                                        }
+                                    
+                                        
+                                        
+                                    }
+
+                                    @media screen and (max-width:716px) {
+
+                                        .enhance {
+                                            font-size: 33px !important;
+                                        }
+                                    
+                                        .braincode {
+                                            font-size: 20px;
+                                        }
+                                    
+                                        .is {
+                                            width: 92%;
+                                        }
+                                    
+                                    }
+
+                                    @media screen and (max-width:710px) {
+
+                                        .sf1{
+                                            margin-left: 10px;
+                                        }
+                                    
+                                        .sf2{
+                                            margin-left: 10px;
+                                            font-size: 17px;
+                                        }
+                                    
+                                        .sf3{
+                                            margin-left: 10px;
+                                        }
+                                        
+                                    }
+
+                                      @media screen and (max-width:700px){
+                                        .wadah-realtime{
+                                            display: inline;
+                                        }
+                                        .cardreal{
+                                            width: 360px !important;
+                                            height: 463px !important;
+                                            margin-top: -114px !important;
+                                            background-color: #505050eb !important;
+                                            border-top-left-radius: 35px;
+                                            border-top-right-radius: 35px;
+                                        }
+                                        .cardreal-putih{
+                                            width: 100% !important;
+                                            height: 437px !important;
+                                            border-radius: 17px;
+                                            margin-top: 55%;
+                                          }
+                                        .Pop3{
+                                            background-size: 135px !important;
+                                            margin-top: -5px;
+                                            margin-left: 148px;
+                                        }
+                                        .Pop3a{
+                                            background-size: 150px !important;
+                                            margin-top: 60px;
+                                            margin-left: 80px;
+                                        }
+                                        .Pop2{
+                                            background-size: 150px !important;
+                                            margin-top: 35px;
+                                            margin-left: 100px;
+                                        }
+
+                                        .Pop4{
+                                            background-size: 141px !important;
+                                            margin-top: 100px;
+                                            margin-left: 170px;
+                                        }
+
+                                        .Pop4a{
+                                            background-size: 88px !important;
+                                            margin-top: 25px;
+                                            margin-left: 95px;
+                                        }
+
+
+                                        .Pop5{
+                                            background-size: 220px !important;
+                                            margin-top: 15px;
+                                            margin-left: 85px;
+                                        }
+                                        .card-title3 {
+                                            font-family: 'pm';
+                                            font-size: 22px !important;
+                                            margin-top: -5px;
+                                            margin-left: -20px;
+                                        }
+                                        .card-sub3{
+                                            font-size: 13px !important;
+                                            margin-top: -7%;
+                                            margin-left: -40px;
+                                        }
+                                        .card-content3{
+                                            font-size: 12px !important;
+                                            width: 315px !important;
+                                            margin-top: -6%;
+                                            font-family: 'pm';
+                                            margin-left: 25px;
+                                        }
+                                        .btn-conreal{
+                                            margin-top: -20% !important;
+                                            margin-left: -35px !important;
+                                        }
+                                        .btn-closereal{
+                                            margin-top: -20% !important;
+                                        }
+                                      }
+                                      @media screen and (max-width:688px) {
+
+                                        .F2{
+                                            margin-left: 0vw;
+                                            width: 100%;
+                                        }
+                                        
+                                    }
+
+                                    @media screen and (max-width:675px) {
+
+                                        .enhance{
+                                            font-size: 32px !important;
+                                        }
+                                        
+                                    }
+                                    
+                                    @media screen and (max-width:670px) {
+                                        
+                                    
+                                        .F3{
+                                            width: 20vw;
+                                        }
+                                    
+                                        .F4{
+                                            width: 20vw;
+                                        }
+                                    }
+
+                                    @media screen and (max-width:654px) {
+
+                                        .enhance{
+                                            font-size: 30px !important;
+                                        }
+                                    
+                                        .is{
+                                            margin-top: 80px;
+                                        }
+                                        
+                                    }
+                                    
+                                    @media screen and (max-width:620px) {
+                                    
+                                        .F3{
+                                            width: 21vw;
+                                        }
+                                    
+                                        .F4{
+                                            width: 21vw;
+                                        }
+                                    
+                                        .p1{
+                                            background-size: 100%;
+                                            width: 143%;
+                                        }
+                                    
+                                        .p2{
+                                            background-size: 100%;
+                                            width: 143%;
+                                        }
+                                    
+                                        .p3{
+                                            background-size: 100%;
+                                            width: 143%;
+                                        }
+                                    
+                                        .carar{
+                                            margin-top: -7px;
+                                        }
+                                        
+                                    }
+
+                                    @media screen and (max-width:613px) {
+    
+                                        .enhance{
+                                            font-size: 28px !important;
+                                        }
+                                    }
+                                    
+                                    @media screen and (max-width:600px) {
+                                    
+                                        .enhance{
+                                            font-size: 29px !important;
+                                        }
+                                    
+                                        .is{
+                                            margin-top: 100px;
+                                        }
+                                    
+                                        .cardd{
+                                            margin-top: -67px;
+                                        }
+                                    
+                                        .partner1 img{
+                                            height: 8vh !important;
+                                        }
+                                        
+                                    }
+
+                                    @media screen and (max-width:593px) {
+
+                                        .enhance{
+                                            font-size: 28px !important;
+                                        }
+                                    
+                                        .wong2{
+                                            height: 34vw;
+                                        }
+                                    
+                                        .is{
+                                            margin-top: 100px;
+                                        }
+                                    
+                                        .F3{
+                                            width: 21vw;
+                                        }
+                                    
+                                        .F4{
+                                            width: 21vw;
+                                        }
+                                    
+                                        .sf2{
+                                            font-size: 15px;
+                                        }
+                                    
+                                        .p1{
+                                            background-size: 13vw;
+                                            width: 117vw;
+                                            margin-left: 1px;
+                                        }
+                                    
+                                        .p2{
+                                            background-size: 11vw;
+                                            width: 139vw;
+                                        }
+                                    
+                                        .p3{
+                                            background-size: 10vw;
+                                            width: 117vw;
+                                        }
+                                        .cardd {
+                                            margin-top: -95px;
+                                        }
+                                        
+                                        
+                                    }
+
+                                    
+                                    
+                                
+                                    
+                                      @media screen and (max-width:572px) {
+
+                                        .enhance{
+                                            font-size: 27px ! important;
+                                        }
+                                        
+                                    }
+
+                                    @media screen and (max-width:570px) {
+
+                                        .grub1{
+                                            height: 25vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub2{
+                                            height: 25vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub3{
+                                            height: 25vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub4{
+                                            height: 25vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub5{
+                                            height: 25vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grub6{
+                                            height: 25vh;
+                                            border-radius: 5px;
+                                        }
+                                    
+                                        .grupp1{
+                                            margin-top:10px;
+                                            border-radius: 10px;
+                                        }
+                                    
+                                        .mobile1{
+                                            margin-top: 10px;
+                                            border-radius: 10px;
+                                            height: 10vh;
+                                        }
+                                    
+                                        .data1{
+                                            margin-top: 10px;
+                                            border-radius: 5px;
+                                            height: 10vh;
+                                        }
+                                    
+                                        .cloud1{
+                                            margin-top: 10px;
+                                            border-radius: 10px;
+                                            height: 10vh;
+                                        }
+                                    
+                                        .content1{
+                                            margin-top: 10px;
+                                            border-radius: 5px;
+                                            height: 10vh;
+                                        }
+                                    
+                                        .mobileapp{
+                                            font-size: 10px;
+                                        }
+                                    
+                                        .sf1{
+                                            margin-top: 10px;
+                                        }
+                                        .about-adib{
+                                            margin-top: 2px;
+    margin-left: 13px;
+    height: 9vh;
+                                        }
+                                    
+                                        .ours{
+                                            margin-top: 60px;
+                                        }
+                                    
+                                        .backgroundabout{
+                                            height: 70vh;
+                                        }
+                                        .cardd {
+                                            margin-top: -95px;
+                                        }
+                                    }
+
+                                    @media screen and (max-width:552px) {
+
+                                        .enhance{
+                                            font-size: 26px !important;
+                                        }
+                                    
+                                        .braincode{
+                                            font-size: 17px;
+                                        }
+                                    
+                                        .F3{
+                                            width: 22vw;
+                                            margin-left: -1vw;
+                                        }
+                                    
+                                        .F4{
+                                            width: 22vw;
+                                            margin-left: -1vw;
+                                        }
+                                    
+                                        .grub1 .about-detail{
+                                            height: 5vh;
+                                        }
+                                        .cardd {
+                                            margin-top: -95px;
+                                        }
+                           
+                                    
+                                        
+                                    }
+
+                                    @media screen and (max-width:522px){
+                                        .avatar-group{
+                                            width: 80%;
+                                            margin-left: 8%;
+                                        }
+                                    
+                                        .sf2{
+                                            font-size: 13px;
+                                        }
+                                        .F3{
+                                            width: 22vw;
+                                            margin-left: -2vw;
+                                        }
+                                    
+                                        .F4{
+                                            width: 22vw;
+                                            margin-left: -2vw;
+                                        }
+                                        .F1 {
+                                            height: 20vh;
+                                            margin-top: 0vh;
+                                            margin-left: -2vw;
+                                        }
+                                        .cardd {
+                                            margin-top: -95px;
+                                        }
+                                        .partner1{
+                                            height: 200px !important;
+                                        }
+
+                                    }
+                                      @media screen and (max-width:520px){
+                                        .card-sub3{
+                                            margin-left: -20px !important;
+                                        }
+                                        .card-title3{
+                                            margin-left: -10px !important;
+                                        }
+                                        .btn-conreal {
+                                            margin-top: -15% !important;
+                                            margin-left: 0px !important;
+                                        }
+                                        .btn-closereal{
+                                            margin-top: -15% !important;
+                                        }
+                                      }
+
+  @media screen and (max-width:450px)
+  {
+    
+ 
+    .enhance {
+        font-size: 25px !important;
+    }
+
+    .braincode {
+        font-size: 110%;
+        margin-top: 10px;
+    }
+
+    .wong2 {
+        height: 39vw !important;
+    }
+
+    .is {
+        width: 150% !important;
+        font-size: 13px;
+        margin-top: 40px;
+    }
+
+    .services {
+        width: 45% !important;
+        height: 10px !important;
+    }
+
+    .teams {
+        width: 45% !important;
+    }
+
+    .img {
+        margin-left: 25%;
+        margin-top: 10px;
+    }
+
+    .Img {
+        display: none;
+    }
+
+    .btn-sm {
+        width: 50vw !important;
+        font-size: 5px !important;
+        margin-top: -40px !important;
+        margin-left: 18% !important;
+    }
+
+
+    .ourss {
+        width: 50vw !important;
+        font-size: 10px !important;
+        margin-top: -40px !important;
+        margin-left: 18% !important;
+    }
+
+
+
+    .ourservices {
+        font-size: 25px;
+    }
+
+    .carar {
+        font-size: 10px;
+        font-weight: 100;
+        margin-top: -5px;
+        width: 100%;
+    }
+
+    .RE {
+        background-size: 10vw;
+        margin-top: -25px;
+        margin-left: -1vw;
+    }
+
+    .grub1 .about-detail {
+        height: 20px;
+        font-size: 8px;
+    }
+
+    .IMg {
+        background-size: 10vw;
+        margin-top: -25px;
+        margin-left: -1vw;
+    }
+
+    .IMG {
+        background-size: 10vw;
+        margin-top: -25px;
+        margin-left: -1vw;
+    }
+
+    .IMG1 {
+        background-size: 10vw;
+        margin-top: -25px;
+        margin-left: -1vw;
+    }
+
+    .IMG2 {
+        background-size: 10vw;
+        margin-top: -25px;
+        margin-left: -1vw;
+    }
+
+    .grub1 {
+        height: 15vh;
+    }
+
+    .grub2 {
+        height: 15vh;
+    }
+
+    .grub3 {
+        height: 15vh;
+    }
+
+    .grub4 {
+        height: 15vh;
+    }
+
+    .grub5 {
+        height: 15vh;
+    }
+
+    .grub6 {
+        height: 15vh;
+    }
+
+    .sf1 {
+        margin-left: 5px;
+        margin-top: 9px;
+    }
+
+    .sf2 {
+        font-size: 12px;
+        margin-left: 5px;
+    }
+
+    .sf3 {
+        margin-left: 5px;
+    }
+
+    .grupp1 {
+        height: 8vh;
+        margin-top: 9px;
+        border-radius: 15%;
+
+    }
+
+    .software {
+        background-size: 9vw;
+        margin-top: -11px;
+        width: 9vw;
+    }
+
+    .btn-outline {
+        margin-top: 1vh;
+    }
+
+    .mobile1 {
+        height: 7vh;
+        width: 12vw;
+        margin-left: 5.5vw;
+        margin-top: 17px;
+        border-radius: 15%;
+    }
+
+    .mobile2 {
+        background-size: 8vw;
+        width: 8vw;
+        margin-top: -22px;
+        margin-left: 12px;
+    }
+
+    .mobileapp {
+        font-size: 7px;
+    }
+
+    .data1 {
+        height: 7vh;
+        width: 12vw;
+        margin-left: 5.5vw;
+        margin-top: 17px;
+        border-radius: 15%;
+    }
+
+    .data2 {
+        background-size: 9vw;
+        width: 9vw;
+        margin-top: -23px;
+        margin-left: 8px;
+    }
+
+    .cloud1 {
+        height: 7vh;
+        width: 12vw;
+        margin-left: 5.5vw;
+        margin-top: 17px;
+        border-radius: 15%;
+    }
+
+    .cloud2 {
+        background-size: 8vw;
+        width: 8vw;
+        margin-top: -21px;
+        margin-left: 8px;
+    }
+
+    .content1 {
+        height: 7vh;
+        width: 12vw;
+        margin-left: 5.5vw;
+        margin-top: 17px;
+        border-radius: 15%;
+    }
+
+    .content2 {
+        background-size: 8vw;
+        width: 8vw;
+        margin-top: -22px;
+        margin-left: 8px;
+    }
+
+    .p1 {
+        background-size: 10vw;
+        width: 12vw;
+        margin-left: -5vw;
+        margin-top: 25px;
+        height: 40px;
+    }
+
+    .p2 {
+        background-size: 10vw;
+        width: 12vw;
+        height: 43px;
+        margin-left: -7vw;
+        margin-top: 25px;
+    }
+
+    .p3 {
+        background-size: 10vw;
+        width: 10vw;
+        margin-left: -21px;
+        margin-top: 25px;
+        height: 43px;
+    }
+
+    .ours {
+        width: 100% !important;
+        margin-left: -2vw !important;
+        margin-top: 6px !important;
+    }
+
+    .backgroundabout {
+        height: 375px;
+        margin-top: 8vh;
+    }
+
+    .our-partner {
+        margin-top: -54px;
+        font-size: 40px;
+    }
+
+    .partner1 img {
+        height: 5vh !important;
+        width: 15vw !important;
+    }
+
+    .cardd {
+        color: rgb(255, 255, 255);
+        margin-top: -75px;
+        font-size: 9px;
+    }
+
+    .avatar-group {
+        margin-top: -15px !important;
+
+    }
+
+    .F1 {
+        height: 20vw;
+        margin-left: -2vw;
+    }
+
+    .F2 {
+        height: 13vh;
+        margin-left: 0vw;
+    }
+
+    .F3 {
+        height: 13vh;
+        margin-left: -2vw;
+    }
+
+    .F4 {
+        height: 13vh;
+        margin-left: -2vw;
+    }
+
+
+
+    .about-rac1 {
+        height: 45%;
+        margin-top: 30px;
+    }
+
+    .about-rac2 {
+        height: 45%;
+    }
+
+    .about-rac3 {
+        height: 45%;
+    }
+
+    .about-rac4 {
+        height: 45%;
+    }
+
+    .about-rac5 {
+        height: 45%;
+    }
+
+    .about-rac6 {
+        height: 45% !important;
+    }
+
+    .s1 {
+        font-size: 10px;
+        width: 100%;
+        margin-top: 8px;
+    }
+
+    .R {
+        margin-top: 3vh;
+    }
+
+    .about-rac1 {
+        width: 94% !important;
+    }
+
+    .about-rac2 {
+        width: 94% !important;
+    }
+
+    .about-rac3 {
+        width: 94% !important;
+    }
+
+    .about-rac4 {
+        width: 94% !important;
+    }
+
+    .about-rac5 {
+        width: 94% !important;
+    }
+
+    .about-rac6 {
+        width: 94% !important;
+    }
+     .cardreal{
+        max-width: 300px !important;
+        margin-top: -15% !important;
+    }
+    .cardreal-putih{
+        width: 100% !important;
+        height: 440px !important;
+        border-radius: 17px;
+        margin-top: 55%;
+      }
+      .Pop3{
+       background-size: 105px !important;
+       margin-top: 1px !important;
+       margin-left: 110px !important;
+    }
+    .Pop3a{
+       background-size: 110px !important;
+       margin-top: 62px !important;
+       width: 35% !important;
+       margin-left: 65px !important;
+   }
+
+   .Pop4{
+     background-size: 93px !important;
+    margin-top: 78px !important;
+    margin-left: 138px !important;
+ }
+ .Pop4a{
+    background-size: 66px !important;
+    margin-top: 30px !important;
+    width: 35% !important;
+    margin-left: 84px !important;
+ }
+
+   .Pop2{
+    background-size: 110px !important;
+    margin-top: 62px !important;
+    width: 35% !important;
+    margin-left: 65px !important;
+}
+
+.Pop5{
+    background-size: 140px !important;
+    margin-top: 50px !important;
+    width: 35% !important;
+    margin-left: 80px !important;
+}
+    .card-title3 {
+        font-family: 'pm';
+        font-size: 18px !important;
+        margin-top: -2%;
+        margin-left: -1%;
+    }
+    .card-sub3{
+        font-size: 11px !important;
+        margin-top: -10%;
+        margin-left: -3%;
+    }
+    .card-content3{
+        font-size: 8px !important;
+        width: 238px !important;
+        margin-top: -11%;
+        font-family: 'pm';
+        margin-left: 7%;
+    }
+    .btn-conreal{
+       margin-top: -35% !important;
+   /* margin-left: -4px !important; */
+   font-size: 12px;
+    }
+    .btn-closereal{
+        margin-top: -35% !important;
+        width: 50% !important;
+    }
+     .card-title1 {
+        font-size: 25px;
+        margin-left: -115px !important;
+        margin-top: 145px;
+    }
+
+    .card-sub1 {
+        margin-left: -130px!important;
+        margin-top: 165px;
+        font-size: 12px;
+    }
+
+    .card-content1 {
+        margin-left: -19%!important;
+        margin-top: 21%;
+        width: 50%;
+        font-size: 9px!important;
+    
+    }
+    .btn-close-training {
+        margin-top: 110%!important;
+        margin-left: -30vw !important;
+    }
+
+    .btn-con-training {
+        margin-top: 110%!important;
+        margin-left: -145px !important;
+        /* display: flex !important; */
+        margin-right: 34vw;
+    }
+
+    .Pop1 {
+        margin-left: 100px;
+        background-size: 103px;
+        margin-top: 12px;
+
+    }
+
+    .card9 {
+        width: 305px !important;
+        height: 620px !important;
+    }
+
+    .webdev{
+        position: absolute;
+        width: 100%; 
+        background-color: white;
+        height: 391px; 
+        border-radius: 17px;
+        top: 33%;
+        left: 0px;
+    }
+
+    .webcard{
+        width: 300px; 
+        height: 568px; 
+        margin-top: 10vh;
+        background-color: #505050eb !important;
+        border-radius: 35px;
+    }
+
+    .ctn{
+        margin-left: 3vw;
+        padding-top: 15vh;
+        position: absolute;
+        width: 279px;
+        height: 46px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 13px;
+        text-align: center;
+        color: #082032;
+    }
+
+    .ttl{
+        padding-top: 2vh;
+        padding-left: 8vw;
+        font-weight: bold;
+        font-size: 26px;
+        text-align: center;
+        background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        -webkit-text-emphasis-color: transparent;
+        text-emphasis-color: transparent;
+        position: absolute;
+    }
+
+    .cdsub{
+        padding-left: 5.3vw;
+        padding-top: 11vh;
+        font-weight: bolder;
+        font-size: 11px;
+        text-align: center;
+        color: #082032;
+        position: absolute
+    }
+
+    .ctc{
+        margin-top: -36vw;
+        margin-left: -36px;    
+    }
+
+    .cls{
+        margin-top: -37vw;
+    }
+    
+   }
+ 
+
+   @media screen and (max-width:443px){
+    .partner1{
+        height: 135px !important;
+    }
+    .teams{
+        width: 45% !important;
+    }
+
+    .services{
+        width: 45% !important;
+    }
+
+    .enhance{
+        font-size: 23px;
+    }
+    .Pop3{
+        background-size: 105px !important;
+        margin-top: 1px !important;
+        margin-left: 110px !important;
+     }
+     .Pop3a{
+        background-size: 110px !important;
+        margin-top: 62px !important;
+        width: 35% !important;
+        margin-left: 65px !important;
+    }
+
+    .Pop2{
+        background-size: 110px !important;
+        margin-top: 62px !important;
+        width: 35% !important;
+        margin-left: 65px !important;
+    }
+
+    .Pop5{
+        background-size: 110px !important;
+        margin-top: 62px !important;
+        width: 35% !important;
+        margin-left: 65px !important;
+    }
+
+    .webdev{
+        position: absolute;
+        width: 100%; 
+        background-color: white;
+        height: 391px; 
+        border-radius: 17px;
+        top: 33%;
+        left: 0px;
+    }
+
+    .webcard{
+        width: 300px; 
+        height: 568px; 
+        margin-top: 10vh;
+        background-color: #505050eb !important;
+        border-radius: 35px;
+    }
+
+    .ctn{
+        margin-left: 3vw;
+        padding-top: 15vh;
+        position: absolute;
+        width: 279px;
+        height: 46px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 13px;
+        text-align: center;
+        color: #082032;
+    }
+
+    .ttl{
+        padding-top: 2vh;
+        padding-left: 8vw;
+        font-weight: bold;
+        font-size: 26px;
+        text-align: center;
+        background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        -webkit-text-emphasis-color: transparent;
+        text-emphasis-color: transparent;
+        position: absolute;
+    }
+
+    .cdsub{
+        padding-left: 5.3vw;
+        padding-top: 11vh;
+        font-weight: bolder;
+        font-size: 11px;
+        text-align: center;
+        color: #082032;
+        position: absolute
+    }
+
+    .Pop4 {
+        position: absolute;
+        background: url(/src/assets/cloud_storage-a07e3d81.png) no-repeat;
+        width: 27.4vw;
+        height: 40vh;
+        margin-left: 31.5vw;
+        margin-top: 14vh;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .Pop4a {
+        position: absolute;
+        background: url("../assets/girl_taking_a_selfie-2e4d2a6b.png") no-repeat;
+        width: 18.4vw;
+        height: 70vh;
+        margin-top: 5vh;
+        margin-left: 18vw;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .ctc{
+        margin-top: -36vw;
+        margin-left: -36px;    
+    }
+
+    .cls{
+        margin-top: -37vw;
+    }
+    
+  }
+
+  
+  @media screen and (max-width:443px) {
+
+    .teams {
+        width: 45% !important;
+    }
+
+    .services {
+        width: 45% !important;
+    }
+
+    .enhance {
+        font-size: 23px;
+    }
+}
+  @media screen and (max-width:440px) {
+    .sf2{
+        font-size: 11px;
+    }
+
+    .is{
+        margin-top: 40px;
+    }
+    .Pop3{
+        background-size: 105px !important;
+        margin-top: 1px !important;
+        margin-left: 110px !important;
+     }
+     .Pop3a{
+        background-size: 110px !important;
+        margin-top: 62px !important;
+        width: 35% !important;
+        margin-left: 65px !important;
+    }
+
+    .Pop2{
+        background-size: 130px !important;
+        margin-top: 25px !important;
+        width: 35% !important;
+        margin-left: 80px !important;
+    }
+
+    .Pop5{
+        background-size: 130px !important;
+        margin-top: 25px !important;
+        width: 35% !important;
+        margin-left: 80px !important;
+    }
+
+    .webdev{
+        position: absolute;
+        width: 100%; 
+        background-color: white;
+        height: 391px; 
+        border-radius: 17px;
+        top: 33%;
+        left: 0px;
+    }
+
+    .webcard{
+        width: 300px; 
+        height: 568px; 
+        margin-top: 10vh;
+        background-color: #505050eb !important;
+        border-radius: 35px;
+    }
+
+    .ctn{
+        margin-left: 3vw;
+        padding-top: 15vh;
+        position: absolute;
+        width: 279px;
+        height: 46px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 13px;
+        text-align: center;
+        color: #082032;
+    }
+
+    .ttl{
+        padding-top: 2vh;
+        padding-left: 8vw;
+        font-weight: bold;
+        font-size: 26px;
+        text-align: center;
+        background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        -webkit-text-emphasis-color: transparent;
+        text-emphasis-color: transparent;
+        position: absolute;
+    }
+
+    .cdsub{
+        padding-left: 5.3vw;
+        padding-top: 11vh;
+        font-weight: bolder;
+        font-size: 11px;
+        text-align: center;
+        color: #082032;
+        position: absolute
+    }
+
+    .Pop4 {
+        position: absolute;
+        background: url(/src/assets/cloud_storage-a07e3d81.png) no-repeat;
+        width: 27.4vw;
+        height: 40vh;
+        margin-left: 31.5vw;
+        margin-top: 14vh;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .Pop4a {
+        position: absolute;
+        background: url("../assets/girl_taking_a_selfie-2e4d2a6b.png") no-repeat;
+        width: 18.4vw;
+        height: 70vh;
+        margin-top: 5vh;
+        margin-left: 18vw;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .ctc{
+        margin-top: -36vw;
+        margin-left: -36px;    
+    }
+
+    .cls{
+        margin-top: -37vw;
+    }
+    
+  }
+  @media screen and (max-width:410px) {
+    .sf2{
+        font-size: 10px;
+    }
+
+    .wong2{
+        height: 22vh;
+    }
+
+    .is{
+        margin-top: 40px;
+    }
+    
+  }
+
+  @media screen and (max-width:404px) {
+
+    
+    .enhance {
+        font-size: 21px !important;
+    }
+
+    .sf2 {
+        font-size: 10px;
+    }
+
+    .RE {
+        margin-top: -29px;
+    }
+
+    .services {
+        width: 45% !important;
+    }
+
+    .teams {
+        width: 45% !important;
+    }
+
+    .cardd {
+        margin-top: -86px;
+    }
+
+    .carar {
+        font-size: 10px;
+    }
+
+    .about-rac1 {
+        width: 91% !important;
+    }
+
+    .about-rac2 {
+        width: 91% !important;
+        /* height: 90px; */
+        margin-top: 5px;
+    }
+
+    .about-rac3 {
+        width: 91% !important;
+        margin-top: 5px;
+    }
+
+    .about-rac4 {
+        width: 91% !important;
+        margin-top: 5px;
+    }
+
+    .about-rac5 {
+        width: 91% !important;
+        margin-top: 5px;
+    }
+
+    .about-rac6 {
+        width: 91% !important;
+        margin-top: 5px;
+    }
+
+    .F1 {
+        margin-left: -3vw;
+    }
+
+    .F2 {
+        margin-left: -3vw;
+    }
+
+    .F3 {
+        margin-left: -3vw;
+    }
+
+    .F4 {
+        margin-left: -3vw;
+    }
+
+    .webdev{
+        position: absolute;
+        width: 100%; 
+        background-color: white;
+        height: 391px; 
+        border-radius: 17px;
+        top: 33%;
+        left: 0px;
+    }
+
+    .webcard{
+        width: 300px; 
+        height: 568px; 
+        margin-top: 10vh;
+        background-color: #505050eb !important;
+        border-radius: 35px;
+    }
+
+    .ctn{
+        margin-left: 3vw;
+        padding-top: 15vh;
+        position: absolute;
+        width: 279px;
+        height: 46px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 13px;
+        text-align: center;
+        color: #082032;
+    }
+
+    .ttl{
+        padding-top: 2vh;
+        padding-left: 9vw;
+        font-weight: bold;
+        font-size: 26px;
+        text-align: center;
+        background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        -webkit-text-emphasis-color: transparent;
+        text-emphasis-color: transparent;
+        position: absolute;
+    }
+
+    .cdsub{
+        padding-left: 6vw;
+        padding-top: 11vh;
+        font-weight: bolder;
+        font-size: 11px;
+        text-align: center;
+        color: #082032;
+        position: absolute
+    }
+
+    .Pop4 {
+        position: absolute;
+        background: url(/src/assets/cloud_storage-a07e3d81.png) no-repeat;
+        width: 27.4vw;
+        height: 40vh;
+        margin-left: 35vw;
+        margin-top: 15vh;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .Pop4a {
+        position: absolute;
+        background: url("../assets/girl_taking_a_selfie-2e4d2a6b.png") no-repeat;
+        width: 18.4vw;
+        height: 70vh;
+        margin-top: 7vh;
+        margin-left: 22vw;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .ctc{
+        margin-top: -36vw;
+        margin-left: -34px;    
+    }
+
+    .cls{
+        margin-top: -37vw;
+    }
+  }
+
+  @media screen and (max-width:400px) {
+    .cardd{
+        margin-top: -70px !important;
+    }
+
+    .wong2{
+        width: 32vw;
+        height: 22vh;
+    }
+
+    .is{
+        margin-top: 40px;
+    }
+    .Pop4 {
+        position: absolute;
+        background: url(/src/assets/cloud_storage-a07e3d81.png) no-repeat;
+        width: 27.4vw;
+        height: 40vh;
+        margin-left: 38vw;
+        margin-top: 16vh;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .Pop4a {
+        position: absolute;
+        background: url("../assets/girl_taking_a_selfie-2e4d2a6b.png") no-repeat;
+        width: 18.4vw;
+        height: 70vh;
+        margin-top: 8vh;
+        margin-left: 25vw;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .F2{
+        margin-left: 0vw;
+    }
+
+    .F1{
+        margin-left: -5vw;
+        margin-top: 0vh;
+    }
+
+  }
+  
+  @media screen and (max-width:372px) {
+
+    .enhance{
+        font-size: 19px;
+    }
+
+    .is{
+        margin-top: 40px;
+    }
+
+    .wong2{
+        height: 22vh;
+    }
+    .webdev{
+        position: absolute;
+        width: 100%; 
+        background-color: white;
+        height: 391px; 
+        border-radius: 17px;
+        top: 33%;
+        left: 0px;
+    }
+
+    .webcard{
+        width: 300px; 
+        height: 568px; 
+        margin-top: 10vh;
+        background-color: #505050eb !important;
+        border-radius: 35px;
+    }
+
+    .ctn{
+        margin-left: 3vw;
+        padding-top: 15vh;
+        position: absolute;
+        width: 279px;
+        height: 46px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 13px;
+        text-align: center;
+        color: #082032;
+    }
+
+    .ttl{
+        padding-top: 2vh;
+        padding-left: 9vw;
+        font-weight: bold;
+        font-size: 26px;
+        text-align: center;
+        background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        -webkit-text-emphasis-color: transparent;
+        text-emphasis-color: transparent;
+        position: absolute;
+    }
+
+    .cdsub{
+        padding-left: 6vw;
+        padding-top: 11vh;
+        font-weight: bolder;
+        font-size: 11px;
+        text-align: center;
+        color: #082032;
+        position: absolute
+    }
+
+    .Pop4 {
+        position: absolute;
+        background: url(/src/assets/cloud_storage-a07e3d81.png) no-repeat;
+        width: 27.4vw;
+        height: 40vh;
+        margin-left: 36vw;
+        margin-top: 16vh;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .Pop4a {
+        position: absolute;
+        background: url("../assets/girl_taking_a_selfie-2e4d2a6b.png") no-repeat;
+        width: 18.4vw;
+        height: 70vh;
+        margin-top: 8vh;
+        margin-left: 23vw;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .ctc{
+        margin-top: -36vw;
+        margin-left: -36px;    
+    }
+
+    .cls{
+        margin-top: -37vw;
+    }
+  }
+  @media screen and (max-width:370px){
+
+    .wong2{
+        height: 22vh;
+    }
+
+    .services{
+        width: 50% !important;
+    }
+
+    .teams{
+        width: 50% !important;
+    }
+    .F1 {
+        margin-left: -4vw;
+    }
+
+  
+
+    .F3 {
+        margin-left: -4vw;
+    }
+
+    .F4 {
+        margin-left: -4vw;
+    }
+
+    .card-sub1 {
+        margin-left: -34% !important;
+    }
+ 
+    .card-title1 {
+        margin-left: -30% !important;
+    }
+
+    .card-content1 {
+        margin-left: -22% !important;
+        width: 60% !important;
+    }
+
+    .btn-close-training {
+        margin-left:30%;
+        margin-top: 70%!important
+    }
+
+    .btn-con-training {
+        margin-left: -140px!important;
+        margin-top:70%!important
+    }
+
+    .modal-action {
+        margin-left: 0%;
+    }
+  }
+
+
+  @media screen and (max-width:368px) {
+    .s1{
+        width: 110%;
+    }
+    
+  }
+
+  @media screen and (max-width:364px) {
+
+    .wong2{
+        height: 19vh;
+    }
+    .braincode{
+        font-size: 15px;
+    }
+
+    .F1{
+        margin-left: -6vw;
+    }
+
+    .F2{
+        margin-left: -6vw;
+    }
+
+    .F3{
+        margin-left: -6vw;
+    }
+
+    .F4{
+        margin-left: -6vw;
+    }
+
+    .is{
+        margin-top: 40px;
+    }
+    
+  }
+
+  @media screen and (max-width:360px) {
+
+    .F2{
+        margin-left: 0vw;
+    }
+
+    .F3{
+        margin-left: -1.5vw;
+    }
+    
+    .F4{
+        margin-left: -2vw;
+    }
+  }
+
+ 
+
+  @media screen and (max-width:357px) {
+
+    .webdev{
+        position: absolute;
+        width: 100%; 
+        background-color: white;
+        height: 391px; 
+        border-radius: 17px;
+        top: 33%;
+        left: 0px;
+    }
+
+    .webcard{
+        width: 300px; 
+        height: 568px; 
+        margin-top: 10vh;
+        background-color: #505050eb !important;
+        border-radius: 35px;
+    }
+
+    .ctn{
+        margin-left: 3vw;
+        padding-top: 15vh;
+        position: absolute;
+        width: 279px;
+        height: 46px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 13px;
+        text-align: center;
+        color: #082032;
+    }
+
+    .ttl{
+        padding-top: 2vh;
+        padding-left: 11vw;
+        font-weight: bold;
+        font-size: 26px;
+        text-align: center;
+        background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        -webkit-text-emphasis-color: transparent;
+        text-emphasis-color: transparent;
+        position: absolute;
+    }
+
+    .cdsub{
+        padding-left: 6vw;
+        padding-top: 11vh;
+        font-weight: bolder;
+        font-size: 11px;
+        text-align: center;
+        color: #082032;
+        position: absolute
+    }
+
+    .Pop4 {
+        position: absolute;
+        background: url(/src/assets/cloud_storage-a07e3d81.png) no-repeat;
+        width: 27.4vw;
+        height: 40vh;
+        margin-left: 43vw;
+        margin-top: 17vh;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .Pop4a {
+        position: absolute;
+        background: url("../assets/girl_taking_a_selfie-2e4d2a6b.png") no-repeat;
+        width: 18.4vw;
+        height: 70vh;
+        margin-top: 10vh;
+        margin-left: 29vw;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .ctc{
+        margin-top: -50vw;
+        margin-left: -21px;    
+    }
+
+    .cls{
+        margin-top: -51vw;
+    }
+  }
+
+  @media screen and (max-width:320px) {
+    .webdev{
+        position: absolute;
+        width: 100%; 
+        background-color: white;
+        height: 391px; 
+        border-radius: 17px;
+        top: 33%;
+        left: 0px;
+    }
+
+    .webcard{
+        width: 300px; 
+        height: 568px; 
+        margin-top: 10vh;
+        background-color: #505050eb !important;
+        border-radius: 35px;
+    }
+
+    .ctn{
+        margin-left: 3vw;
+        padding-top: 15vh;
+        position: absolute;
+        width: 279px;
+        height: 46px;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 13px;
+        text-align: center;
+        color: #082032;
+    }
+
+    .ttl{
+        padding-top: 2vh;
+        padding-left: 11vw;
+        font-weight: bold;
+        font-size: 26px;
+        text-align: center;
+        background: linear-gradient(206.63deg, #392863 15.46%, #4285F4 113.68%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        -webkit-text-emphasis-color: transparent;
+        text-emphasis-color: transparent;
+        position: absolute;
+    }
+
+    .cdsub{
+        padding-left: 6vw;
+        padding-top: 11vh;
+        font-weight: bolder;
+        font-size: 11px;
+        text-align: center;
+        color: #082032;
+        position: absolute
+    }
+
+    .Pop4 {
+        position: absolute;
+        background: url(/src/assets/cloud_storage-a07e3d81.png) no-repeat;
+        width: 27.4vw;
+        height: 40vh;
+        margin-left: 43vw;
+        margin-top: 17vh;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .Pop4a {
+        position: absolute;
+        background: url("../assets/girl_taking_a_selfie-2e4d2a6b.png") no-repeat;
+        width: 18.4vw;
+        height: 70vh;
+        margin-top: 10vh;
+        margin-left: 29vw;
+        background-size: 100%;
+        z-index: 2;
+    }
+
+    .ctc{
+        margin-top: -50vw;
+        margin-left: -21px;    
+    }
+
+    .cls{
+        margin-top: -51vw;
+    }
+  }

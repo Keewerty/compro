@@ -1,0 +1,99 @@
+.ag-row-odd {
+    background-color: #ffffff;
+}
+
+.filtering{
+    margin-left: 1%;
+    width: 10%;
+    margin-top: 16%;
+    border-radius: 6px;
+}
+
+.geser{
+    margin-left: 1.5%;
+    margin-top: -11%;
+
+}
+
+.filxx{
+    display: flex;
+    
+}
+
+.wdx{
+    margin-left: 1%;
+    margin-top: 16%;
+    width: 10%;
+    border-radius: 6px;
+}
+
+.ipx-10{
+    margin-top: 16%;
+    width: 17%;
+    margin-left: 1%;
+}
+
+.plh-11{    
+    margin-left: 1%;
+    width: 10%;
+    margin-top: 15%;
+    height: 6vh;
+    border-radius: 4px;
+}
+.slct-11{
+    height: 4vh;
+    border-radius: 4px;
+}
+.plh-00{
+    margin-left: 0%;  
+    margin-left: 0%;
+    width: 10%;
+    margin-top: 15%;
+    height: 6vh;
+    border-radius: 4px;
+    
+}
+
+.kmpln-px{
+    margin-top: -15%;
+}
+
+.warna{
+    background-color: #EEEEEE;
+    height: 100vh;
+}
+
+.inpt-70{
+    margin-top: 15.5%;
+    height: 4vh;
+    margin-left: 1%;
+    border-radius: 4px;
+}
+
+.dwndld{
+    margin-top: 15.2%;
+    font-size: 27px;
+    color: aqua;
+    margin-left: 1%;
+}
+.lbl-10{
+    color:#A9A9A9;
+}
+.warnas2{
+    
+    background-color: #ffffff;
+    width: 80%;
+    height: 54%;
+    margin-top: 14%;
+    position: absolute;
+    left: 9.7%;
+    border-radius: 10px;
+
+}
+
+.ag-paging-panel {
+    /* border-top: 1px solid; */
+    border-top-color: var(--ag-border-color);
+    color: var(--ag-secondary-foreground-color);
+    height: var(--ag-header-height)
+}

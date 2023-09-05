@@ -1,0 +1,50 @@
+.latar2{
+    background-color: #EEEEEE;
+    height: 130vh;
+}
+.pilih{
+    margin-left: 1%;
+    width: 13%;
+    margin-top: 12%;
+    height: 6vh;
+    border-radius: 4px;
+}
+.plus2{
+    color: #ffffff;
+}
+.select{
+    height: 5vh;
+    border-radius: 5px;
+}
+.pilih3{
+    margin-left: 0%;  
+    margin-left: 0.5%;
+    width: 13%;
+    margin-top: 12%;
+    height: 6vh;   
+}
+.pilih4{
+    margin-left: 0.5%;
+    width: 27%;
+    margin-top: 12.3%;
+    border-radius: 5px;
+    border-color: rgba(169, 169, 169, 1);
+   
+}
+.ag-header-cell-text{
+color: white;
+}
+.gabungg{
+    background-color: antiquewhite;
+}
+.bungkusan2{
+    background-color: #ffffff;
+    width: 78%;
+    height: 65%;
+    margin-top: 12%;
+    position: absolute;
+    left: 9.7%;
+    }
+.tripel2{
+    margin-top: -11%;
+}

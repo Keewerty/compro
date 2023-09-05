@@ -1,0 +1,530 @@
+.footerr {
+    width: 100% !important;
+    grid-auto-flow: row !important;
+    place-items: start;
+    row-gap: 2.5rem;
+    -moz-column-gap: 1rem;
+    column-gap: 1rem;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    background-color: #2b2b2b21 !important;
+    box-shadow: 0 3px 8px #0000001a !important;
+    padding-top: 3vh !important;
+    padding-bottom: 3vh !important;
+    
+}
+
+
+.btn-smm{
+    height: 2rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    min-height: 2rem;
+    font-size: 0.875rem;
+}
+
+.bungkuss {
+    display: flex;
+}
+
+.slide {
+    background-color: white;
+    color: #545454;
+    border: 1px solid #000000;
+}
+
+.companyy {
+    color: #545454;
+    width: 33.3%
+}
+
+.company-titlee {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+}
+
+.link {
+    text-decoration: underline;
+    margin-bottom: 1vw;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 12px
+}
+
+.addresss {
+    color: #545454;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.sosmedd {
+    justify-content: center;
+    display: flex;
+    width: 40.3%;
+}
+
+.sosmed-titlee {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+    margin-right: 1vw;
+}
+
+.iconn {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 2.5vw;
+    cursor: pointer
+}
+
+.sosmedd1 {
+    justify-content: center;
+    display: flex;
+    width: 40.3%;
+}
+
+.sosmed-titlee1 {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+    margin-right: 1vw;
+}
+
+.iconn1 {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-top: 2.5vw;
+    cursor: pointer
+}
+
+
+.mg-svg {
+    margin: 10px
+}
+
+.copyrightt {
+    color: #545454;
+    padding-top: 1vw !important;
+    font-size: 15px;
+}
+
+.copyrightt1 {
+    color: #545454;
+    padding-top: 1vw !important;
+    font-size: 15px;
+}
+
+
+.bawahhh {
+    display: none;
+}
+.contactt {
+    display: grid;
+    text-align: center;
+    
+}
+
+.contact-titlee {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+    padding-left: 12vw
+}
+
+.buttonn {
+    padding-left: 13.5vw !important;
+    padding-top: 2vh !important;
+}
+
+.waa {
+    background: rgb(247, 195, 60) !important;
+    text-transform: initial !important;
+    border-radius: 30px !important;
+    font-size: 12px !important;
+    color: #000 !important;
+    width: 170px !important;
+    font-weight: 500;
+    border: none;
+}
+
+.lokk {
+    color: #fff !important;
+    text-align: center !important;
+    text-transform: initial !important;
+    background: rgb(57, 40, 99) !important;
+    width: 170px !important;
+    margin-top: 1vh !important;
+    border-radius: 30px !important;
+    font-size: 12px !important;
+}
+
+@media only screen and (max-width: 1100px) {
+
+    .contact-titlee {
+        color: #545454;
+        font-weight: 700;
+        font-size: large;
+        text-align: center;
+        padding-left: 8vw;
+        margin-left: -5vw;
+    }
+    
+
+    .waa {
+        background: rgb(247, 195, 60) !important;
+        text-transform: initial !important;
+        border-radius: 30px !important;
+        font-size: 12px !important;
+        color: #000 !important;
+        width: 170px !important;
+        font-weight: 500;
+        border: none;
+        margin-left: -5vh;
+    }
+
+    .lokk {
+        color: #fff !important;
+        text-align: center !important;
+        text-transform: initial !important;
+        background: rgb(57, 40, 99) !important;
+        width: 170px !important;
+        margin-top: 1vh !important;
+        border-radius: 30px !important;
+        font-size: 12px !important;
+        margin-left: -5vh;
+    }
+
+    .sosmedsosmedd {
+    
+    margin-left: 5vw;
+
+    }
+
+
+
+}
+
+@media only screen and (max-width: 792px) {
+
+    .contact-titlee {
+        color: #545454;
+        font-weight: 700;
+        font-size: large;
+        text-align: center;
+        padding-left: 8vw;
+        margin-left: -5vw;
+    }
+
+    .waa {
+        background: rgb(247, 195, 60) !important;
+        text-transform: initial !important;
+        border-radius: 30px !important;
+        font-size: 12px !important;
+        color: #000 !important;
+        width: 170px !important;
+        font-weight: 500;
+        border: none;
+        margin-left: -5vh;
+    }
+
+    .lokk {
+        color: #fff !important;
+        text-align: center !important;
+        text-transform: initial !important;
+        background: rgb(57, 40, 99) !important;
+        width: 170px !important;
+        margin-top: 1vh !important;
+        border-radius: 30px !important;
+        font-size: 12px !important;
+        margin-left: -5vh;
+    }
+
+    .sosmedsosmedd {
+    
+    margin-left: 5vw;
+
+    }
+
+
+
+}
+
+@media only screen and (max-width: 674px) {
+
+    .contact-titlee {
+        color: #545454;
+        font-weight: 700;
+        font-size: large;
+        text-align: center;
+        padding-left: 7vw;
+        margin-left: -4vh;
+    }
+
+    .waa {
+        background: rgb(247, 195, 60) !important;
+        text-transform: initial !important;
+        border-radius: 30px !important;
+        font-size: 12px !important;
+        color: #000 !important;
+        width: 150px !important;
+        font-weight: 500;
+        border: none;
+    }
+
+    .lokk {
+        color: #fff !important;
+        text-align: center !important;
+        text-transform: initial !important;
+        background: rgb(57, 40, 99) !important;
+        width: 150px !important;
+        margin-top: 1vh !important;
+        border-radius: 30px !important;
+        font-size: 12px !important;
+    }
+
+    .iconn {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding-top: 2.5vw;
+        cursor: pointer;
+        margin-left: 2.5vh;
+    }
+
+    .sosmed-titlee {
+        color: #545454;
+        font-weight: 700;
+        font-size: large;
+        text-align: center;
+        margin-left: 2.5vh;
+    }
+
+
+
+}
+
+@media only screen and (max-width: 616px) {
+    .buttonn {
+    padding-left: 0vw !important;
+    }
+.sosmedd {
+    display: none;
+}
+
+    .waa {
+        background: rgb(247, 195, 60) !important;
+        text-transform: initial !important;
+        border-radius: 30px !important;
+        font-size: 12px !important;
+        color: #000 !important;
+        width: 150px !important;
+        font-weight: 500 !important;
+        border: none !important;
+    }
+
+    .lokk {
+        color: #fff !important;
+        text-align: center !important;
+        text-transform: initial !important;
+        background: rgb(57, 40, 99) !important;
+        width: 150px !important;
+        margin-top: 1vh !important;
+        border-radius: 30px !important;
+        font-size: 12px !important;
+    }
+
+    .iconn {
+        display: flex !important;
+        text-align: center !important;
+        justify-content: center !important;
+        padding-top: 2.5vw !important;
+        cursor: pointer !important;
+        margin-left: 2.5vh !important;
+    }
+
+    .sosmed-titlee {
+        color: #545454;
+        font-weight: 700 !important;
+        font-size: large !important;
+        text-align: center !important;
+    }
+
+    .sosmedsosmedd {
+        
+        margin-top: 60vw !important;
+    }
+
+    .addresss {
+        color: #545454;
+        font-size: 12px !important;
+        font-weight: 400 !important;
+    }
+
+    .contactt {
+        text-align: center;
+        margin-left: 18vw;
+    }
+
+    .contact-titlee {
+        font-size: 14px !important;
+        margin-left: -10vw !important;
+    }
+    .companyy {
+        color: #545454;
+        width: 100% !important;
+    }
+
+    .all-iconn {
+        padding-left: 10vw;
+    }
+
+    .company-titlee {
+        font-size: 14px !important;
+    }
+
+    .bawahhh {
+        display: flex;
+        margin-left: 30vw;
+        margin-top: 2vw;
+    }
+   
+}
+
+/* @media only screen and (max-width: 509px) {
+
+
+    .sosmedd {
+        padding-top: 5vw !important;
+    }
+
+    .sosmed-titlee {
+        padding-left: 9vw !important;
+    }
+
+    .addresss {
+        font-size: 12px !important;
+    }
+
+    .companyy {
+        width: 50% !important;
+    }
+
+    .copyrightt {
+        font-size: 12px !important;
+    }
+
+}
+
+@media only screen and (max-width: 475px) {
+ .contactt {
+    padding-top: 8vh !important;
+ }
+
+ .sosmed-titlee {
+    padding-left: 6vw  !important;
+ }
+
+
+}
+
+@media only screen and (max-width: 461px) {
+
+    .contactt {
+        padding-top: 12vh !important;
+    }
+
+    .sosmedd {
+        padding-top: 10vh !important;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+
+    .contactt {
+        padding-top: 12vh !important;
+    }
+
+    .sosmedd {
+        padding-top: 10vh !important;
+    }
+
+    .addresss {
+        font-size: 12px !important;
+    }
+
+    .companyy {
+        width: 50% !important;
+    }
+
+    .copyrightt {
+        font-size: 12px !important;
+    }
+}
+
+
+@media only screen and (max-width: 423px) {
+
+    .contact-titlee {
+        margin-top: 5vw !important;
+    }
+
+    .sosmed-titlee {
+        margin-top: 5vw !important;
+    }
+
+}
+
+@media only screen and (max-width: 410px) {
+
+    .contact-titlee {
+        margin-top: 10vw !important;
+    }
+
+    .sosmed-titlee {
+        margin-top: 15vw !important;
+    }
+
+}
+
+@media only screen and (max-width: 380px) {
+
+    .contact-titlee {
+        margin-top: 12vw !important;
+    }
+
+    .sosmed-titlee {
+        margin-top: 20vw !important;
+    }
+
+}
+
+@media only screen and (max-width: 340px) {
+
+    .contact-titlee {
+        margin-top: 18vw !important;
+    }
+
+    .sosmed-titlee {
+        margin-top: 30vw !important;
+    }
+
+}
+
+@media only screen and (max-width: 300px) {
+
+    .contact-titlee {
+        margin-top: 28vw !important;
+    }
+
+    .sosmed-titlee {
+        margin-top: 38vw !important;
+    }
+
+} */

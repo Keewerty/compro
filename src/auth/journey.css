@@ -1,0 +1,1061 @@
+.logobc {
+  background: url(../assets/logo.png);
+  height: 11vh;
+  width: 8vw;
+  margin-bottom: -11px !important;
+  margin-left: 6vw;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain
+}
+
+.nav {
+  color: #4e4e4e;
+  font-weight: 700;
+  pointer-events: fill;
+  margin-right: 3vw
+}
+
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  margin-left: -140px;
+}
+
+.nav:hover {
+  color: #e08e13;
+  font-weight: 700;
+  pointer-events: fill
+}
+
+.login {
+background-color: #e08e13 !important;
+width: 7vw !important;
+height: 5vh !important;
+color: #fff !important;
+margin-top: -0.5vh;
+position: relative;
+margin-right: 2vw;
+text-transform: initial !important;
+border-radius: 30px !important;
+font-size: 15px !important;
+width: 95px !important;
+font-weight: 500 !important;
+border: none;
+font-family: 'pm';
+}
+
+.btnw:hover {
+  background-color: #000
+}
+
+.navbar {
+  box-shadow: -3px -1px 12px #00000047, 0 -2px 2px #00000024, -1px -5px 5px #0000001f;
+  display: flex;
+  height: 13vh;
+  width: 100%;
+  position: fixed;
+  background-color: #fff;
+  z-index: 999999;
+  color: #4e4e4e;
+  font-weight: 700;
+  font-size: 15px;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.projectjourney {
+  font-size: 3vw;
+  color: #000;
+  margin-left: 3vw;
+  margin-top: 2vh;
+}
+
+.projectjour{
+  margin-bottom: 5% ;  
+}
+
+.gntgsearch {
+  margin-top: 5vh !important;
+  font-family: 'pm';
+  border-radius: 40px !important;
+  color: #000 !important;
+  width: 100% !important;
+  margin-bottom: 8vh;
+  background-color: white !important;
+}
+
+.birunavy {
+  background: url(../assets/2016v.png);
+  width: 80%;
+  height: 65.5vh;
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-left: 2.8vw;
+  margin-top: 4vw;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px
+}
+
+.nms{
+background: url(../assets/2017v.png);
+width: 80%;
+    height: 65.5vh;
+    border-radius: 20px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-left: 2.8vw;
+    margin-top: 4vw;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.abu {
+  background: url(/src/assets/2018v.png);
+  width: 80%;
+  height: 65.5vh;
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-left: 2.8vw;
+  margin-top: 4vw;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.slide4{
+background: url(../assets/2019v2.png);
+width: 80%;
+  height: 65.5vh;
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-left: 2.8vw;
+  margin-top: 4vw;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.slide5{
+background: url(../assets/2020.png);
+width: 80%;
+  height: 65.5vh;
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-left: 2.8vw;
+  margin-top: 4vw;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px; 
+}
+
+.slide6{
+background: url(../assets/2021.png);
+width: 80%;
+  height: 65.5vh;
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-left: 2.8vw;
+  margin-top: 4vw;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+.slide7{
+background: url(../assets/2022.png);
+width: 80%;
+  height: 65.5vh;
+  border-radius: 20px;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin-left: 2.8vw;
+  margin-top: 4vw;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;  
+}
+
+.car{
+margin-left: 10vw;
+}
+
+.geisa {
+  background: url(../assets/geisa.png);
+  width: 38%;
+  height: 69vh;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  margin-left: 60vh;
+  margin-top: 15vh;
+}
+
+.telkom {
+  background: url(../assets/telkom.png);
+  width: 6%;
+  height: 69vh;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  margin-left: 15vh;
+  margin-top: 62vh;
+}
+
+.going {
+  background: url(../assets/2016.png);
+  width: 6%;
+  height: 30vh;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  margin-left: 15vh;
+  margin-top: 55vh;
+}
+
+.projectkeren {
+  font-size: 3vw;
+  color: #000;
+  margin-left: 3vw;
+  margin-top: 8vh;
+  font-family: 'pm';
+}
+.telkomselpertama {
+  background: url(../assets/telkom.png);
+  width: 30%;
+  height: 10vh;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  margin-top: 3vh;
+}
+.telkomsel {
+  background: url(../assets/telkom.png);
+  width: 30%;
+  height: 10vh;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  position: absolute;
+  margin-top: 3vh;
+  margin-left: 6vh;
+}
+
+blog-cardj {
+  width: 23vw;
+  height: 59vh !important;
+  margin-bottom: 2vw;
+  margin-left: none  !important;
+  margin-right: none!important;
+}
+
+.mapglobe {
+  height: 33vh;
+  width: 23vw;
+  background-image: url(../assets/map.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 10px;
+  margin-bottom: 3vh;
+}
+
+.project-judul {
+  margin-left: 1vw;
+  font-weight: bold;
+  font-size: 12px;
+  font-family : 'pm'
+}
+
+
+.superman-button {
+  background-color: #08203200 !important;
+  height: 3vw !important;
+  width: 70% !important;
+  margin-bottom: 20px !important;
+  margin-top: 1vw;
+  text-transform: initial !important;
+  font-size: 1.1vw !important;
+  color: #1749ab !important;
+  /* margin-left: -10%; */
+  justify-content: center;
+  border: 1px solid #1749AB !important;
+}
+
+
+.hope-button {
+  background-color: #08203200;
+  height: 7vh;
+  width: 21vw;
+  margin-top: 2.5vw;
+  text-transform: initial;
+  font-size: 1.1vw;
+  color:#1749AB;
+  margin-left: 1vw;
+  border: 1px solid #1749AB;
+}
+
+
+.gambargraphic {
+  height: 33vh;
+  width: 23vw;
+  background-image: url(../assets/graphic.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  border-radius: 10px;
+  margin-bottom: 3vh;
+}
+
+.footer {
+display: flex !important;
+width: 100% !important;
+grid-auto-flow: row !important;
+place-items: start;
+row-gap: 2.5rem;
+-moz-column-gap: 1rem;
+column-gap: 1rem;
+font-size: .875rem;
+line-height: 1.25rem;
+background-color: #2b2b2b21 !important;
+box-shadow: 0 3px 8px #0000001a !important;
+display: flex !important;
+padding-top: 3vh !important;
+padding-bottom: 3vh !important;
+
+}
+
+.slide {
+  background-color: white;
+  color: #545454;
+  border: 1px solid #000000;
+}
+
+.company {
+  color: #545454;
+  width: 33.3%
+}
+
+.company-title {
+  color: #545454;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+}
+
+.link {
+  text-decoration: underline;
+  margin-bottom: 1vw;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 12px
+}
+
+.cb {
+  color: #545454;
+  font-size: 12px;
+  font-weight: 400
+}
+
+.sosmed {
+  width: 33.3%;
+  justify-content: center;
+  display: flex
+}
+
+.sosmed-title {
+  color: #545454;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+}
+
+.icon {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-top: 2.5vw;
+  cursor: pointer
+}
+
+.mg-svg {
+  margin: 10px
+}
+
+.copyright {
+  color: #545454;
+  padding-top: 2vw;
+  font-size: 15px;
+}
+
+.contact {
+  display: flex;
+  width: 33.3%;
+  text-align: center
+}
+
+.contact-title {
+  color: #545454;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+  padding-left: 12vw
+}
+
+.button {
+  padding-left: 12.5vw;
+  padding-top: 6vh
+}
+
+
+
+.wa {
+  background: rgb(247,195,60) !important;
+  text-transform: initial !important;
+  border-radius: 30px !important;
+  font-size: 12px !important;
+  color: #000 !important;
+  width: 170px !important;
+  font-weight: 500;
+}
+
+.lok {
+  color: #fff !important;
+  text-align: center !important;
+  text-transform: initial !important;
+  background: rgb(57,40,99) !important;
+  width: 170px !important;
+  margin-top: 1vh !important;
+  border-radius: 30px !important;
+  font-size: 12px !important;
+}
+
+@media screen and (max-width: 1500px){
+  .py-2{
+    display: none !important;
+  }
+  .projectkeren{
+    margin-top: 10vh;
+  }
+}
+
+@media screen and (max-width: 1280px){
+  .gntgsearch {
+    margin-top: 4vh;
+    background-color: white !important;
+  }
+  .projectjourney {
+    margin-top: 2vh;
+  }
+  .birunavy {
+    width: 80%;
+    background-size: 100% 360px;
+  }
+  .nms {
+    width: 80%;
+    background-size: 100% 360px;
+  }
+  .abu {
+    width: 80%;
+    background-size: 100% 360px;
+  }
+  .slide4 {
+    width: 80%;
+    background-size: 100% 360px;
+  }
+  .slide5 {
+    width: 80%;
+    background-size: 100% 360px;
+  }
+  .slide6 {
+    width: 80%;
+    background-size: 100% 360px;
+  }
+  .slide7 {
+    width: 80%;
+    background-size: 100% 360px;
+  }
+  .projectkeren {
+    margin-top: 6vh;
+  }
+  .py-2 {
+    display: none;
+  } 
+  .superman-button {
+    height: 4vh !important;
+    width: 70% !important;
+    margin-top: 1vw;
+    font-size: 1.5vw !important;
+}
+}
+
+@media screen and (max-width: 1000px){
+  .gntgsearch {
+    height: 6vh;
+    font-size: 2vh;
+    margin-top: 3vh;
+    background-color: white !important;
+  }
+  .projectjourney {
+    font-size: 4vh;
+    margin-top: 3vh;
+  }
+  .birunavy {
+    width: 80%;
+    background-size: 100% 325px;
+  }
+  .nms {
+    width: 80%;
+    background-size: 100% 325px;
+  }
+  .abu {
+    width: 80%;
+    background-size: 100% 325px;
+  }
+  .slide4 {
+    width: 80%;
+    background-size: 100% 325px;
+  }
+  .slide5 {
+    width: 80%;
+    background-size: 100% 325px;
+  }
+  .slide6 {
+    width: 80%;
+    background-size: 100% 325px;
+  }
+  .slide7 {
+    width: 80%;
+    background-size: 100% 325px;
+  }
+  .projectkeren {
+    font-size: 4vh;
+    background-size: 100% 325px;
+    margin-top: -120px;
+}
+  .py-2 {
+    display: none;
+  } 
+  .superman-button {
+    height: 4vh !important;
+    width: 60% !important;
+    margin-top: 1vw;
+    font-size: 1.5vw !important;
+}
+}
+
+@media screen and (max-width: 850px){
+  .gntgsearch {
+    height: 4vw;
+    margin-left: -2vw !important;
+    margin-top: 2vh !important;
+    background-color: white !important;
+  }
+  .projectjourney {
+    margin-top: 2vh;
+  }
+  .birunavy {
+    width: 80%;
+    background-size: 100% 275px;
+  }
+  .nms {
+    width: 80%;
+    background-size: 100% 275px;
+  }
+  .abu {
+    width: 80%;
+    background-size: 100% 275px;
+  }
+  .slide4 {
+    width: 80%;
+    background-size: 100% 275px;
+  }
+  .slide5 {
+    width: 80%;
+    background-size: 100% 275px;
+  }
+  .slide6 {
+    width: 80%;
+    background-size: 100% 275px;
+  }
+  .slide7 {
+    width: 80%;
+    background-size: 100% 275px;
+  }
+  .projectkeren {
+    margin-top: -20vh;
+  }
+  .py-2 {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 700px){
+  .gntgsearch {
+    height: 5vh;
+    margin-top: 2vh;
+    background-color: white !important;
+  }
+  .projectjourney {
+    margin-top: 2vh;
+  }
+  .birunavy {
+    margin-top: 4vh;
+    width: 90%;
+    margin-left: 0px !important;
+    background-size: 100% 260px;
+  }
+  .nms {
+    margin-top: 4vh;
+    width: 90%;
+    margin-left: 0px !important;
+    background-size: 100% 260px;
+  }
+  .abu {
+    margin-top: 4vh;
+    width: 90%;
+    margin-left: 0px !important;
+    background-size: 100% 260px;
+  }
+  .slide4 {
+    margin-top: 4vh;
+    width: 90%;
+    margin-left: 0px !important;
+    background-size: 100% 260px;
+  }
+  .slide5 {
+    margin-top: 4vh;
+    width: 90%;
+    margin-left: 0px !important;
+    background-size: 100% 260px;
+  }
+  .slide6 {
+    margin-top: 4vh;
+    width: 90%;
+    margin-left: 0px !important;
+    background-size: 100% 260px;
+  }
+  .slide7 {
+    margin-top: 4vh;
+    width: 90%;
+    margin-left: 0px !important;
+    background-size: 100% 260px;
+  }
+  .projectkeren {
+    margin-top: -25vh;
+  }
+  .py-2 {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 600px){
+  .gntgsearch {
+    width: 25vh !important;
+    height: 5vh;
+    margin-right: 7vh;
+    margin-top: 3vh !important;
+    font-size: 2vw !important;
+    background-color: white !important;
+  }
+  .projectjourney {
+    margin-top: 2vh;
+  }
+  .birunavy {
+    margin-top: 5vh;
+    width: 98%;
+  }
+  .nms {
+    margin-top: 5vh;
+    width: 98%;
+  }
+  .abu{
+    margin-top: 5vh;
+    width: 98%;
+  }
+  .slide4{
+    margin-top: 5vh;
+    width: 98%;
+  }
+  .slide5{
+    margin-top: 5vh;
+    width: 98%;
+  }
+  .slide6{
+    margin-top: 5vh;
+    width: 98%;
+  }
+  .slide7{
+    margin-top: 5vh;
+    width: 98%;
+  }
+  .projectkeren {
+    margin-top: -25vh;
+  }
+  .py-2 {
+    display: none;
+  }
+  .car{
+    margin-left: 4vw;
+  }
+  .superman-button {
+    width: 50% !important;
+    margin-top: 1vw;
+    font-size: 2vw !important;
+    margin-left: -10% !important;
+  }
+  .project-judul {
+    margin-left: 4vw;
+    font-size: 10px;
+  }
+  .w-full {
+    width: 97%;
+  }
+  .img1{
+    width: 100%; 
+    height: 20vh;
+  }
+}
+
+@media screen and (max-width: 550px){
+  .gntgsearch {
+    width: 150px !important;
+    height: 4vh;
+    margin-left: -9vh !important;
+    margin-top: 3vh !important;
+    background-color: white !important;
+  }
+  .projectjourney {
+    font-size: 4vh;
+    margin-top: 2vh;
+  }
+  .birunavy {
+    margin-top: 6vh;
+    width: 97%;
+    background-size: 100% 240px;
+  }
+  .nms {
+    margin-top: 6vh;
+    width: 97%;
+    background-size: 100% 240px;
+  }
+  .abu{
+    margin-top: 6vh;
+    width: 97%;
+    background-size: 100% 240px;
+  }
+  .slide4{
+    margin-top: 6vh;
+    width: 97%;
+    background-size: 100% 240px;
+  }
+  .slide5{
+    margin-top: 6vh;
+    width: 97%;
+    background-size: 100% 240px;
+  }
+  .slide6{
+    margin-top: 6vh;
+    width: 97%;
+    background-size: 100% 240px;
+  }
+  .slide7{
+    margin-top: 6vh;
+    width: 97%;
+    background-size: 100% 240px;
+  }
+  .projectkeren {
+    font-size: 4vh;
+    margin-top: -25vh;
+  }
+  .py-2 {
+    display: none;
+  }
+  .car{
+    margin-left: 4vw;
+  }
+  .project-judul {
+    margin-left: 4vw;
+    font-size: 10px;
+  }
+  .img1{
+    width: 80%; 
+    height: 20vh;
+    margin-left: 4vh;
+  }
+}
+
+@media screen and (max-width: 450px){
+  .gntgsearch {
+    height: 3vh !important;
+    width: 13vh !important;
+    margin-left: 1vh !important;
+    margin-top: 2vh !important;
+    background-color: white !important;
+  }
+  .projectjourney {
+    font-size: 4vw;
+    margin-top: 2vh;
+  }
+  .birunavy {
+    margin-top: 4vh;
+    width: 95% !important;
+    margin-left: 20px !important;
+    background-size: 100% 215px;
+}
+  .nms {
+    margin-top: 4vh;
+    width: 95% !important;
+    margin-left: 20px !important;
+    background-size: 100% 215px;
+  }
+  .abu{
+    margin-top: 4vh;
+    width: 95% !important;
+    margin-left: 20px !important;
+    background-size: 100% 215px;
+  }
+  .slide4{
+    margin-top: 4vh;
+    width: 95% !important;
+    margin-left: 20px !important;
+    background-size: 100% 215px;
+  }
+  .slide5{
+    margin-top: 4vh;
+    width: 95% !important;
+    margin-left: 20px !important;
+    background-size: 100% 215px;
+  }
+  .slide6{
+    margin-top: 4vh;
+    width: 95% !important;
+    margin-left: 20px !important;
+    background-size: 100% 215px;
+  }
+  .slide7{
+    margin-top: 4vh;
+    width: 95% !important;
+    margin-left: 20px !important;
+    background-size: 100% 215px;
+  }
+  .projectkeren {
+    font-size: 2vh;
+    margin-top: -28vh;
+  }
+  .py-2 {
+    display: none !important;
+  }
+  .car{
+    margin-left: -1vw !important;
+  }
+  .superman-button {
+    height: 2vh !important;
+    width: 55% !important;
+    margin-top: 1vw;
+    font-size: 2vw !important;
+  }
+}
+
+@media screen and (max-width: 400px){
+  .gntgsearch {
+    margin-right: 2vh !important;
+    height: 3vh;
+    margin-top: 3vh;
+    background-color: white !important;
+  }
+  .projectjourney {
+    font-size: 4vw;
+    margin-top: 2vh;
+  }
+  .birunavy {
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 180px;
+  }
+  .nms {
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 180px;
+  }
+  .abu{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 180px;
+  }
+  .slide4{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 180px;
+  }
+  .slide5{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 180px;
+  }
+  .slide6{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 180px;
+  }
+  .slide7{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 180px;
+  }
+  .projectkeren {
+    margin-top: -33vh;
+  }
+  .py-2 {
+    display: none;
+  }
+  .car{
+    margin-left: 3vh;
+  }
+}
+
+@media screen and (max-width: 350px){
+  .gntgsearch {
+    margin-right: 5vh !important;
+    height: 3vh;
+    margin-top: 2vh;
+    background-color: white !important;
+  }
+  .projectjourney {
+    font-size: 4vw;
+    margin-top: 2vh;
+  }
+  .birunavy {
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 190px;
+  }
+  .nms {
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 190px;
+  }
+  .abu{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 190px;
+  }
+  .slide4{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 190px;
+  }
+  .slide5{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 190px;
+  }
+  .slide6{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 190px;
+  }
+  .slide7{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 190px;
+  }
+  .projectkeren {
+    font-size: 2vh !important;
+    margin-top: -37vh;
+  }
+  .py-2 {
+    display: none;
+  }
+  .car{
+    margin-left: 4vw;
+  }
+.project-judul {
+margin-left: 4vw;
+font-size: 11px;
+}
+
+.w-full {
+width: 97%;
+}
+.img1{
+width: 80%; 
+height: 20vh;
+}
+}
+
+@media screen and (max-width: 300px){
+  .gntgsearch {
+    height: 2vh;
+    width: 17vh !important;
+    margin-right: 2vh;
+    margin-top: 3vh;
+    font-size: 2vw !important;
+    background-color: white !important;
+  }
+  .projectjourney {
+    font-size: 5vw;
+    margin-top: 2vh;
+  }
+  .birunavy {
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 170px;
+  }
+  .nms {
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 170px;
+  }
+  .abu{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 170px;
+  }
+  .slide4{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 170px;
+  }
+  .slide5{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 170px;
+  }
+  .slide6{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 170px;
+  }
+  .slide7{
+    margin-top: 4vh;
+    width: 100%;
+    background-size: 100% 170px;
+  }
+  .projectkeren {
+    font-size: 5vw;
+    margin-top: -40vh;
+  }
+  .py-2 {
+    display: none;
+  }
+  .superman-button {
+    height: 2vh !important;
+    width: 50%;
+    margin-top: 1vw;
+    font-size: 3vw !important;
+}
+.project-judul {
+  margin-left: 4vw;
+  font-size: 11px;
+}
+
+.car{
+  margin-left: 5vw;
+}
+
+.w-full {
+  width: 97%;
+}
+.img1{
+  width: 80%; 
+  height: 20vh;
+}
+}

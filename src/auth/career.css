@@ -1,0 +1,1398 @@
+.logobc {
+    background: url(../assets/logo.png);
+    height: 11vh;
+    width: 8vw;
+    margin-bottom: -11px !important;
+    margin-left: 6vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain
+}
+
+/* .nav {
+    color: #4e4e4e;
+    font-weight: 700;
+    pointer-events: fill;
+    margin-right: 3vw;
+    font-family: 'pm';
+}
+
+.nav:hover {
+    color: #e08e13;
+    font-weight: 700;
+    pointer-events: fill;
+    font-family: 'pm'
+} */
+
+/* .navbarcarier{
+    width:85%;
+    display:flex;   
+    justify-content: end;
+} */
+
+.login {
+    background-color: #e08e13 !important;
+    width: -5vw !important;
+    height: 5vh !important;
+    color: #fff !important;
+    margin-top: -0.5vh;
+    position: relative;
+    margin-right: 2vw;
+    text-transform: initial !important;
+    border-radius: 30px !important;
+    font-size: 15px !important;
+    width: 95px !important;
+    font-weight: 500 !important;
+    border: none;
+    font-family: 'pm';
+}
+
+.btnw:hover {
+    background-color: #000
+}
+
+/* .navbar {
+    box-shadow: -3px -1px 12px #00000047, 0 -2px 2px #00000024, -1px -5px 5px #0000001f;
+    display: flex;
+    height: 13vh;
+    width: 100%;
+    position: fixed;
+    background-color: #fff;
+    z-index: 999999;
+    color: #4e4e4e;
+    font-weight: 700;
+    font-size: 15px;
+    font-family: 'pm';
+    height: -moz-fit-content;
+    height: fit-content
+} */
+
+.logicon1 {
+    position: absolute;
+    background: url(../assets/logo.png);
+    height: 11vh;
+    width: 8vw;
+    margin-left: 1vw;
+    background-repeat: no-repeat;
+    margin-top: 2vh
+}
+
+.logicon2 {
+    background: url(../assets/wong.png);
+    background-repeat: no-repeat;
+    width: 22vw;
+    height: 70vh;
+    margin-left: 6vw;
+    position: absolute;
+    margin-top: 10vh
+}
+
+.logicon3 {
+    background: url(./robot-b96ba859.png)!important;
+    background-repeat: no-repeat!important;
+    height: 54%;
+    margin-left: 25.5vw!important;
+    margin-top: 20vw;
+    width: 100%;
+    position: relative;
+    display: block;
+}
+
+.circle {
+    float: left;
+    width: 83vw;
+    height: -webkit-fill-available !important;
+    shape-outside: circle(50% at 30%);
+    -webkit-clip-path: circle(50% at 0%);
+    clip-path: circle(50% at 0%);
+    background: #D9D9D9;
+    position: absolute;
+    border-radius: 18px;
+}
+
+.head {
+    text-align: justify;
+    color: #fff;
+    font-family: 'pm';
+    margin-top: 12vh;
+    margin-left: 3vw
+}
+
+.sign-in {
+    width: 397px;
+    height: 35px;
+    border-radius: 30px;
+    background: linear-gradient(206.63deg, #4A7BDB, #1749AB);
+    font-weight: 500;
+    font-size: 20px;
+    font-family: 'pm';
+    color: #fff;
+    text-transform: initial;
+    border: none;
+    margin-top: 5vh
+}
+
+.kolom {
+    padding-top: 6vh;
+}
+.sign-up {
+        width: 119px!important;
+        height: 12px!important;
+        border-radius: 30px!important;
+        color: #fff!important;
+        text-transform: initial!important;
+        font-size: 15px!important;
+        margin-left: 24vw!important;
+        margin-top: 1vh!important;
+}
+
+.career {
+    background: url(../assets/career-591d23aa.png);
+    width: 100%;
+    height: 92vh;
+    background-size: 100% 92vh;
+    background-repeat: no-repeat;
+    z-index: 4
+}
+
+.career1 {
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    width: 50vw;
+    border-radius: 20px  !important;
+    z-index: 4;
+    background-color: #d9d9d98d;
+    text-transform: initial;
+    height: 60vh;
+    position: absolute
+}
+
+.career-task {
+
+    font-size: 4vw !important;
+    font-family: 'pm';
+    color: #000;
+}
+
+.career-task1 {
+
+    font-size: 1.3vw;
+    width: 27vw;
+    margin-top: 1vw;
+    font-family: 'pm';
+    color: #000
+}
+
+.career-button {
+    width: 14vw;
+    height: 7vh !important;
+    margin-top: 0vw;
+    border-radius: 3vw !important;
+    text-transform: initial !important;
+    background-color: #082032 !important;
+    color: #a6adbb !important;
+    border: none;
+}
+
+.img-judul {
+    font-size: 2vw !important;
+    font-family: 'pm';
+    text-align: center;
+    margin-top: 10vh !important;
+    font-weight:bold !important;
+    color: #000 !important;
+}
+
+.wadah-img-judul{
+display: flex;
+width: 100%; 
+margin-top: 10vh;
+}
+
+.isi-img-judul{
+    width: 33%;
+}
+
+.career-img1 {
+    background: url(../assets/image4-31e0f029.png);
+    width: 30vw;
+    height: 31vh;
+    background-repeat: no-repeat;
+    margin-left: 3vw
+}
+
+.career-img2 {
+    background: url(../assets/image6-5dc615ec.png);
+    width: 30vw;
+    height: 31vh;
+    background-repeat: no-repeat;
+    margin-left: 2vw
+}
+
+.career-img3 {
+    background: url(../../public/fr.png);
+    width: 30vw;
+    height: 31vh;
+    background-repeat: no-repeat;
+    
+    background-size: cover !important;
+    margin-left: 1vw
+}
+
+.card1 {
+    width: 22vw !important;
+    height: 40vh !important;
+    z-index: 4;
+    background-color:rgba(163, 163, 163, 0.65)!important;
+    text-transform: initial !important;
+    border-radius: 1vw;
+    text-align: center;
+    margin-top: 20vh !important;
+    position: absolute !important;
+}
+
+.card-titel {
+    color: #000!important;
+    font-size: 18px !important;
+    text-align: center !important;
+    font-weight: 700 !important;
+}
+
+.card-task {
+    font-family: 'pm';
+    font-size: 1.2vw;
+    margin-top: .5vw;
+    width: 17vw;
+    color: #000 !important;
+}
+
+.card-button {
+    font-size: 1vw;
+    font-family: 'pm' !important;
+    color: #fcfcfc!important;
+    text-align: center !important;
+    font-weight: bold !important;
+    font-size: inherit !important;
+}
+
+.career-button1 {
+    width: 14vw;
+    height: 7vh !important;
+    margin-top: 18vw !important;
+    border-radius: 3vw !important;
+    font-size: .9vw !important;
+    margin-left: 42vw !important;
+    text-transform: initial !important;
+    background: #082032 !important;
+    color: #fff !important;
+}
+
+.card-img {
+    background: url(../assets/womanidea-5f2dc8fa.png);
+    background-repeat: no-repeat;
+    width: 20vw;
+    height: 49vh;
+    background-size: 20vw 49vh
+}
+
+.card-img1 {
+    background: url(../assets/lookingatphone-a2265871.png);
+    background-repeat: no-repeat;
+    width: 15vw;
+    height: 45vh;
+    background-size: 15vw 45vh
+}
+
+.card-img2 {
+    background: url(../assets/people-59e58b93.png);
+    background-repeat: no-repeat;
+    width: 40vw;
+    height: 90vh;
+    background-size: 40vw 90vh;
+    margin-top: 21vh
+}
+
+.card-card {
+    width: 22vw;
+    height: 60vh !important;
+    background-color: #fcca4c;
+    border-radius: 1vw;
+    -webkit-border-radius: 1vw;
+    -moz-border-radius: 1vw;
+    -ms-border-radius: 1vw;
+    -o-border-radius: 1vw;
+}
+
+.card-ats {
+    width: 22vw;
+    height: 60vh !important;
+    background-color: #fcca4c;
+    border-radius: 1vw;
+    margin-top: 29vw;
+    -webkit-border-radius: 1vw;
+    -moz-border-radius: 1vw;
+    -ms-border-radius: 1vw;
+    -o-border-radius: 1vw;
+}
+
+.wadahcard-ats{
+    margin-left: 0vw;
+}
+
+.card-bwh {
+    width: 22vw;
+    height: 60vh !important;
+    background-color: #fcca4c;
+    border-radius: 1vw;
+    margin-top: 29vw;
+    -webkit-border-radius: 1vw;
+    -moz-border-radius: 1vw;
+    -ms-border-radius: 1vw;
+    -o-border-radius: 1vw;
+}
+
+.life-title {
+
+    font-size: 4vw !important;
+    font-family: 'pm' !important;
+    color: #000;
+    width: 12vw;
+    margin-top: 25vh;
+    margin-left: 5vw
+}
+
+.life-sub {
+
+    font-size: 1vw;
+    width: 26vw;
+    margin-top: 6vh;
+    margin-left: 5vw;
+    font-family: 'pm' !important;
+}
+
+.life-button {
+    width: 14vw !important;
+    height: 7vh !important;
+    border-radius: 3vw !important;
+    font-size: .9vw !important;
+    text-transform: initial !important;
+    margin-top: 6vh !important;
+    margin-left: 5vw;
+    color: #fff !important;
+    background: #082032 !important;
+    font-family: 'pm' !important;
+}
+
+
+.icon1 {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAATLSURBVHgB7Z2NWdswEIYvTJBOUDNBYYI6E9BO0DAB7QSUCaATBCYonQB3AugEiAnIBuodkoPj/MmxLF+S732ei5M+aYvzcT9SpNOAlGOtHfIlZ8vYPvqr2LBiVabejH/9xPbir0+DwWBKihmQMliAjC9f2D7RuxAxMeTE+UNOoCdShApBWIScL2fkhMgoLYatYLtjcQo6VCQUsV2yPVo9PLONrfPSw4Bv9oTtmu3V6mZi91kYuTm2B7t7TOw+CWNdaLq2u8/E7rowfAMXVn9oasIz25g6pJMqy7rfpAm5snUfKdjOuSozFJkjigyLccGXR9pfMYScTarD7xSZaB5i3Yj6ki36D6mcG/aUHxSJKIL4EPWb7YQOE8M2ihHCWgvixXig9CNsbRiKIEorQVgM8QgRY0hAkInLUZv5sa0FgRgraSXKVoJAjI1sLUpjQXzOkLIWYqxHRDltmlMajUMqCRxibEY+owfbcLqlkYfI1AGhmmqKhK1R6DeVwR7CYlwTxNgGybeXoW8OEsRPhxzaCDwm30OnWTaGLCTxaAQl+RAPkVlbiNEe+Qwnm960VhA/958TiEW+KXStDFmYo+oMCV3Hq6qudR4ilUFGIDbl1xRLWeoh3jueCXTJ8bIEv8pDgutmsDVLE/yCh8A7knJan4Bc5iHwjnSM638w5yHwjuQsVFx1D8kJpEQqrrlxSd1DMJubHtkScVq+mHmIdVsCMgKpOfGf/RvVkPWNQF98KZ/MQhbCVa8YDlvH8uTNQ/yihYxAX8hWDdk/OQtZh7riUBNf5aEU5IxA38gmV3iIInJ5GPhV668ENPBBPATeoYccgugiE0EyAlp4E+QTAS1k0fcYglZ8RMjSxVAEwSI4PQxlHGIJqAE5RBkQRBkQRBkiSNDOHpCEKQTRBQRRhhFBDAE1iCAvBLTwDx6iC4QsZTzhK1xdfDjyK68Ngb6RxXLTcqT+l0Df/JOHUpCtejuBqNzLw1H1BeiVN6fAYmsdzC+29vwh0BdF+aQqCMJWf9yVT+pb2qTrDxbOpWUWroT6F1QIW+m5qr6oe4iM2iW5YyVKOuZabMx5iB+13xFIxW2938my1hqSQx4JpGChAc3CIgffe6Mg0DW3y7oBoT1Tf4S3Z/Jv/EWgK25XNcNc1+IPFVc3GFpzrMXKhXK+4roiEJurda1iQ/r2SiPMnEAMChZjtO4NaKScjjiNlP0/gNDVnquQoyuCT0dgT7nhywWBbfjFYsTp/V7iqy7JJ5gNbsbcbO4mgrcj+KpLGqQYAqEYtlGTv4Ajj7ojKInXabxhx/8HI8Kq+XWUh4IZagiOzYtP+mPzSiDKAq3EEFoJIuBYixmGIhy92nrTZyWnGDpcypPYDLUkyi5c+UF8rX2IU/Zyz1HE6AQ50oft1e4/co9Bo+8mtM4hy7Aur8j5GDntJwXbeRde0UnjAB/CJK+c037lFqmifsi9qQ1RmxBvYbu1u8+NdfN5+4HdXWEebMMDhncKuxvCSMIWjzicmW3rhBmzPVs9PLL9tD2Gpk6qrKZYd37GmO0zpR/xG3KLzO85URfUMyoEqWJdmBA789eM4mLIla2yyfJeW7WkTpA6PnyUImX03tZWng9pcWJzWjFDrnWI8VYMAg+a74v/k6vMNwdz81cAAAAASUVORK5CYII=);
+    width: 9vw;
+    height: 16vh;
+    background-repeat: no-repeat;
+    margin-left: 5vw;
+}
+
+.iconbwh {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAATLSURBVHgB7Z2NWdswEIYvTJBOUDNBYYI6E9BO0DAB7QSUCaATBCYonQB3AugEiAnIBuodkoPj/MmxLF+S732ei5M+aYvzcT9SpNOAlGOtHfIlZ8vYPvqr2LBiVabejH/9xPbir0+DwWBKihmQMliAjC9f2D7RuxAxMeTE+UNOoCdShApBWIScL2fkhMgoLYatYLtjcQo6VCQUsV2yPVo9PLONrfPSw4Bv9oTtmu3V6mZi91kYuTm2B7t7TOw+CWNdaLq2u8/E7rowfAMXVn9oasIz25g6pJMqy7rfpAm5snUfKdjOuSozFJkjigyLccGXR9pfMYScTarD7xSZaB5i3Yj6ki36D6mcG/aUHxSJKIL4EPWb7YQOE8M2ihHCWgvixXig9CNsbRiKIEorQVgM8QgRY0hAkInLUZv5sa0FgRgraSXKVoJAjI1sLUpjQXzOkLIWYqxHRDltmlMajUMqCRxibEY+owfbcLqlkYfI1AGhmmqKhK1R6DeVwR7CYlwTxNgGybeXoW8OEsRPhxzaCDwm30OnWTaGLCTxaAQl+RAPkVlbiNEe+Qwnm960VhA/958TiEW+KXStDFmYo+oMCV3Hq6qudR4ilUFGIDbl1xRLWeoh3jueCXTJ8bIEv8pDgutmsDVLE/yCh8A7knJan4Bc5iHwjnSM638w5yHwjuQsVFx1D8kJpEQqrrlxSd1DMJubHtkScVq+mHmIdVsCMgKpOfGf/RvVkPWNQF98KZ/MQhbCVa8YDlvH8uTNQ/yihYxAX8hWDdk/OQtZh7riUBNf5aEU5IxA38gmV3iIInJ5GPhV668ENPBBPATeoYccgugiE0EyAlp4E+QTAS1k0fcYglZ8RMjSxVAEwSI4PQxlHGIJqAE5RBkQRBkQRBkiSNDOHpCEKQTRBQRRhhFBDAE1iCAvBLTwDx6iC4QsZTzhK1xdfDjyK68Ngb6RxXLTcqT+l0Df/JOHUpCtejuBqNzLw1H1BeiVN6fAYmsdzC+29vwh0BdF+aQqCMJWf9yVT+pb2qTrDxbOpWUWroT6F1QIW+m5qr6oe4iM2iW5YyVKOuZabMx5iB+13xFIxW2938my1hqSQx4JpGChAc3CIgffe6Mg0DW3y7oBoT1Tf4S3Z/Jv/EWgK25XNcNc1+IPFVc3GFpzrMXKhXK+4roiEJurda1iQ/r2SiPMnEAMChZjtO4NaKScjjiNlP0/gNDVnquQoyuCT0dgT7nhywWBbfjFYsTp/V7iqy7JJ5gNbsbcbO4mgrcj+KpLGqQYAqEYtlGTv4Ajj7ojKInXabxhx/8HI8Kq+XWUh4IZagiOzYtP+mPzSiDKAq3EEFoJIuBYixmGIhy92nrTZyWnGDpcypPYDLUkyi5c+UF8rX2IU/Zyz1HE6AQ50oft1e4/co9Bo+8mtM4hy7Aur8j5GDntJwXbeRde0UnjAB/CJK+c037lFqmifsi9qQ1RmxBvYbu1u8+NdfN5+4HdXWEebMMDhncKuxvCSMIWjzicmW3rhBmzPVs9PLL9tD2Gpk6qrKZYd37GmO0zpR/xG3KLzO85URfUMyoEqWJdmBA789eM4mLIla2yyfJeW7WkTpA6PnyUImX03tZWng9pcWJzWjFDrnWI8VYMAg+a74v/k6vMNwdz81cAAAAASUVORK5CYII=);
+    width: 9vw;
+    height: 17vh;
+    background-repeat: no-repeat;
+    margin-left: 7vw;
+    background-position: left 2vh;
+}
+
+.icon2 {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAGHSURBVHgB7ZhPKwVRGMafKyXKxkaUP9kJ5XNYWihSCvkAVrY+gaV8B+UryBALYSUsLEiWRP4lXc8xc7h3ce+MzntOc3h/9btN907d95l3zpwzB1AURVEUGXZpNTITW3ylJkgVcfKVobXRDxFQd+Fb8EfQIGVDg5SN0EHa4IlQQUbpEZ1BAOxsKU07vaIvtA9y1NUboiNjSENM0msEQKojvXQLafGXdI2u0D36Ri/oFNxpWK9EkA56hvzF3iHSW84Fr0EWkB/CdKoH7ngdI+MFzjmhtxBGOkiRjppuiK+wpYOcFzhngC7CIxJjZJB+IH+cvNNpuOF1sBs2kR/kkXbDDe9BhugTmgeZhzvegxgm6A3Sp9MGXaXb9I4uQ4YgQUIQfK0VBA1SNjRI2dAgZcMEsbvwFpfd8QMUZ9/xv2rrTSqIaxJsitSMnuD3VzWBO9/132cHXYgP895van82Y2Qn+3Kd9iMeOulSdnxqPkbw05VYnbXphpHuRT1EULT1lR7TOSiK8n/4BLeYM0MEAR2JAAAAAElFTkSuQmCC);
+    width: 4vw;
+    height: 7vh;
+    margin-left: 6.7vw;
+    position: absolute;
+    margin-top: 3.4vh;
+    background-repeat: no-repeat;
+}
+
+.icon3 {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAASZSURBVHgB7VpdiFZFGH5Sc/svobZWii4CNQshso2Q2tIiQ5IwDN2li6DcjYouooLqQsnuKmv7uaggSCIqo4IV6qKIIAgqqZbKfvdLiShRUfz/fx/nGeZ4OGe+Od+33+4n+sDD+fbMM3Nm5rzzvu/MWeAkTgxcbFxhXGfcJX5nXK6ytsclxleMe4yHS7jX+Jq0bYdO43PG3XCdPWT82Hi78Wxxoe4dkma36nSiDTDV+KxxB8IAPjLOjtSZZfwQYUCsu0ptjTmuM75t3Idj38DsCm1wQO8bD6qN/fp7LlqMK+AW688I9s61sNp4FRrHlWoju67+MK7UM5sG7Xo+nB1nO+8f9ARG177Z1pPGP3PP+kl9mK8+JWOG8VvjgVyDG4zPG7vRenTrWRtyfTigvs1IaWQOgpscMj5svBzjh5nqw1r1iX2bk1KxW+Jf0H5YD9e3a/IFEwrE+3Q9He2HM3Tdmy8oGsh2Xc9E++EsXbeliKcgLKwJqI4OY59xjbEGN3vkCFyc6JOmKiYhBNEk78XO+0B3PqphsXEjyvMsz43SVkGX6u6sUmlElVIDHQf/EkJHmen2G6cZJ4v8PQCXEXvdINLf+rWqsx4V8KUq3ZGo94NgdF5mPCWiZVk/QiQfRBqWSP8JKuB1VXo8QbsYYRA3Ih09cPsU1r0zQb9C2lWogEdU6a06Oi5avyaWlWi8GRWhHyFrmIw41kh7HypgrioN19H1IayJMnOKDWSi8UeV9yKOv1Ft3R7FeXCuji445ur8LPVHNLGBEPer/L2IZirC3mUSKmJYlW+NaGrSTIto6g1kuspHIppeaT4tE8Rc3+e6zotounStZe7lY0a9+7VcW0W4WdfP0AAWIOwHyuCz0exCPZxIjw4Er1cETvZ/0sxEAzgNYS9eZjo1tN60elT+a6SNqGlxhob0e0mJ5htdm9lnz8u1lYf3Zu+gCfA4h7PxO4rdq3e/69C4+/VOpcj9ngOXjfOA4jI0Abq6f/SgWwrKswGxzAXHBjKgMsaIooD4EOp4qypYrsaGSsqzKUoP0nED4ikKzd7vCBdgFNCpBzJAzirRDOqB1PHNTIy0x7IBhEG8UKJbipBdxJLQSnhZja4tKefs+cGQTDsYsemROsTpujec0b2IYodDk/5Nmqr7liiYIvgZvCmio4nkj3CKyDWxKNKOTyZ59DNqb8NjZabxmOlw0dIDMXdibPBb3b90rxfxTJemvBnOlK9HC8CNv89AU/YpjWK1nvEmWgi6YM4UPwkknfZVxCK1T5c/BS3GG3Az9j1G9+zrUuMWuIEsxBiA0db793o7yFQwr/saDWxlmwWz0O168GNoDvRK76qtr4ynYoxBV8sciKZwNxoH3wAHQa92EcYJD6gT/Nq0FNXxjOpvgguY44qnEI5Y702sk80EtqLgdH288CiciZFPI77P4eH4B3CDYOC7Gm2GexC2vsyULyjQ0En8IE0NDW5dxwJMzf+F6+j/xrt0n57pQYR8ja62C22OC+E2Qj5B/ALOrfI3Te9VuLhxXIBvgEebjNR+QNxJ3objFPy+wk/L/O+Ic3ESJxCOANfvgfm6HC97AAAAAElFTkSuQmCC);
+    width: 4vw;
+    height: 8vh;
+    margin-left: 6.7vw;
+    position: absolute;
+    margin-top: 3.4vh;
+    background-repeat: no-repeat;
+}
+
+.icon4 {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAR0SURBVHgB7VhZaFVHGP5SWxO7q93SxaZ9qG21tAitXVLTUrooFPpSSiOm0AXEV2nBhxaKXR7EBQQVFRFcEBT3BwUXcF8TFBdQXNC44YYLUXNj4v9nvuHcG+bMmXOvxiucDz4mufPNPzNn5v/nnwEyZMiQoQQ8KqwXzhY2CS8JW4XT8ICgUjgGZuAdDuaEr6LM8bJwF6JB74aZ1Gcwg5/P39uEjcJRwodRZugrPAwz0CPCrx2aN4RbhOcQTXYNzDYsGyyGGZiuSO8A/RfCE2wzBd2MCpgvPVO4T3iNHM0BXYHZXqF4S9gC4zfjhethJneVdj/BPcAA4Q64Hbid5Vikx+QYm8qtwqHCR3CX8DHMV1LjF4WThN8K3xWezev4Q6RHHduq3/wgfE/4tvB6nl31vXdQIvoIz9DgIuHTXeoHse6m8CGkR2+2v9zl9w+Ev8NEN61vdvSdCmNpaIOwh6P+CdZfQvG4DbM9Kxx1ei5tYR9/oQQcoJHamHrtvIWD6YX06En7LR7NN9TsRZHQFdDDS/3Dt222saM6pMdHbNvo0eiq5MjKOJFvgD1IdfB2j24ty++RHqNYrvBobgkvwGQBfeJEvom00sBz8KcSdiUuIj2usPRFPB3j44iCSlFYTgOfezRt1FQiPfohikpx+JSaJo8mMWS+wHKgR3OO5YtIjzdZnvJoBrH0be9EaDTSr+FL7KZSs1T4EsKhk9jOtn97dL0QHY4VKBLHaGCIR6OZ717qZiAcK9lmv/BZj24IdcdQAibSiEaOGo9uIHUHEQaNhhpIdMWf8uj6sW+1PQElQB14GQ395tGpr9lU5n0kwx5yTQm6EdStQnHBpAA/0tjmBN3/1K1H8vlkD9E/4MdaJH/EYKiz2a890qPTpM5mw+M8unHUnITJ1eJQjyiPKylhzEcDje4M1C32aJZQUw8/7K1zNAIQmnofZpkUy3MsOzya9gBNfv1pBCB0IjazvZ6gq2LpSyVsXZLz2oz4MQQgZCLa4a/8uzlB+xpL34Rt3evw4whL9ctnUAJ0Aj/BnA0dHMCAGK2euL8givnDPHa/Q3Q2/Yz401oP2uPU6pmjp//zSAHNdv9B4X38ENwZql6MhsMEAasNObgm5ul30kZPh04PxHV5Wt2Wc2Du9rHQ/f0vCi/++lrY4OikRvgfCierTjkC4WhgG9v+LG3WOLR1MFEsh+jlRifUt6tQV6ExT6SNXCvQX7gAUepuT2fdIlVIjyq2bcqz18Y++jv0r8Cs+A1Er5rWLzsdfhMrjsJcP7tCNXr5b6VODc0SDsbdw2DatIPUvv6EOyBpoLDbeQ/49jUc0dK67hR6O1xIjSZ504XVuHeoZh/2CrEQ7hvqk4jemztTmNX8Z0yMYeuY+vb0JboPX7FP7Xt8jGYk6zUg4DyiEHfKQf0yum9r0f2oRaE/xrHzXW1/gHAu7h/mIXl8G1WojlIdw2YKh+L+YRiiCBUL3x1Yc5yk3Ko7oZPRZyHnq2TSu9YBlA80VcohQ4YMGTKUE+4AGSxsn/RCtZgAAAAASUVORK5CYII=);
+    width: 4vw;
+    height: 7vh;
+    margin-left: 6.7vw;
+    position: absolute;
+    margin-top: 3.4vh;
+    background-repeat: no-repeat;
+}
+
+.icon5 {
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAIhSURBVHgB7ZjLK21RHMe/93273XslioEMZGLCQJSUkpKJoZQyIyOllJIM5A9QJmRgYMTAQDKQgTxKSjEzMGGgkJKQt+O7Or9tr8PBeeyzzjqn9alP57TX6/fbj7XX2oAjJorpqliCDKWBntCQeEobkUF8of30AeEEFui8/FfHBqWO1eTQOYSDfqRD9Ks4gMjkcmEpFXQP/m3UFKVOk5SFpG75q/J1+Lei5xoM0kYvZeAtfPxgqwlgU+pe0XatLPSOKecHHdUGnKS/Y2j3i05o7cbpT7wN3EgiRXRDBrqmnYifDmkb0voymkg9PZZB9mk1EqdS+vCCftLKUpaImjb76L0MsEjzkDx50pfq80Y7npJE/tNZ+FPrMMLTalCovnpoi3Ys8ETK6K50ekabYYZAE2mlF9LhDi2FOR5l3FYkgZpaR+CflSn6B2YZ08YfkZjiooCuSAd3tBvpo4veSizqzV8Ua8NaeigN1W8N0k8VPUA4piNa91kDdea97JdpIewhny7Bv0t6o1X6S6cRub75BvtQMekxztB/egVvEXcOgwu1BPHi82JVsb+80NSbehvJLTVMo2JVMd+9VyFTrkgEQS4x0opLxDayJpHvCI5EJ4hAPg25K/IBsZ7hQKd497DbhkvENlwitmEyEbXfTtmXdZOJGN8aJLofibddoOO4Z8Q2XCK24RKxjaxJJNomyOZvWjoRsUe7Iuuwn0yI0ZEdPAPng6QinZKJ5gAAAABJRU5ErkJggg==);
+    width: 4vw;
+    height: 7vh;
+    margin-left:8.5vw;
+    position: absolute;
+    margin-top: -11.5vh;
+    background-repeat: no-repeat;
+}
+
+.icon-task {
+    font-size: 1.2vw;
+    width: 11vw;
+    font-family: 'pm';
+    margin-left: 4vw;
+}
+
+.icon-task-bwh {
+    font-size: 1.2vw;
+    width: 11vw;
+    font-family: 'pm';
+    margin-left: 6vw;
+    margin-top: 4vh;
+}
+
+.footer {
+    display: flex !important;
+    font-family: 'pm' !important;
+    width: 100% !important;
+    grid-auto-flow: row !important;
+    place-items: start;
+    row-gap: 2.5rem;
+    -moz-column-gap: 1rem;
+    column-gap: 1rem;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    background-color: #2b2b2b21 !important;
+    box-shadow: 0 3px 8px #0000001a !important;
+    display: flex !important;
+    padding-top: 3vh !important;
+    padding-bottom: 3vh !important;
+}
+
+.slide {
+    background-color: white;
+    color: #545454;
+    border: 1px solid #000000;
+}
+
+.company {
+    color: #545454;
+    width: 33.3%
+}
+
+.company-title {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    font-family: 'pm' !important;
+    text-align: center;
+}
+
+.link {
+    text-decoration: underline;
+    margin-bottom: 1vw;
+    cursor: pointer;
+    font-weight: 400;
+    font-size: 12px
+}
+
+.cb {
+    color: #545454;
+    font-size: 12px;
+    font-weight: 400
+}
+
+.sosmed {
+    width: 33.3%;
+    justify-content: center;
+    display: flex
+}
+
+.sosmed-title {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+}
+
+.icon {
+    display: flex !important;
+    text-align: center;
+    justify-content: center;
+    
+    cursor: pointer
+}
+
+.mg-svg {
+    margin: 10px
+}
+
+.copyright {
+    color: #545454;
+    padding-top: 1vw !important;
+    font-size: 15px;
+    
+}
+
+.contact {
+    display: flex;
+    width: 33.3%;
+    text-align: center
+}
+
+.contact-title {
+    color: #545454;
+    font-weight: 700;
+    font-size: large;
+    text-align: center;
+    padding-left: 12vw
+}
+
+.button {
+    padding-left: 13.5vw !important;
+    padding-top: 2vh !important;
+}
+
+
+.wa {
+    background: rgb(247,195,60) !important;
+    text-transform: initial !important;
+    border-radius: 30px !important;
+    font-size: 12px !important;
+    color: #000 !important;
+    width: 170px !important;
+    font-weight: 500 !important;
+    border: none;
+}
+
+.lok {
+    color: #fff !important;
+    text-align: center !important;
+    text-transform: initial !important;
+    background: rgb(57,40,99) !important;
+    width: 170px !important;
+    margin-top: 1vh !important;
+    border-radius: 30px !important;
+    font-size: 12px !important; 
+    font-weight: 500 !important;
+}
+
+.wadah-career-img2{
+    width: 33%;
+}
+
+.wadah-career-img3{
+    width: 33%;
+}
+
+@media screen and (max-width: 1420px){
+    .card-bwh {
+        margin-top: 60vh;
+    }
+    .career-button1{
+        margin-top: 300px!important;
+    }
+    
+}
+
+@media screen and (max-width: 1300px){
+    .career-button1{
+        margin-top: 40vh !important;
+    }
+    .card-card {
+        height: 50vh !important;
+        margin-top: 300vw;
+    }
+    .career-button{
+        margin-top: 55px!important;
+    }
+    .career-task1{
+        font-size: larger;
+    }
+    .card-img2 {
+        background-size: 100% 55vh !important;
+    }
+    .card-bwh{
+        margin-top: 50vh;
+    }
+    
+}
+
+@media screen and (max-width: 1200px){
+    .icon1{
+        margin-left: 3.5vw;
+    }
+    .icon2{
+        margin-left: 5.5vw;
+        width: 5vw;
+        height: 7vh
+    }
+    .icon3{
+        width: 5vw;
+        margin-left: 5.5vw;
+    }
+    .icon4{
+        width: 5vw;
+        margin-left: 5.5vw;
+    }
+    .iconbwh{
+        margin-left: 6vw;
+    }
+    .icon5{
+        width: 5vw;
+        margin-left: 8vw;
+    }
+    .card-bwh{
+        height: 35vw !important;
+    }
+    .career-button{
+        margin-top: 55px!important;
+    }
+    .career-task1{
+        font-size: larger;
+    }
+    .card-img2 {
+        background-size: 100% 50vh !important;
+    }
+    .card-img {
+        background-size: 20vw 35vh;
+    }
+    .card-img1 {
+        background-size: 15vw 32vh;
+        margin-bottom: -79px !important;
+    }
+}
+
+@media screen and (max-width: 1100px){
+    .icon1{
+        margin-left: 2.5vw;
+        width: 15vw
+    }
+    .icon2{
+        margin-left: 4.5vw;
+        width: 15vw
+    }
+    .icon3{
+        margin-left: 4.5vw;
+        width: 15vw
+    }
+    .icon4{
+        margin-left: 4.5vw;
+        width: 15vw
+    }
+    .icon5{
+        margin-left: 7.5vw;
+        width: 15vw
+    }
+    .iconbwh{
+        margin-left: 5vw;
+        width: 15vw
+    }
+    .icon-task {
+        font-size: 15px !important;
+        margin-left: 2.5vw
+    }
+    .icon-task-bwh {
+        font-size: 13px !important;
+        margin-left: 5vw
+    }
+    .card-bwh{
+        margin-top: 50vh;
+        height: 50vh !important;
+    }
+    .career-button{
+        margin-top: 65px!important;
+    }
+    .career-task1{
+        font-size: larger;
+    }
+    .card1{
+        height:  240px!important;
+    }
+    .career-button1{
+        margin-top: 205px !important;
+        width: 130px;
+        font-size: 10px !important;
+    }
+    .life-sub{
+        font-size: 10px !important;
+    }
+    .card-img2 {
+        background-size: 100% 45vh !important;
+    }
+    .card-img {
+        background-size: 20vw 30vh;
+    }
+    .card-img1 {
+        background-size: 15vw 25vh;
+        margin-bottom: -125px !important;
+    }
+
+}
+
+@media screen and (max-width: 900px){
+    .icon1{
+        margin-left: 1.5vw;
+    }
+    .icon-task-bwh {
+        margin-top: 1vw
+    }
+    .card1{
+        height: 29vh !important;
+    }
+    .career-button1 {
+        margin-top: 30vh !important;
+    }
+    .career-button{
+        margin-top: 60px!important;
+    }
+    .career-task1{
+        font-size: larger;
+    }
+    .card-task{
+        margin-left:-10px;
+    }
+    .card-img2 {
+        background-size: 100% 45vh !important;
+    }
+    .card-img {
+        background-size: 20vw 28vh;
+    }
+    .card-img1 {
+        background-size: 15vw 25vh;
+        margin-bottom: -125px !important;
+    }
+    
+    
+}
+
+@media screen and (max-width: 850px){
+    /* .navbarcarier{
+        margin-left: -5vw;
+        font-size: smaller;
+        width: 85%;
+    } */
+    .career-button{
+        margin-top: 60px!important;
+    }
+    .career-task1{
+        font-size: larger;
+    }
+    .card-img2 {
+        background-size: 100% 45vh !important;
+    }
+    .card-img {
+        background-size: 20vw 29vh;
+    }
+    .card-img1 {
+        background-size: 15vw 23vh;
+        margin-bottom: -140px !important;
+    }
+}
+
+@media screen and (max-width: 800px){
+    .card1{
+        height: 215px !important;
+    }
+    .card-img2 {
+        display: none !important;
+    }
+    .card-img1 {  
+    margin-bottom: -15vh !important;
+    margin-left: 27vw !important;
+    background-size: 150px;
+    width: 30vw;
+
+    }
+    .card-card {
+        margin-left: 5vw !important;
+        width: 35vw;
+    } 
+    .card-bwh {
+        margin-left: 20vw !important;
+        width: 35vw;
+    } 
+    .wadahcard-ats{
+        margin-left: 15vw;
+    }
+    .icon1{
+        margin-left: 7vw;
+
+    }
+    .icon2{
+        margin-left: 10vw;
+
+    }
+    .icon3{
+        margin-left: 10vw;
+
+    }
+    .icon4{
+        margin-left: 10vw;
+
+    }
+    .icon5{
+        margin-left: 14vw;
+
+    }
+    .iconbwh{
+        margin-left: 11vw;
+    }
+    .icon-task{
+        width: 15vw !important;
+        font-size:medium !important;
+        margin-left: 5vw !important;
+    }
+    .icon-task-bwh{
+        width: 22vw;
+        font-size:14px;
+        margin-left: 8vw;
+    }
+    .card-task{
+        margin-left: -12px;
+        font-size: 10px; 
+    }
+    .card-img{
+        margin-left: 9vw;
+    background-size: 212px;
+    width: 30vw;
+    margin-top: 50px;
+    }
+    .card-img1{
+        margin-bottom: -190px!important;
+    }
+    /* .navbarcarier{
+        margin-left: -5vw;
+        font-size: 10px;
+        width: 85%;
+    } */
+    .career{
+        height: 85vh;
+    }
+    .career1{
+        height: 55vh;
+    }
+    .life-title{
+        margin-left: -30vw;
+        width: 50vw;
+        margin-top: 1300px;
+    }
+    .life-sub{
+        margin-left: -50vw;
+        font-size: medium;
+        width: 50vw;
+    }
+    .life-button {
+        font-size: 8px !important;
+        top: -15vh !important;
+        margin-left: 85px;
+        position: relative
+    }
+    /* .footer{
+        display: none !important;
+    } */
+    .career-button1{
+        font-size: 14px !important;
+        margin-top: 195px !important;
+        
+    }
+    .career-button{
+        margin-top: 20px!important;
+    }
+    .career-task1{
+        font-size: 18px!important;
+    }
+}
+
+@media screen and (max-width: 680px){
+    .logobc{
+        margin-left: 2px;
+    }
+    .card-task {
+        margin-left: -2vw;
+        font-size: 10px;
+    }
+    .card-button {
+        font-size: 10px !important;
+    }
+    .card1{
+        height: 28vh !important;
+    }
+    .career-button1{
+        margin-top: 25vh!important;
+    }
+    .card-img {
+        background-size: 165px;
+    }
+    .career1{
+        margin-top: 100px !important;
+        width: 65%;
+    height: 45%;
+    }
+    .career{
+        background-size: 100% 65vh;
+    }
+    .img-judul{
+        margin-top: -105px!important;
+    }
+}
+
+@media screen and (max-width: 660px){
+    .card-img1 {  
+        margin-bottom: -18vh !important;
+        background-size: 150px;
+    }
+    .card-card{
+        height: 375px!important;
+    }
+    .icon-task{
+        margin-top: -60px;
+        font-size: 14px;
+    }
+    .icon1{
+        background-size: 80px;
+        margin-left: 30px;
+        width: 35vw;
+        height: 28vw;
+    }
+    .icon2{
+        margin-left: 52px;
+        margin-top: 25px;
+        background-size: 35px;
+    }
+    .icon3{
+        margin-left: 52px;
+        margin-top: 25px;
+        background-size: 35px;
+    }
+    .icon4{
+        margin-left: 52px;
+    margin-top: 25px;
+    background-size: 35px;
+    }
+    .icon5{
+        margin-left: 90px;
+        margin-top: -98px;
+        background-size: 35px;
+    }
+    .iconbwh{
+        background-size: 83px;
+    width: 35vw;
+    margin-left: 65px;
+    }
+    .career1{
+        height: 43vh;
+        width: 500px;
+        margin-top: 85px !important;
+    }
+    .career{
+        background-size: 100% 60vh !important;
+        height: 92vh;
+    }
+    .life-title{
+        margin-top: 1185px;
+    }
+    .card1{
+        margin-top: 140px !important;
+        height: 24vh !important;
+        width: 160px !important;
+        margin-left: 5px !important;
+    }
+    .card-task{
+        font-size: 9px !important;
+    margin-left: -9px;
+    }
+    .career-button{
+        margin-top: 20px!important;
+    }
+    .card-img1{
+        margin-bottom: -190px!important;
+    }
+    .card-bwh{
+        margin-top: 420px;
+        height: 405px !important;
+    }
+    .img-judul{
+        margin-top: -170px!important;
+    }
+    .career-task {
+        font-size: 30px !important;
+    }
+    .career-task1 {
+        margin-top: 15px;
+    width: 62% !important;
+    font-size: 16px !important;
+    }
+    .career-img1 {
+        background-size: 100% 25vw;
+    }
+    .career-img2 {
+        background-size: 100% 25vw;
+    }
+    .career-img3 {
+        background-size: 100% 25vw;
+    }
+    .career-button1{
+        font-size: 14px !important;
+        margin-top: 20% !important;
+        margin-bottom: 20px !important;
+        margin-left: 39% !important;
+    }
+}
+
+@media screen and (max-width: 555px){
+    .card1{
+        height: 28vh !important;
+        width: 130px !important;
+        margin-left: 8px !important;
+    }
+    .card-titel{
+        margin-left: -12px !important;
+        font-size: 14px !important;
+    }
+    .card-task{
+        margin-left: -14px !important;
+        font-size: 10px;
+    }
+    .icon1{
+        margin-left: 5px;
+    }
+    .icon2{
+        margin-left: 28px;
+    }
+    .icon3{
+        margin-left: 28px;
+    }
+    .icon4{
+        margin-left: 28px;
+    }
+    .iconbwh{
+        margin-left: 38px;
+    }
+    .icon5{
+        margin-left: 60px;
+    }
+    .icon-task{
+        font-size: 10px!important;
+        margin-top: -25px !important;
+        width: 80% !important;
+        margin-left: 4px !important;
+    }
+    .card-img1{
+        background-size: 140px;
+    }
+    .card-img{
+        margin-left: 20px;
+    }
+    .life-button{
+        margin-top: 15px !important;
+    }
+}
+
+@media screen and (max-width: 555px){
+    .card1{
+        width: 90.3% !important;
+        margin-top: 25% !important;
+        margin-left: 0px !important;
+        height: 170px !important;
+    }
+    .career-button1{
+        width: 27vw !important;
+    margin-bottom: 4vh !important;
+    margin-left: 35% !important;
+    font-size: 11px !important
+    }
+    .icon1{
+        margin-top: -20% !important;
+    margin-left: -2px;
+    }
+    .icon2{
+        margin-left: 20px;
+        margin-top: 1.5px !important;
+    }
+    .icon3{
+        margin-left: 20px;
+        margin-top: 2.5px !important;
+    }
+    .icon4{
+        margin-left: 20px;
+        margin-top: 1.5px !important;
+    }
+    .iconbwh{
+        margin-left: 25px
+    }
+    .icon5{
+        margin-left: 48px;
+        margin-top: -96px;
+    }
+    .career1{
+        width: 360px;
+        height: 300px;
+        margin-top: 50px !important;
+        margin-left: 6vw !important;
+    }
+    .career-button{
+        margin-top: 25px !important;
+    height: 45px !important;
+    width: 100px !important;
+    font-size: 14px !important;
+    margin-left: 2px !important;
+    }
+    .career-task1{
+        font-size: 13px !important;
+        font-weight: 500 !important;
+        margin-top:10px;
+    }
+    .career-task{
+        font-size: 28px !important;
+    }
+    .icon-task{
+        font-size: 10px!important;
+        margin-top: -25px;
+        width: 125%;
+        margin-left: -13px;
+    }
+    .card-img{
+        margin-left: 40px;
+        background-size: 130px;
+        margin-top: 35px;
+    }
+    .card-img1{
+        margin-bottom: -222px !important;
+        background-size: 120px;
+    }
+    .life-title{
+        margin-top: 835px!important;
+    }
+    .card-card{
+        height: 245px!important;
+    }
+    .card-bwh{
+        height: 270px!important;
+        margin-top: 250px;
+    }
+    .career{
+        background-size: 100% 58vh !important;
+        height: 420px;
+        width: 100%;
+    }
+    .img-judul{
+        margin-top: 3vh !important;
+        margin-bottom: -6vh !important;
+    }
+    .icon-task-bwh {
+        margin-left: 30px;
+        margin-top: -10px;
+        font-size: 9px !important;
+    }
+    .card-task{
+        font-size: 14px !important;
+        width: 78%;
+        margin-left: 30px !important;
+    }
+    .wadah-img-judul{
+        display: inline;
+    }
+    .career-img1{
+        width: 95% !important;
+        margin-top: 80px;
+        background-size: 95%;
+        margin-left: 5vw !important;
+    }
+
+    .career-img2{
+        width: 95% !important;
+        margin-top: 80px;
+        background-size: 95%;
+        margin-left: 5vw !important;
+    }
+
+    .career-img3{
+        width: 95% !important;
+        margin-top: 80px;
+        background-size: 95%;
+        margin-left: 5vw !important;
+    }
+
+    .isi-img-judul{
+        width: 100%;
+    }
+    .wadah-career-img2{
+        width: 100%;
+    }
+
+    .wadah-career-img3{
+        width: 100%;
+    }
+    .card-button{
+        margin-left: -13px;
+    }
+}
+
+@media screen and (max-width: 420px){
+    .card1{
+        width: 90.3% !important;
+        margin-top: 25% !important;
+        margin-left: 0px !important;
+        height: 180px !important;
+
+    }
+    .card-button{
+        margin-left: 32%;
+        margin-top: 5%;
+        height: 45px !important;
+        width: 100px;
+    }
+    .card-task{
+        font-size: 14px !important;
+        width: 78%;
+        margin-left: 30px !important;
+    }
+    .career-button1{
+        margin-bottom: 10%!important;
+        font-size: 8px!important;
+        width: 28% !important;
+        margin-left: 33% !important;
+        height: 40px !important;
+    } 
+    .career{
+        background-size: 100% 48vh !important;
+        height: 105vw;
+    }
+    .career1{
+        width: 250px !important;
+        margin-top: 50px!important;
+    }
+    .img-judul{
+        margin-top: 0%!important;
+        margin-bottom: -45px!important;
+    }
+    .card-titel{
+        margin-left: -15px !important;
+        font-size: 12.5px !important;
+    }
+    .icon-task{
+        width: 145%;
+        font-size: 8px !important;
+        margin-top: -20px;
+    }
+    .icon-task-bwh{
+        margin-left: 11%;
+        margin-top: -34px;
+        font-size: 9px !important;
+        width: 80%;
+    }
+    .life-button{
+        margin-top: 50% !important;
+    height: 5% !important;
+    width: 45% !important;
+    margin-left: 35px;
+    }
+    .card-img{
+        display: none !important;
+        /* margin-left: 20px;
+        margin-top: 20px;
+        background-size: 100px; */
+    }
+    .life-title{
+        margin-top: 560px!important;
+    }
+    .icon1{
+        background-size: 50%;
+    margin-left: -5px;
+    }
+    .icon2{
+        margin-top: 2% !important;
+        margin-left: 14px;
+        background-size: 48% !important;
+    }
+    .icon3{
+        margin-top: 2% !important;
+        margin-left: 14px;
+        background-size: 48% !important;
+    }
+    .icon4{
+        margin-top: 6% !important;
+    margin-left: 14px;
+    background-size: 48% !important;
+    }
+    .icon5{
+        margin-left: 49px;
+        margin-top: -100px;
+        background-size: 28px;
+    }
+    .iconbwh{
+        background-size: 51%;
+        margin-left: 28px;
+    }
+    .card-img1{
+        display: none !important;
+        /* background-size: 100px;
+        margin-left:90px!important;
+        margin-bottom: -270px!important; */
+    }
+    .wadahcard-ats{
+        margin-top: 33px;
+    }
+    .card-card{
+        height: 230px!important;
+    }
+    .card-bwh{
+        margin-top: 263px !important;
+        height: 230px !important;
+    }
+    .career-task1 {
+        font-size: 12px !important;
+        font-weight: 500 !important;
+        margin-top: 10px;
+        width: 105% !important;
+    }
+    .career-task {
+        font-size: 22px !important;
+    }
+}
+
+@media screen and (max-width: 360px){
+    .icon5{
+        margin-left: 43px !important;
+        margin-top: -106px !important;
+    }
+}
+
+@media screen and (min-width: 1420px){
+    .wadahcard-ats{
+        margin-bottom: 570px !important;
+    }
+    .career-button1{
+        margin-top: 300px!important;
+    }
+    .card-bwh{
+        margin-top: -10vh;
+    }
+}
+
+@media screen and (min-width: 1580px){
+    .card1{
+        margin-left: 20px!important;
+    }
+}
+
+@media screen and (min-width: 1700px){
+    .card1{
+        margin-left: 10px!important;
+    }
+    .career-img2 {
+        background-size: 79%;
+    }
+    .career-img1 {
+        background-size: 79%;
+    }
+    .career-img3 {
+        background-size: 79%;
+    }
+}

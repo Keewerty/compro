@@ -1,0 +1,410 @@
+.logobc {
+    background: url(../assets/logo.png);
+    height: 11vh;
+    width: 8vw;
+    margin-bottom: -11px !important;
+    margin-left: 6vw;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain
+}
+
+.nav {
+    color: #4e4e4e;
+    font-weight: 700;
+    pointer-events: fill;
+    margin-right: 3vw
+}
+
+.nav:hover {
+    color: #e08e13;
+    font-weight: 700;
+    pointer-events: fill
+}
+
+.login {
+    background-color: #e08e13 !important;
+    width: 7vw !important;
+    height: 5vh !important;
+    color: #fff !important;
+    margin-top: -0.5vh !important;
+    position: relative !important;
+    margin-right: 2vw !important;
+    text-transform: initial !important;
+    border-radius: 30px !important;
+    font-size: 15px !important;
+    width: 95px !important;
+    font-weight: 500 !important;
+    border: none !important;
+}
+
+.btnw:hover {
+    background-color: #000
+}
+
+.navbar {
+    box-shadow: -3px -1px 12px #00000047, 0 -2px 2px #00000024, -1px -5px 5px #0000001f;
+    display: flex;
+    height: 13vh;
+    width: 100%;
+    position: fixed;
+    background-color: #fff;
+    z-index: 999999;
+    color: #4e4e4e;
+    font-weight: 700;
+    font-size: 15px;
+    height: -moz-fit-content;
+    height: fit-content
+}
+
+
+
+.explore {
+    text-align: center;
+    margin-top: -46vh;
+    font-size: 3vw;
+    font-weight: 400;
+    color: #ffffff;
+    width: 78vw;
+    margin-left: 15vw;
+
+}
+
+.phone {
+    margin-left: 44vw;
+    margin-top: 5vh;
+}
+
+.latestblog {
+    font-size: 2.5vw;
+    font-weight: 500;
+    margin-top: 15vw;
+    color: #949494;
+    margin-left: 4vw;
+}
+.logicon1 {
+    position: absolute;
+    background: url(../assets/logo.png);
+    height: 11vh;
+    width: 8vw;
+    margin-left: 1vw;
+    background-repeat: no-repeat;
+    margin-top: 2vh
+}
+
+.logicon2 {
+    background: url(../assets/wong.png);
+    background-repeat: no-repeat;
+    width: 22vw;
+    height: 70vh;
+    margin-left: 6vw;
+    position: absolute;
+    margin-top: 10vh
+}
+
+
+.circle {
+    float: left;
+    width: 83vw;
+    height: -webkit-fill-available !important;
+    shape-outside: circle(50% at 30%);
+    -webkit-clip-path: circle(50% at 0%);
+    clip-path: circle(50% at 0%);
+    background: #D9D9D9;
+    position: absolute;
+    border-radius: 18px;
+}
+.head {
+    text-align: justify;
+    color: #fff;
+    margin-top: 12vh;
+    margin-left: 3vw
+}
+
+.sign-in {
+    width: 397px;
+    height: 35px !important;
+    border-radius: 30px !important;
+    background: linear-gradient(206.63deg,#4A7BDB,#1749AB);
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    color: #fff !important;
+    text-transform: initial !important;
+    border: none;
+    margin-top: 5vh;
+}
+
+.sign-up {
+    width: 119px!important;
+    height: 12px!important;
+    border-radius: 30px!important;
+    color: #fff!important;
+    text-transform: initial!important;
+    font-size: 15px!important;
+    margin-left: 24vw!important;
+    margin-top: 1vh!important;
+
+}
+
+
+.kolom {
+    padding-top: 6vh
+}
+
+
+.logicon1 {
+    position: absolute;
+    background: url(../assets/logo.png);
+    height: 11vh;
+    width: 8vw;
+    margin-left: 1vw;
+    background-repeat: no-repeat;
+    margin-top: 2vh
+}
+
+.logicon2 {
+    background: url(../assets/wong.png);
+    background-repeat: no-repeat;
+    width: 22vw;
+    height: 70vh;
+    margin-left: 6vw;
+    position: absolute;
+    margin-top: 10vh
+}
+
+.logicon3 {
+    background: url(./robot-b96ba859.png)!important;
+    background-repeat: no-repeat!important;
+    height: 54%;
+    margin-left: 25.5vw!important;
+    margin-top: 20vw;
+    width: 100%;
+    position: relative;
+    display: block;
+}
+
+.head {
+    text-align: justify;
+    color: #fff;
+    margin-top: 12vh;
+    margin-left: 3vw
+}
+
+.sign-in {
+    width: 397px;
+    height: 35px !important;
+    border-radius: 30px !important;
+    background: linear-gradient(206.63deg,#4A7BDB,#1749AB);
+    font-weight: 500 !important;
+    font-size: 20px !important;
+    color: #fff !important;
+    text-transform: initial !important;
+    border: none;
+    margin-top: 5vh;
+}
+.ehmm2 {
+    width: 50% !important;
+    height: 50% !important;
+    margin-left: 7vw;
+    margin-bottom: 1vw;
+    margin-top: 8vw;
+    background-size: 100% 92vh;
+    background-repeat: no-repeat;
+    background-image: url(../assets/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+    transition: all 0.5s;
+    border-radius: 10px;
+    
+}
+
+.ehmmm{
+     margin-left: 7vw;
+    margin-bottom: 1vw;
+}
+.side1 {
+    /* border-radius: 10px 10px 0 0; */
+    margin-left: 6vw;
+    margin-bottom: 3vw;
+    margin-top: 8vw;
+    padding: 10px 70px 12px 70px;
+    text-align: left;
+    font-size: 19px;
+    color: #ffffff;
+    background-color: #e08e13;
+    font-weight: 500;
+}
+
+.logos {
+    background-image: url(../assets/logo.png);
+    margin-left: 10vw;
+    width: 55%;
+    height: 30vh;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+
+}
+
+.bawah {
+    margin-left: 6vw;
+    margin-bottom: 3vw;
+    padding: 10px 40px 12px 40px;
+    text-align: left;
+    font-size: 19px;
+    color: #ffffff;
+    background-color: #e08e13;
+    font-weight: 500;
+}
+
+/* .ehmm2:hover {
+    transform: scale(1.1);
+    
+} */
+
+.sosmedd {
+    margin-left: 8vw;
+    margin-bottom: 3vw;
+}
+
+@media only screen and (max-width: 1096px) {
+.ehmm2 {
+    width: 50% !important;
+    height: 50% !important;
+    margin-left: 9vw;
+    margin-bottom: 1vw;
+    margin-top: 10vw;
+    background-size: 100% 92vh;
+    background-repeat: no-repeat;
+    background-image: url(../assets/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+    transition: all 0.5s;
+    border-radius: 10px;
+    
+}
+
+.ehmmm{
+    margin-left: 10vw;
+   margin-bottom: 1vw;
+}
+
+
+
+}
+
+@media only screen and (max-width: 908px) {
+    .ehmm2 {
+        width: 50% !important;
+        height: 50% !important;
+        margin-left: 11vw;
+        margin-bottom: 1vw;
+        margin-top: 14vw;
+        background-size: 100% 92vh;
+        background-repeat: no-repeat;
+        background-image: url(../assets/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+        transition: all 0.5s;
+        border-radius: 10px;
+        
+    }
+    
+    .ehmmm{
+        margin-left: 10vw;
+       margin-bottom: 1vw;
+    }
+    
+    
+    
+    }
+
+    @media only screen and (max-width: 612px) {
+        .ehmm2 {
+            width: 50% !important;
+            height: 50% !important;
+            margin-left: 10vw;
+            margin-bottom: 1vw;
+            margin-top: 18vw;
+            background-size: 100% 92vh;
+            background-repeat: no-repeat;
+            background-image: url(../assets/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+            transition: all 0.5s;
+            border-radius: 10px;
+            
+        }
+        
+        .ehmmm{
+            margin-left: 10vw;
+           margin-bottom: 1vw;
+        }
+        
+        
+        
+        }
+
+        @media only screen and (max-width: 550px) {
+            .ehmm2 {
+                width: 50% !important;
+                height: 50% !important;
+                margin-left: 10vw;
+                margin-bottom: 1vw;
+                margin-top: 24vw;
+                background-size: 100% 92vh;
+                background-repeat: no-repeat;
+                background-image: url(../assets/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+                transition: all 0.5s;
+                border-radius: 10px;
+                
+            }
+            
+            .ehmmm{
+                margin-left: 10vw;
+               margin-bottom: 1vw;
+            }
+            
+            
+            
+            }
+
+            @media only screen and (max-width: 430px) {
+                .ehmm2 {
+                    width: 50% !important;
+                    height: 50% !important;
+                    margin-left: 10vw;
+                    margin-bottom: 1vw;
+                    margin-top: 27vw;
+                    background-size: 100% 92vh;
+                    background-repeat: no-repeat;
+                    background-image: url(../assets/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+                    transition: all 0.5s;
+                    border-radius: 10px;
+                    
+                }
+                
+                .ehmmm{
+                    margin-left: 10vw;
+                   margin-bottom: 1vw;
+                }
+                
+                
+                
+                }
+
+                @media only screen and (max-width: 310px) {
+                    .ehmm2 {
+                        width: 50% !important;
+                        height: 50% !important;
+                        margin-left: 10vw;
+                        margin-bottom: 1vw;
+                        margin-top: 37vw;
+                        background-size: 100% 92vh;
+                        background-repeat: no-repeat;
+                        background-image: url(../assets/ilya-pavlov-OqtafYT5kTw-unsplash.jpg);
+                        transition: all 0.5s;
+                        border-radius: 10px;
+                        
+                    }
+                    
+                    .ehmmm{
+                        margin-left: 10vw;
+                       margin-bottom: 1vw;
+                    }
+                    
+                    
+                    
+                    }

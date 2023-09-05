@@ -1,0 +1,500 @@
+.logobc {
+  background: url(../assets/logo.png);
+  height: 11vh !important;
+  width: 8vw !important;
+  margin-bottom: -11px !important;
+  margin-left: 6vw !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+  background-size: contain !important;
+}
+
+.nav {
+  color: #4e4e4e !important;
+  font-weight: 700 !important;
+  pointer-events: fill !important;
+  margin-right: 3vw !important;
+}
+
+.nav:hover {
+  color: #e08e13 !important;
+  font-weight: 700 !important;
+  pointer-events: fill !important;
+}
+
+.login {
+  background-color: #e08e13 !important;
+  width: 7vw !important;
+  height: 5vh !important;
+  color: #fff !important;
+  margin-top: -0.5vh !important;
+  position: relative !important;
+  margin-right: 2vw !important;
+  text-transform: initial !important;
+  border-radius: 30px !important;
+  font-size: 15px !important;
+  width: 95px !important;
+  font-weight: 500 !important;
+  border: none !important;
+}
+
+.login-card-modal{
+  width: 80vw !important;
+  height: 80vh !important;
+  margin-top: 12vh !important;
+  border-radius: 10px !important;
+  background: rgba(56, 56, 56, 0.40) !important;
+  box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.30) !important;
+  backdrop-filter: blur(25px) !important;
+}
+
+.btnw:hover {
+  background-color: #000 !important;
+}
+
+.navbar {
+  box-shadow: -3px -1px 12px #00000047, 0 -2px 2px #00000024, -1px -5px 5px #0000001f !important;
+  display: flex !important;
+  height: 13vh !important;
+  width: 100% !important;
+  position: fixed !important;
+  background-color: #fff !important;
+  z-index: 999999 !important;
+  color: #4e4e4e !important;
+  font-weight: 700 !important;
+  font-size: 15px !important;
+  height: -moz-fit-content !important;
+  height: fit-content !important;
+}
+
+.left-modal-card{
+  width: 50% !important;
+}
+
+.right-modal-card{
+  width: 50% !important;
+}
+
+.the-login-modal{
+  display:flex !important;
+  flex-direction: row !important;
+  width:100% !important;
+}
+
+.logicon1{
+  position: absolute !important;
+  background: url(/src/assets/logo.png) !important;
+  height: 60px !important;
+  width: 100px !important;
+  margin: 1vh 0 !important;
+  background-repeat: no-repeat !important;
+}
+
+.logicon2 {
+  background: url(../assets/wong.png) !important;
+  background-repeat: no-repeat !important;
+  width: 23vw !important;
+  height: 75vh !important;
+  margin-left: 6vw !important;
+  position: absolute !important;
+  margin-top: 10vh !important;
+}
+
+.logicon3 {
+  background: url(./robot-b96ba859.png)!important;
+  background-repeat: no-repeat!important;
+  height: 54%;
+  margin-left: 25.5vw!important;
+  margin-top: 20vw;
+  width: 100%;
+  position: relative;
+  display: block;
+}
+
+.circle {
+  float: left !important;
+  width: 83vw !important;
+  height: -webkit-fill-available !important;
+  shape-outside: circle(50% at 30%) !important;
+  -webkit-clip-path: circle(50% at 0%) !important;
+  clip-path: circle(50% at 0%) !important;
+  background: #D9D9D9 !important;
+  position: absolute !important;
+  border-radius: 18px !important;
+}
+
+.modal-action1{
+  display: none !important;
+}
+
+.head {
+  text-align: justify !important;
+  color: #fff !important;
+  margin-top: 12vh !important;
+  display: block !important;
+}
+
+.kolom {
+  padding-top: 6vh !important;
+}
+
+.input{
+  width: 397px !important;
+  height:43px !important;
+  border-radius: 30px !important;
+  margin: 1vh 0 !important;
+  background-color: #ffffff !important;
+  color: #010101 !important;
+  text-align: center !important;
+}
+
+.sign-in{
+  width: 397px !important;
+  height: 35px !important;
+  border-radius: 30px !important;
+  background: linear-gradient(206.63deg,#4A7BDB,#1749AB) !important;
+  font-weight: 500 !important;
+  font-size: 20px !important;
+  color: #fff !important;
+  text-transform: initial !important;
+  border: none !important;
+  margin-top: 5vh !important;
+}
+
+.signup{
+  display: flex !important;
+  width: 119px!important;
+  height: 12px!important;
+  border-radius: 30px!important;
+  color: #fff!important;
+  text-transform: initial!important;
+  font-size: 15px!important;
+  margin-left: 24vw;
+  margin-top: 1vh;
+}
+
+@media screen and (max-width:950px){
+  .input{
+      width: 75vw !important;
+  }
+  .sign-up{
+      margin: 3vh 0 !important;
+  }
+  .sign-in{
+      width: 75vw !important;
+  }
+  .modal-action1{
+      display: flex !important;
+      justify-content: flex-end !important;
+  }
+  .modal-action{
+      display: none !important;
+  }
+  .the-login-modal{
+      display:flex !important;
+      flex-direction: column !important;
+  }
+  .login-card-modal{
+      width: 85% !important;
+      height: 85% !important;
+  }
+  .left-modal-card{
+      width: 100% !important;
+      display: flex !important;
+      justify-content: center !important;
+  }
+  .right-modal-card{
+      width: 100% !important;
+  }
+  .circle{
+      display: none !important;
+  }
+  .logicon1{
+      display: none;
+  }
+  .logicon2{
+      position: unset !important;
+      margin: 0 !important;
+      background: url(../assets/wong_1.png) !important;
+      background-repeat: no-repeat !important;
+      display: block;
+      width: 152px !important;
+      height: 123px !important;
+  }
+  .logicon3{
+      display: none !important;
+  }
+  .head{
+      margin: 0 !important;
+      display: flex !important;
+      flex-direction: column !important;
+      align-items: center !important;
+  }
+  .kolom{
+      display: flex !important;
+      flex-direction: column !important;
+      align-items: center !important;
+  }
+}
+
+.reg1 {
+  font-size: 3vw;
+  color: #000
+}
+
+.reg2 {
+  margin-top: 1vh
+}
+
+.reg3 {
+  margin-left: 5vw;
+  margin-top: 6vh
+}
+
+.step1 {
+  width: 30vw;
+}
+
+.reg4 {
+  margin-left: 4vw;
+  margin-top: 7vh;
+  font-size: 2vw;
+  color: #000;
+  margin-bottom: 4vw;
+  font-weight: 700;
+}
+
+.in {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #545454;
+  font-size: 15px;
+  width: 100vw;
+}
+
+.up-btn {
+  width: 190px;
+  height: 50px;
+  margin: 2vh auto;
+  text-transform: initial;
+  font-size: 15px !important;
+  background-color: #d9d9d9 !important;
+  color: #505050 !important;
+}
+
+#file-form label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 700
+}
+
+#file-form input[type=file] {
+  width: 70vw;
+  height: 50px;
+  padding: 8px;
+  margin: 2vh 2vw;
+  border: 1px solid #545454;
+  border-radius: 5px
+}
+
+.cv {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  color: #918f8f
+}
+
+.su-btn {
+  width: 135px;
+  height: 56px;
+  left: 653px;
+  top: 1012px;
+  background: #082032 !important;
+  box-shadow: 0 3px 4px #0000001a;
+  border-radius: 30px !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  align-items: center;
+  text-transform: initial;
+  color: #fff !important;
+  margin: 5vh auto;
+  -webkit-border-radius: 30px !important;
+  -moz-border-radius: 30px !important;
+  -ms-border-radius: 30px !important;
+  -o-border-radius: 30px !important;
+}
+
+
+.brows{
+  display: block !important;
+}
+
+
+.footer {
+  display: flex !important;
+  width: 100% !important;
+  grid-auto-flow: row !important;
+  place-items: start;
+  row-gap: 2.5rem;
+  -moz-column-gap: 1rem;
+  column-gap: 1rem;
+  font-size: .875rem;
+  line-height: 1.25rem;
+  background-color: #2b2b2b21 !important;
+  box-shadow: 0 3px 8px #0000001a !important;
+  display: flex !important;
+  padding-top: 3vh !important;
+  padding-bottom: 3vh !important;
+}
+
+.slide {
+  background-color: white;
+  color: #545454;
+  border: 1px solid #000000;
+}
+
+.company {
+  color: #545454;
+  width: 33.3%
+}
+
+.company-title {
+  color: #545454;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+}
+
+.link {
+  text-decoration: underline;
+  margin-bottom: 1vw;
+  cursor: pointer;
+  font-weight: 400;
+  font-size: 12px
+}
+
+.cb {
+  color: #545454;
+  font-size: 12px;
+  font-weight: 400
+}
+
+.sosmed {
+  width: 33.3%;
+  justify-content: center;
+  display: flex
+}
+
+.sosmed-title {
+  color: #545454;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+}
+
+.icon {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding-top: 2.5vw;
+  cursor: pointer
+}
+
+.mg-svg {
+  margin: 10px
+}
+
+.copyright {
+  color: #545454;
+  padding-top: 1vw !important;
+  font-size: 15px;
+  
+}
+
+
+.contact {
+  display: flex;
+  width: 33.3%;
+  text-align: center
+}
+
+.contact-title {
+  color: #545454;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+  padding-left: 12vw
+}
+
+.button {
+  padding-left: 12.5vw;
+  padding-top: 6vh
+}
+
+.wa {
+  background: rgb(247,195,60) !important;
+  text-transform: initial !important;
+  border-radius: 30px !important;
+  font-size: 12px !important;
+  color: #000 !important;
+  width: 170px !important;
+  font-weight: 500;
+  border: none;
+}
+
+.lok {
+  color: #fff !important;
+  text-align: center !important;
+  text-transform: initial !important;
+  background: rgb(57,40,99) !important;
+  width: 170px !important;
+  margin-top: 1vh !important;
+  border-radius: 30px !important;
+  font-size: 12px !important; 
+}
+
+.input-reg-top{
+  width:90vw;
+  height:50px;
+  border: 1px solid #545454;
+  margin: 2vh auto;
+}
+
+.input-reg-bottom{
+  width:40vw;
+  height:50px;
+  border: 1px solid #545454;
+  margin: 2vh auto;
+}
+
+.reg-input-top{
+  margin: 2vh 0 !important;
+  width:85vw !important;
+  height:50px !important;
+  border: 1px solid #545454 !important;
+}
+
+.reg-input-bottom{
+  width: 40vw !important;
+  height:50px !important;
+  margin: 2vh 2.5vw !important;
+  border: 1px solid #545454 !important;
+}
+
+#file-form{
+  display: flex;
+}
+
+@media screen and (max-width: 700px) {
+  #file-form .up-btn{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 850px){
+  .brows{
+    display: none !important;
+  }
+}
